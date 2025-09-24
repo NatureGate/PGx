@@ -1,0 +1,93 @@
+drug,drug_id,gene,diplotype,ref_guide,implications,recommendation,classification
+atazanavir,PA10251,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+belinostat,PA165971474,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+dolutegravir,PA166114961,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+irinotecan,PA450085,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,This genetic variation (*1/*28) is more common in Western populations than the wild-type (*1/*1). This means that treatment is largely geared to patients with this genetic variation. Adjustment of the treatment is therefore not useful. Note that DPWG considers the *36 allele to be clinically equivalent to the *1 allele.,NO action is needed for this gene-drug interaction.,Unspecified
+nilotinib,PA165958345,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+pazopanib,PA165291492,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+raltegravir,PA164888966,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+sacituzumab govitecan,PA166225061,UGT1A1,*1/*80+*28,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+warfarin,PA451906,VKORC1,rs9923231 variant (T)/rs9923231 variant (T),DPWG Guideline Annotation,"The genetic variation results in increased sensitivity to warfarin. This results in an increase in the risk of excessively severe inhibition of blood clotting (INR > 4) during the
+first month of the treatment.","Use 60% of the standard initial dose.
+The genotype-specific initial dose and maintenance dose can be calculated using an algorithm, as used in EU-PACT: see
+https://www.knmp.nl/patientenzorg/medicatiebewaking/farmacogenetica.
+From day 6 on the standard algorithm without genotype information can be used to calculate the dose.",Unspecified
+carbamazepine,PA448785,HLA-A,Unknown/Unknown,DPWG Guideline Annotation,,,
+,,NAT2,,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+acetaminophen ,PA166246281,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+ caffeine ,PA166246281,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+ dihydrocodeine,PA166246281,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+amitriptyline,PA448385,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+amoxapine,PA448405,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+amphetamine,PA448408,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+aripiprazole,PA10026,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+aripiprazole lauroxil,PA166161216,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+atomoxetine,PA134688071,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+brexpiprazole,PA166160053,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+carvedilol,PA448817,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+cevimeline,PA164754754,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+clomipramine,PA449048,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+clozapine,PA449061,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+codeine,PA449088,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+darifenacin,PA164774901,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+desipramine,PA449233,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+deutetrabenazine,PA166169881,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+dextromethorphan ,PA166175998,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+ quinidine,PA166175998,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+dextromethorphan hydrobromide ,PA166278341,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+ bupropion hydrochloride,PA166278341,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+donepezil,PA449394,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+doxepin,PA449409,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+eliglustat,PA166123486,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+fesoterodine,PA165958376,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+fluoxetine,PA449673,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+fluvoxamine,PA449690,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+galantamine,PA449726,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+gefitinib,PA131301952,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+hydrocodone,PA449900,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+iloperidone,PA161199368,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+imipramine,PA449969,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+lofexidine,PA164744510,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+meclizine,PA450338,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+metoclopramide,PA450475,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+metoprolol,PA450480,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+mirabegron,PA166177513,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+nebivolol,PA151958426,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+nortriptyline,PA450657,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+oliceridine,PA166223601,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+ondansetron,PA450705,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+paroxetine,PA450801,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+perphenazine,PA450882,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+pimozide,PA450965,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+pitolisant,PA166185163,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+propafenone,PA451131,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+propranolol,PA451145,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+protriptyline,PA451168,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+risperidone,PA451257,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+tamoxifen,PA451581,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+tamsulosin,PA451583,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+tetrabenazine,PA140222719,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+thioridazine,PA451666,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+tolterodine,PA164746757,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+tramadol,PA451735,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+trimipramine,PA451791,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+tropisetron,PA161925594,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+valbenazine,PA166170051,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+venlafaxine,PA451866,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,,,
+viloxazine,PA166251581,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+vortioxetine,PA166122595,CYP2D6,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+desflurane,PA164749136,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+enflurane,PA449461,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+halothane,PA449845,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+isoflurane,PA450106,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+methoxyflurane,PA450434,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+sevoflurane,PA451341,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+succinylcholine,PA451522,RYR1,Reference/Reference,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+abacavir,PA448004,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,,,
+allopurinol,PA448320,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+carbamazepine,PA448785,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,,,
+fosphenytoin,PA164746820,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+oxcarbazepine,PA450732,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,,,
+pazopanib,PA165291492,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,Not Found,Not Found,Not Found
+phenytoin,PA450947,HLA-B,Unknown/Unknown,DPWG Guideline Annotation,,,
+rosuvastatin,PA134308647,ABCG2,rs2231142 reference (G)/rs2231142 variant (T),DPWG Guideline Annotation,Not Found,Not Found,Not Found

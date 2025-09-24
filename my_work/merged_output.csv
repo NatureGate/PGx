@@ -1,0 +1,305 @@
+gene	diplotype	lookupkey	drug	drugid	suggest	advice	ref_guide	sample	gatkscore	depth	readsratio	cHGVS	pHGVS	zyg	rsID	location	effect	guide
+ABCG2	rs2231142 reference (G)/rs2231142 reference (G)	Normal Function	allopurinol	PA448320	"<p>The guideline does not provide a recommendation for allopurinol in patients with the the ABCG2 rs2231142 GG genotype (c.421CC; p.141QQ)</p>
+"	The guideline does not provide a description of the impact of the ABCG2 rs2231142 GG genotype (c.421CC; p.141QQ) on allopurinol.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Function
+CACNA1S	Reference/Reference	Uncertain Susceptibility																
+CYP2B6	*1/*1	Normal Metabolizer	efavirenz	PA449441	"<p>Initiate efavirenz with standard dosing (600 mg/day)</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The ENCORE study showed that in treatment-naïve patients randomized to initiate efavirenz-based regimens (combined with tenofovir and emtricitabine), 400 mg/day was non-inferior to 600 mg/day regardless of CYP2B6 genotype (PMID 24522178).</p>
+"	CYP2B6: Normal efavirenz metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2B6	*1/*1	Normal Metabolizer	efavirenz	PA449441	"<p>The guideline does not provide a recommendation for efavirenz in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on efavirenz.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	escitalopram	PA10074	"<p>Initiate therapy with recommended starting dose</p>
+"	CYP2C19: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	citalopram	PA449015	"<p>Initiate therapy with recommended starting dose</p>
+"	CYP2C19: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	clopidogrel	PA449053	"<p>If considering clopidogrel, use at standard dose (75 mg/day)</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>For cardiovascular indications of acute coronary syndrome (ACS) and/or percutaneous coronary intervention (PCI). ACS and/or PCI includes patients undergoing PCI for an ACS or non-ACS (elective) indication.</p>
+"	CYP2C19: Normal clopidogrel active metabolite formation; normal on-treatment platelet reactivity	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	clopidogrel	PA449053	"<p>If considering clopidogrel, use at standard dose (75 mg/day)</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>For non-acute coronary syndrome (non-ACS) and non-percutaneous coronary intervention (non-PCI) cardiovascular indications. Non-ACS, non-PCI cardiovascular indications include peripheral arterial disease and stable coronary artery disease following a recent myocardial infarction outside the setting of PCI.</p>
+"	CYP2C19: Normal clopidogrel active metabolite formation; normal on-treatment platelet reactivity	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	clopidogrel	PA449053	"<p>If considering clopidogrel, use at standard dose (75 mg/day)</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>For neurovascular indications. Neurovascular disease includes acute ischemic stroke or transient ischemic attack, secondary prevention of stroke, or prevention of thromboembolic events following neurointerventional procedures such as carotid artery stenting and stent-assisted coiling of intracranial aneurysms.</p>
+"	CYP2C19: Normal clopidogrel active metabolite formation; normal on-treatment platelet reactivity	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	dexlansoprazole	PA166110257	"<p>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.</p>
+"	CYP2C19: Normal PPI metabolism; may be at increased risk of therapeutic failure compared to CYP2C19 IMs and PMs	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	omeprazole	PA450704	"<p>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.</p>
+"	CYP2C19: Normal PPI metabolism; may be at increased risk of therapeutic failure compared to CYP2C19 IMs and PMs	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	pantoprazole	PA450774	"<p>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.</p>
+"	CYP2C19: Normal PPI metabolism; may be at increased risk of therapeutic failure compared to CYP2C19 IMs and PMs	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	lansoprazole	PA450180	"<p>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.</p>
+"	CYP2C19: Normal PPI metabolism; may be at increased risk of therapeutic failure compared to CYP2C19 IMs and PMs	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	voriconazole	PA10233	"<p>Initiate therapy with recommended standard of care dosing</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Further dose adjustments or selection of alternative therapy may be necessary due to other clinical factors, such as drug interactions, hepatic function, renal function, species, site of infection, therapeutic drug monitoring, and comorbidities.</p>
+"	CYP2C19: Normal voriconazole metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	voriconazole	PA10233	"<p>Initiate therapy with recommended standard of care dosing</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Further dose adjustments or selection of alternative therapy may be necessary due to other clinical factors, such as drug interactions, hepatic function, renal function, species, site of infection, therapeutic drug monitoring, and comorbidities.</p>
+"	CYP2C19: Normal voriconazole metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	citalopram	PA449015	"<p>The guideline does not provide a recommendation for citalopram in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on citalopram.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	clomipramine	PA449048	"<p>The guideline does not provide a recommendation for clomipramine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on clomipramine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	clopidogrel	PA449053	"<p>The guideline does not provide a recommendation for clopidogrel in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on clopidogrel.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	escitalopram	PA10074	"<p>The guideline does not provide a recommendation for escitalopram in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on escitalopram.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	imipramine	PA449969	"<p>The guideline does not provide a recommendation for imipramine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on imipramine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	lansoprazole	PA450180	"<p>The guideline does not provide a recommendation for lansoprazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on lansoprazole.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	omeprazole	PA450704	"<p>The guideline does not provide a recommendation for omeprazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on omeprazole.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	pantoprazole	PA450774	"<p>The guideline does not provide a recommendation for pantoprazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on pantoprazole.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	sertraline	PA451333	"<p>The guideline does not provide a recommendation for sertraline in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on sertraline.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C19	*1/*1	Normal Metabolizer	voriconazole	PA10233	"<p>The guideline does not provide a recommendation for voriconazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on voriconazole.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP2C9	*1/*1	2.0	flurbiprofen	PA449683	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	ibuprofen	PA449957	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	lornoxicam	PA165958395	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	celecoxib	PA448871	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	meloxicam	PA450353	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	piroxicam	PA450985	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2C9	*1/*1	2.0	tenoxicam	PA131890625	"<p>Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.</p>
+"	CYP2C9: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	atomoxetine	PA134688071	"<p>Initiate with a dose of 0.5 mg/kg/day and increase to 1.2 mg/kg/day after 3 days. If no clinical response and in the absence of adverse events after 2 weeks, consider obtaining a peak plasma concentration (1 to 2 hours after dose administered). If &lt; 200 ng/mL, consider a proportional increase in dose to approach 400 ng/mL.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Therapeutic range of 200 to 1000 ng/mL has been proposed (PMID 29493375). Limited data are available regarding the relationship between atomoxetine plasma concentrations and clinical response. Available information suggests that clinical response is greater in poor metabolizers (PMs) compared to non-PMs and may be related to the higher plasma concentrations 1 to 1.5 hours after dosing in PMs compared to non-PMs administered a similar dose. Furthermore, modest improvement in response, defined as reduction in ADHD-rating scale, is observed at peak concentrations greater than 400 ng/mL.</p>
+"	CYP2D6: Normal metabolizers of atomoxetine have a lower likelihood of response as compared to poor metabolizers. This is associated with increased discontinuation due to lack of efficacy as compared to poor metabolizers.	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	atomoxetine	PA134688071	"<p>Initiate with a dose of 40 mg/day and increase to 80 mg/day after 3 days. If no clinical response and in the absence of adverse events after 2 weeks, consider increasing dose to 100 mg/day. If no clinical response observed after 2 weeks, consider obtaining a peak plasma concentration (1 to 2 hours after dose administered). If &lt;200 ng/mL, consider a proportional increase in dose to approach 400 ng/mL. Dosages greater than 100 mg/day may be needed to achieve target concentrations.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Therapeutic range of 200 to 1000 ng/mL has been proposed (PMID 29493375). Limited data are available regarding the relationship between atomoxetine plasma concentrations and clinical response. Available information suggests that clinical response is greater in poor metabolizers (PMs) compared to non-PMs and may be related to the higher plasma concentrations 1 to 1.5 hours after dosing in PMs compared to non-PMs administered a similar dose. Furthermore, modest improvement in response, defined as reduction in ADHD-rating scale, is observed at peak concentrations greater than 400 ng/mL. Doses above 120 mg/day have not been evaluated.</p>
+"	CYP2D6: Normal metabolizers of atomoxetine have a lower likelihood of response as compared to poor metabolizers. This is associated with increased discontinuation due to lack of efficacy as compared to poor metabolizers.	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	codeine	PA449088	"<p>Use codeine label recommended age- or weight-specific dosing.</p>
+"	CYP2D6: Expected morphine formation	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	desipramine	PA449233	"<p>Initiate therapy with recommended starting dose</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose.</p>
+"	CYP2D6: Normal metabolism of TCAs	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	fluvoxamine	PA449690	"<p>Initiate therapy with recommended starting dose.</p>
+"	CYP2D6: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	hydrocodone	PA449900	"<p>Use hydrocodone label recommended age- or weight-specific dosing.</p>
+"	CYP2D6: Normal hydromorphone formation	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	metoprolol	PA450480	"<p>Initiate standard dosing</p>
+"	Normal metabolism of metoprolol	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	nortriptyline	PA450657	"<p>Initiate therapy with recommended starting dose</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose.</p>
+"	CYP2D6: Normal metabolism of tricyclic antidepressants	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	ondansetron	PA450705	"<p>Initiate therapy with recommended starting dose.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Drug-drug interactions and other patient characteristics (e.g., age, renal function, and liver function) should be considered when selecting alternative therapy.</p>
+"	CYP2D6: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	paroxetine	PA450801	"<p>Initiate therapy with recommended starting dose</p>
+"	CYP2D6: Normal metabolism of paroxetine to less active compounds. Paroxetine-associated phenoconversion of normal metabolizers to intermediate or poor metabolizers due to CYP2D6 autoinhibition may occur and is dose-dependent and greater at steady state concentrations.	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tamoxifen	PA451581	"<p>Avoid moderate and strong CYP2D6 inhibitors. Initiate therapy with recommended standard of care dosing (tamoxifen 20 mg/day).</p>
+"	CYP2D6: Therapeutic endoxifen concentrations	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tramadol	PA451735	"<p>Use tramadol label recommended age- or weight-specific dosing.</p>
+"	CYP2D6: Expected O-desmethyltramadol (active metabolite) formation	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tropisetron	PA161925594	"<p>Initiate therapy with recommended starting dose.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Drug-drug interactions and other patient characteristics (e.g., age, renal function, and liver function) should be considered when selecting alternative therapy.</p>
+"	CYP2D6: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	venlafaxine	PA451866	"<p>Initiate therapy with recommended starting dose.</p>
+"	CYP2D6: Normal metabolism	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	vortioxetine	PA166122595	"<p>Initiate therapy with recommended starting dose.</p>
+"	CYP2D6: Normal metabolism.	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	amitriptyline	PA448385	"<p>The guideline does not provide a recommendation for amitriptyline in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on amitriptyline.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	aripiprazole	PA10026	"<p>The guideline does not provide a recommendation for aripiprazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on aripiprazole.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	atomoxetine	PA134688071	"<p>The guideline does not provide a recommendation for atomoxetine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on atomoxetine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	brexpiprazole	PA166160053	"<p>The guideline does not provide a recommendation for brexpiprazole in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on brexpiprazole.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	clomipramine	PA449048	"<p>The guideline does not provide a recommendation for clomipramine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on clomipramine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	codeine	PA449088	"<p>The guideline does not provide a recommendation for codeine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on codeine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	doxepin	PA449409	"<p>The guideline does not provide a recommendation for doxepin in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on doxepin.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	eliglustat	PA166123486	"<p>The guideline does not provide a recommendation for eliglustat in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on eliglustat.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	flecainide	PA449646	"<p>The guideline does not provide a recommendation for flecainide in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on flecainide.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	haloperidol	PA449841	"<p>The guideline does not provide a recommendation for haloperidol in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on haloperidol.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	imipramine	PA449969	"<p>The guideline does not provide a recommendation for imipramine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on imipramine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	metoprolol	PA450480	"<p>The guideline does not provide a recommendation for metoprolol in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on metoprolol.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	nortriptyline	PA450657	"<p>The guideline does not provide a recommendation for nortriptyline in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on nortriptyline.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	paroxetine	PA450801	"<p>The guideline does not provide a recommendation for paroxetine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on paroxetine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	pimozide	PA450965	"<p>The guideline does not provide a recommendation for pimozide in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on pimozide.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	propafenone	PA451131	"<p>The guideline does not provide a recommendation for propafenone in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on propafenone.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	risperidone	PA451257	"<p>The guideline does not provide a recommendation for risperidone in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on risperidone.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tamoxifen	PA451581	"<p>The guideline does not provide a recommendation for tamoxifen in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on tamoxifen.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tramadol	PA451735	"<p>The guideline does not provide a recommendation for tramadol in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on tramadol.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	venlafaxine	PA451866	"<p>The guideline does not provide a recommendation for venlafaxine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on venlafaxine.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	zuclopenthixol	PA452629	"<p>The guideline does not provide a recommendation for zuclopenthixol in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on zuclopenthixol.	DPWG	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	eliglustat	PA166123486	"<p>CYP2D6 normal metabolizers have a recommended dose of 84 mg orally twice daily.</p>
+"		FDA	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	meclizine	PA450338	"<p>&quot;... when ANTIVERT® [meclizine] is administered to patients with CYP2D6 polymorphism, monitor for adverse reactions and clinical effect accordingly.&quot; See label for more information.</p>
+"	"""The genetic polymorphism of CYP2D6 that results in poor-, intermediate-, extensive-, and ultrarapid metabolizer phenotypes could contribute to large inter-individual variability in meclizine exposure."""	FDA	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	tetrabenazine	PA140222719	"<p>&quot;Genotyped patients who are identified as extensive (EMs) or intermediate metabolizers (IMs) of
+CYP2D6, who need doses of XENAZINE [tetrabenazine] above 50 mg per day, should be titrated up slowly at
+weekly intervals by 12.5 mg daily, to allow the identification of a tolerated dose that reduces
+chorea. Doses above 50 mg per day should be given in a three times a day regimen. The
+maximum recommended daily dose is 100 mg and the maximum recommended single dose is
+37.5 mg. If adverse reactions such as akathisia, parkinsonism, depression, insomnia, anxiety or
+sedation occur, titration should be stopped and the dose should be reduced. If the adverse
+reaction does not resolve, consideration should be given to withdrawing XENAZINE [tetrabenazine] treatment
+or initiating other specific treatment.&quot; See label for more information</p>
+"		FDA	.	.	.	.	.	.	.	.	.	.	2.0
+CYP2D6	*1/*1	2.0	eliglustat	PA166123486	"<p>&quot;Alters systemic concentrations, effectiveness, and adverse reaction risk (QT prolongation). Indicated for normal, intermediate, and poor metabolizer patients. Ultrarapid metabolizers may not achieve adequate concentrations to achieve a therapeutic effect. The recommended dosages are based on CYP2D6 metabolizer status. Coadministration with strong CYP3A inhibitors is contraindicated in intermediate and poor CYP2D6 metabolizers. Refer to FDA labeling for specific dosing recommendations.&quot;</p>
+"		FDA	.	.	.	.	.	.	.	.	.	.	2.0
+CYP3A5	*1/*1	Normal Metabolizer	tacrolimus	PA451578	"<p>Increase starting dose 1.5 to 2 times recommended starting dose. Total starting dose should not exceed 0.3 mg/kg/day. Use therapeutic drug monitoring to guide dose adjustments.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>This recommendation includes the use of tacrolimus in kidney, heart, lung and hematopoietic stem cell transplant patients, and liver transplant patients where the donor and recipient genotypes are identical. Further dose adjustments or selection of alternative therapy may be necessary due to other clinical factors (e.g., medication interactions, or hepatic function). Typically with other CYP enzymes, a normal metabolizer would be classified as having normal metabolism, and therefore, the drug dose would not change based on the patient’s genotype. However, in the case of CYP3A5 and tacrolimus, a CYP3A5 expresser (i.e., CYP3A5 normal metabolizer or intermediate metabolizer) would require a higher recommended starting dose, and the CYP3A5 non-expresser (i.e., poor metabolizer) would require the standard recommended starting dose.</p>
+"	CYP3A5: Lower dose-adjusted trough concentrations of tacrolimus and decreased chance of achieving target tacrolimus concentrations.	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP3A5	*1/*1	Normal Metabolizer	tacrolimus	PA451578	"<p>LIVER TRANSPLANTATION
+In addition to the patient’s genotype, the metabolism of tacrolimus is also determined by the genotype of the transplanted liver.
+LIVER is also of the genotype HOMOZYGOUS EXPRESSOR: Use 2.5 times the normal initial dose. Adjustment of the dose should then be based on therapeutic drug monitoring.
+LIVER has a DIFFERENT genotype: There is insufficient evidence in the literature to support a dose recommendation.</p>
+<p>OTHER TRANSPLANTATION
+Use 2.5 times the initial dose that would yield the desired result in non-expressers. Adjustment of the dose should then be based on therapeutic drug monitoring. For example: One Dutch study found a median trough concentration for tacrolimus after three days of 9.4 ng/mL at an initial dose of 0.15 mg/kg twice daily for 5 homozygous kidney transplant patients. Their target value was 10 - 15 ng/mL.</p>
+"	An increase of the initial dose can result in an increased chance of reaching a tacrolimus concentration within the target range before the start of therapeutic drug monitoring. However, there is no direct evidence that this results in improved clinical results. The genetic variation results in an increased conversion of tacrolimus to inactive metabolites and therefore a higher required dose.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+CYP3A5	*1/*1	Normal Metabolizer	tacrolimus	PA451578	"<p>&quot;Results in lower systemic concentrations, lower probability of achieving target concentrations and may result in higher rejection risk. Measure drug concentrations and adjust dosage based on trough whole blood tacrolimus concentrations.&quot;</p>
+"		FDA	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+DPYD	Reference/Reference	2.0	capecitabine	PA448771	"<p>Based on genotype, there is no indication to change dose or therapy. Use label-recommended dosage and administration.</p>
+"	"DPYD: Normal DPD activity and ""normal"" risk for fluoropyrimidine toxicity"	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+DPYD	Reference/Reference	2.0	fluorouracil	PA128406956	"<p>Based on genotype, there is no indication to change dose or therapy. Use label-recommended dosage and administration.</p>
+"	"DPYD: Normal DPD activity and ""normal"" risk for fluoropyrimidine toxicity"	CPIC	.	.	.	.	.	.	.	.	.	.	2.0
+G6PD	B (reference)	Normal	toluidine blue	PA166268821	"<p>No reason to avoid based on G6PD status</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Toluidine blue classification strength is based on extrapolation from methylene blue data</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	rasburicase	PA10176	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	dapsone	PA449211	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	tafenoquine	PA166115580	"<p>No reason to avoid based on G6PD status</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Tafenoquine’s safety has been established for a G6PD enzyme activity ≥70% of normal. (Inclusion criteria for clinical trials involving tafenoquine included G6PD activity ≥70%.)</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	methylene blue	PA450457	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	pegloticase	PA165963961	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	nitrofurantoin	PA450640	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+G6PD	B (reference)	Normal	primaquine	PA451103	"<p>No reason to avoid based on G6PD status</p>
+"	G6PD: Low risk of acute hemolytic anemia	CPIC	.	.	.	.	.	.	.	.	.	.	Normal
+IFNL3																		
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	streptomycin	PA451512	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	kanamycin	PA450137	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	tobramycin	PA451704	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	paromomycin	PA164784023	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	amikacin	PA164744372	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	plazomicin	PA166228921	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	gentamicin	PA449753	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	netilmicin	PA164754913	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	dibekacin	PA166292901	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	ribostamycin	PA166292902	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+MT-RNR1	Reference	normal risk of aminoglycoside-induced hearing loss	neomycin	PA450608	"<p>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</p>
+"	MT-RNR1: Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.	CPIC	.	.	.	.	.	.	.	.	.	.	normal risk of aminoglycoside-induced hearing loss
+NUDT15	*1/*1	Normal Metabolizer	azathioprine	PA448515	"<p>The guideline does not provide a recommendation for azathioprine in normal metabolizers</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on azathioprine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+NUDT15	*1/*1	Normal Metabolizer	mercaptopurine	PA450379	"<p>The guideline does not provide a recommendation for mercaptopurine in normal metabolizers</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on mercaptopurine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+NUDT15	*1/*1	Normal Metabolizer	thioguanine	PA451663	"<p>The guideline does not provide a recommendation for thioguanine in normal metabolizers</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on thioguanine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+RYR1	Reference/Reference	Uncertain Susceptibility																
+SLCO1B1	*1/*1	Normal Function	atorvastatin	PA448500	"<p>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The potential for drug-drug interactions and dose limits based on renal and hepatic function and ancestry should be evaluated prior to initiating a statin.</p>
+"	SLCO1B1: Typical myopathy risk and statin exposure	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	lovastatin	PA450272	"<p>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The potential for drug-drug interactions and dose limits based on renal and hepatic function and ancestry should be evaluated prior to initiating a statin.</p>
+"	SLCO1B1: Typical myopathy risk and statin exposure	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	pitavastatin	PA142650384	"<p>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The potential for drug-drug interactions and dose limits based on renal and hepatic function and ancestry should be evaluated prior to initiating a statin.</p>
+"	SLCO1B1: Typical myopathy risk and statin exposure	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	pravastatin	PA451089	"<p>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The potential for drug-drug interactions and dose limits based on renal and hepatic function and ancestry should be evaluated prior to initiating a statin.</p>
+"	SLCO1B1: Typical myopathy risk and statin exposure	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	simvastatin	PA451363	"<p>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>The potential for drug-drug interactions and dose limits based on renal and hepatic function and ancestry should be evaluated prior to initiating a statin.</p>
+"	SLCO1B1: Typical myopathy risk and statin exposure	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	atorvastatin	PA448500	"<p>The guideline does not provide a recommendation for atorvastatin in patients with the <em>SLCO1B1</em> 521 TT genotype</p>
+"	The guideline does not provide a description of the impact of the _SLCO1B1_ 521 TT genotype on atorvastatin.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Function
+SLCO1B1	*1/*1	Normal Function	simvastatin	PA451363	"<p>The guideline does not provide a recommendation for atorvastatin in patients with the <em>SLCO1B1</em> 521 TT genotype.</p>
+"	The guideline does not provide a description of the impact of the SLCO1B1 521 TT genotype on simvastatin.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Function
+TPMT	*1/*1	Normal Metabolizer	azathioprine	PA448515	"<p>The guideline does not provide a recommendation for azathioprine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on azathioprine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+TPMT	*1/*1	Normal Metabolizer	mercaptopurine	PA450379	"<p>The guideline does not provide a recommendation for mercaptopurine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on mercaptopurine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+TPMT	*1/*1	Normal Metabolizer	thioguanine	PA451663	"<p>The guideline does not provide a recommendation for thioguanine in normal metabolizers.</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on thioguanine.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+UGT1A1	*1/*1	Normal Metabolizer	atazanavir	PA10251	"<p>There is no need to avoid prescribing of atazanavir based on UGT1A1 genetic test result. Inform the patient that some patients stop atazanavir because of jaundice (yellow eyes and skin), but that this patient’s genotype makes this unlikely (less than about a 1 in 20 chance of stopping atazanavir because of jaundice).</p>
+<h4 id=""other-considerations"">Other Considerations</h4>
+<p>All studies correlating UGT1A1 genotypes with atazanavir adverse events have involved ritonavir boosting. However, concentration-time profiles are equivalent when boosted with either cobicistat or ritonavir (PMID 23532097), and bilirubin-related adverse events including discontinuation of atazanavir occur in a similar percentage of patients prescribed atazanavir with cobicistat or ritonavir (PMID 23532097). Associations between UGT1A1 genotype, bilirubin elevations, and atazanavir/r discontinuation therefore almost certainly translate to atazanavir/cobicistat. &quot;reference&quot; function refers to the UGT1A1 allele to which other alleles are compared.</p>
+"	UGT1A1: Reference UGT1A1 activity; very low likelihood of bilirubin-related discontinuation of atazanavir.	CPIC	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer
+UGT1A1	*1/*1	Normal Metabolizer	irinotecan	PA450085	"<p>The guideline does not provide a recommendation for irinotecan in normal metabolizers</p>
+"	The guideline does not provide a description of the impact of a normal metabolizer phenotype on irinotecan.	DPWG	.	.	.	.	.	.	.	.	.	.	Normal Metabolizer

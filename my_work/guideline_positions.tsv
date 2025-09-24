@@ -1,0 +1,1374 @@
+Chemical	Gene	Allele	Gene_number
+abacavir	HLA-B	HLA-B*57:01	1
+allopurinol	HLA-B	HLA-B*58:01	1
+amikacin	MT-RNR1	rs267606617	1
+amikacin	MT-RNR1	rs267606618	1
+amikacin	MT-RNR1	rs267606619	1
+dibekacin	MT-RNR1	rs267606617	1
+dibekacin	MT-RNR1	rs267606618	1
+dibekacin	MT-RNR1	rs267606619	1
+gentamicin	MT-RNR1	rs267606617	1
+gentamicin	MT-RNR1	rs267606618	1
+gentamicin	MT-RNR1	rs267606619	1
+kanamycin	MT-RNR1	rs267606617	1
+kanamycin	MT-RNR1	rs267606618	1
+kanamycin	MT-RNR1	rs267606619	1
+neomycin	MT-RNR1	rs267606617	1
+neomycin	MT-RNR1	rs267606618	1
+neomycin	MT-RNR1	rs267606619	1
+netilmicin	MT-RNR1	rs267606617	1
+netilmicin	MT-RNR1	rs267606618	1
+netilmicin	MT-RNR1	rs267606619	1
+paromomycin	MT-RNR1	rs267606617	1
+paromomycin	MT-RNR1	rs267606618	1
+paromomycin	MT-RNR1	rs267606619	1
+plazomicin	MT-RNR1	rs267606617	1
+plazomicin	MT-RNR1	rs267606618	1
+plazomicin	MT-RNR1	rs267606619	1
+ribostamycin	MT-RNR1	rs267606617	1
+ribostamycin	MT-RNR1	rs267606618	1
+ribostamycin	MT-RNR1	rs267606619	1
+streptomycin	MT-RNR1	rs267606617	1
+streptomycin	MT-RNR1	rs267606618	1
+streptomycin	MT-RNR1	rs267606619	1
+tobramycin	MT-RNR1	rs267606617	1
+tobramycin	MT-RNR1	rs267606618	1
+tobramycin	MT-RNR1	rs267606619	1
+amitriptyline	CYP2C19	all alleles	2
+amitriptyline	CYP2D6	all alleles	2
+atazanavir	UGT1A1	UGT1A1*1	1
+atazanavir	UGT1A1	UGT1A1*28	1
+atazanavir	UGT1A1	UGT1A1*36	1
+atazanavir	UGT1A1	UGT1A1*37	1
+atazanavir	UGT1A1	UGT1A1*6	1
+atazanavir	UGT1A1	UGT1A1*80	1
+atazanavir	UGT1A1	UGT1A1*80+*28	1
+atomoxetine	CYP2D6	all alleles	1
+atorvastatin	SLCO1B1	rs4149056	1
+atorvastatin	SLCO1B1	SLCO1B1*15	1
+atorvastatin	SLCO1B1	SLCO1B1*5	1
+azathioprine	NUDT15	all alleles	2
+azathioprine	TPMT	all alleles	2
+capecitabine	DPYD	DPYD c.1129-5923C>G, c.1236G>A (HapB3)	1
+capecitabine	DPYD	rs111858276	1
+capecitabine	DPYD	rs112766203	1
+capecitabine	DPYD	rs114096998	1
+capecitabine	DPYD	rs115232898	1
+capecitabine	DPYD	rs137999090	1
+capecitabine	DPYD	rs138391898	1
+capecitabine	DPYD	rs138545885	1
+capecitabine	DPYD	rs138616379	1
+capecitabine	DPYD	rs139459586	1
+capecitabine	DPYD	rs139834141	1
+capecitabine	DPYD	rs140114515	1
+capecitabine	DPYD	rs140602333	1
+capecitabine	DPYD	rs141044036	1
+capecitabine	DPYD	rs141462178	1
+capecitabine	DPYD	rs142512579	1
+capecitabine	DPYD	rs142619737	1
+capecitabine	DPYD	rs143154602	1
+capecitabine	DPYD	rs143815742	1
+capecitabine	DPYD	rs144395748	1
+capecitabine	DPYD	rs145112791	1
+capecitabine	DPYD	rs145529148	1
+capecitabine	DPYD	rs145548112	1
+capecitabine	DPYD	rs145773863	1
+capecitabine	DPYD	rs146356975	1
+capecitabine	DPYD	rs146529561	1
+capecitabine	DPYD	rs147545709	1
+capecitabine	DPYD	rs147601618	1
+capecitabine	DPYD	rs148799944	1
+capecitabine	DPYD	rs148994843	1
+capecitabine	DPYD	rs150036960	1
+capecitabine	DPYD	rs150385342	1
+capecitabine	DPYD	rs150437414	1
+capecitabine	DPYD	rs17376848	1
+capecitabine	DPYD	rs1801158	1
+capecitabine	DPYD	rs1801159	1
+capecitabine	DPYD	rs1801160	1
+capecitabine	DPYD	rs1801265	1
+capecitabine	DPYD	rs1801266	1
+capecitabine	DPYD	rs1801267	1
+capecitabine	DPYD	rs1801268	1
+capecitabine	DPYD	rs183385770	1
+capecitabine	DPYD	rs186169810	1
+capecitabine	DPYD	rs190951787	1
+capecitabine	DPYD	rs199549923	1
+capecitabine	DPYD	rs199634007	1
+capecitabine	DPYD	rs200064537	1
+capecitabine	DPYD	rs200562975	1
+capecitabine	DPYD	rs200687447	1
+capecitabine	DPYD	rs201018345	1
+capecitabine	DPYD	rs201035051	1
+capecitabine	DPYD	rs201615754	1
+capecitabine	DPYD	rs202144771	1
+capecitabine	DPYD	rs2297595	1
+capecitabine	DPYD	rs3918289	1
+capecitabine	DPYD	rs3918290	1
+capecitabine	DPYD	rs45589337	1
+capecitabine	DPYD	rs55674432	1
+capecitabine	DPYD	rs55886062	1
+capecitabine	DPYD	rs55971861	1
+capecitabine	DPYD	rs56005131	1
+capecitabine	DPYD	rs57918000	1
+capecitabine	DPYD	rs59086055	1
+capecitabine	DPYD	rs60139309	1
+capecitabine	DPYD	rs60511679	1
+capecitabine	DPYD	rs61622928	1
+capecitabine	DPYD	rs6670886	1
+capecitabine	DPYD	rs67376798	1
+capecitabine	DPYD	rs72547601	1
+capecitabine	DPYD	rs72547602	1
+capecitabine	DPYD	rs72549303	1
+capecitabine	DPYD	rs72549304	1
+capecitabine	DPYD	rs72549305	1
+capecitabine	DPYD	rs72549306	1
+capecitabine	DPYD	rs72549307	1
+capecitabine	DPYD	rs72549308	1
+capecitabine	DPYD	rs72549309	1
+capecitabine	DPYD	rs72549310	1
+capecitabine	DPYD	rs72975710	1
+capecitabine	DPYD	rs764666241	1
+capecitabine	DPYD	rs78060119	1
+capecitabine	DPYD	rs80081766	1
+carbamazepine	HLA-A	HLA-A*31:01	2
+carbamazepine	HLA-A	HLA-B*15:02	2
+carbamazepine	HLA-B	HLA-A*31:01	2
+carbamazepine	HLA-B	HLA-B*15:02	2
+celecoxib	CYP2C9	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+ibuprofen	CYP2C9	all alleles	1
+lornoxicam	CYP2C9	all alleles	1
+citalopram	CYP2C19	all alleles	1
+escitalopram	CYP2C19	all alleles	1
+clomipramine	CYP2C19	all alleles	2
+clomipramine	CYP2D6	all alleles	2
+clopidogrel	CYP2C19	all alleles	1
+codeine	CYP2D6	all alleles	1
+dapsone	G6PD	all alleles	1
+methylene blue	G6PD	all alleles	1
+pegloticase	G6PD	all alleles	1
+rasburicase	G6PD	all alleles	1
+tafenoquine	G6PD	all alleles	1
+toluidine blue	G6PD	all alleles	1
+desflurane	CACNA1S	rs111888148	2
+desflurane	CACNA1S	rs112563513	2
+desflurane	CACNA1S	rs118192116	2
+desflurane	CACNA1S	rs118192122	2
+desflurane	CACNA1S	rs118192124	2
+desflurane	CACNA1S	rs118192161	2
+desflurane	CACNA1S	rs118192162	2
+desflurane	CACNA1S	rs118192163	2
+desflurane	CACNA1S	rs118192167	2
+desflurane	CACNA1S	rs118192168	2
+desflurane	CACNA1S	rs118192170	2
+desflurane	CACNA1S	rs118192172	2
+desflurane	CACNA1S	rs118192175	2
+desflurane	CACNA1S	rs118192176	2
+desflurane	CACNA1S	rs118192177	2
+desflurane	CACNA1S	rs118192178	2
+desflurane	CACNA1S	rs121918592	2
+desflurane	CACNA1S	rs121918593	2
+desflurane	CACNA1S	rs121918594	2
+desflurane	CACNA1S	rs121918595	2
+desflurane	CACNA1S	rs121918596	2
+desflurane	CACNA1S	rs144336148	2
+desflurane	CACNA1S	rs1800559	2
+desflurane	CACNA1S	rs1801086	2
+desflurane	CACNA1S	rs193922747	2
+desflurane	CACNA1S	rs193922748	2
+desflurane	CACNA1S	rs193922753	2
+desflurane	CACNA1S	rs193922762	2
+desflurane	CACNA1S	rs193922764	2
+desflurane	CACNA1S	rs193922768	2
+desflurane	CACNA1S	rs193922770	2
+desflurane	CACNA1S	rs193922772	2
+desflurane	CACNA1S	rs193922802	2
+desflurane	CACNA1S	rs193922803	2
+desflurane	CACNA1S	rs193922807	2
+desflurane	CACNA1S	rs193922809	2
+desflurane	CACNA1S	rs193922816	2
+desflurane	CACNA1S	rs193922818	2
+desflurane	CACNA1S	rs193922832	2
+desflurane	CACNA1S	rs193922843	2
+desflurane	CACNA1S	rs193922876	2
+desflurane	CACNA1S	rs193922878	2
+desflurane	CACNA1S	rs28933396	2
+desflurane	CACNA1S	rs28933397	2
+desflurane	CACNA1S	rs63749869	2
+desflurane	CACNA1S	rs772226819	2
+desflurane	RYR1	rs111888148	2
+desflurane	RYR1	rs112563513	2
+desflurane	RYR1	rs118192116	2
+desflurane	RYR1	rs118192122	2
+desflurane	RYR1	rs118192124	2
+desflurane	RYR1	rs118192161	2
+desflurane	RYR1	rs118192162	2
+desflurane	RYR1	rs118192163	2
+desflurane	RYR1	rs118192167	2
+desflurane	RYR1	rs118192168	2
+desflurane	RYR1	rs118192170	2
+desflurane	RYR1	rs118192172	2
+desflurane	RYR1	rs118192175	2
+desflurane	RYR1	rs118192176	2
+desflurane	RYR1	rs118192177	2
+desflurane	RYR1	rs118192178	2
+desflurane	RYR1	rs121918592	2
+desflurane	RYR1	rs121918593	2
+desflurane	RYR1	rs121918594	2
+desflurane	RYR1	rs121918595	2
+desflurane	RYR1	rs121918596	2
+desflurane	RYR1	rs144336148	2
+desflurane	RYR1	rs1800559	2
+desflurane	RYR1	rs1801086	2
+desflurane	RYR1	rs193922747	2
+desflurane	RYR1	rs193922748	2
+desflurane	RYR1	rs193922753	2
+desflurane	RYR1	rs193922762	2
+desflurane	RYR1	rs193922764	2
+desflurane	RYR1	rs193922768	2
+desflurane	RYR1	rs193922770	2
+desflurane	RYR1	rs193922772	2
+desflurane	RYR1	rs193922802	2
+desflurane	RYR1	rs193922803	2
+desflurane	RYR1	rs193922807	2
+desflurane	RYR1	rs193922809	2
+desflurane	RYR1	rs193922816	2
+desflurane	RYR1	rs193922818	2
+desflurane	RYR1	rs193922832	2
+desflurane	RYR1	rs193922843	2
+desflurane	RYR1	rs193922876	2
+desflurane	RYR1	rs193922878	2
+desflurane	RYR1	rs28933396	2
+desflurane	RYR1	rs28933397	2
+desflurane	RYR1	rs63749869	2
+desflurane	RYR1	rs772226819	2
+enflurane	CACNA1S	rs111888148	2
+enflurane	CACNA1S	rs112563513	2
+enflurane	CACNA1S	rs118192116	2
+enflurane	CACNA1S	rs118192122	2
+enflurane	CACNA1S	rs118192124	2
+enflurane	CACNA1S	rs118192161	2
+enflurane	CACNA1S	rs118192162	2
+enflurane	CACNA1S	rs118192163	2
+enflurane	CACNA1S	rs118192167	2
+enflurane	CACNA1S	rs118192168	2
+enflurane	CACNA1S	rs118192170	2
+enflurane	CACNA1S	rs118192172	2
+enflurane	CACNA1S	rs118192175	2
+enflurane	CACNA1S	rs118192176	2
+enflurane	CACNA1S	rs118192177	2
+enflurane	CACNA1S	rs118192178	2
+enflurane	CACNA1S	rs121918592	2
+enflurane	CACNA1S	rs121918593	2
+enflurane	CACNA1S	rs121918594	2
+enflurane	CACNA1S	rs121918595	2
+enflurane	CACNA1S	rs121918596	2
+enflurane	CACNA1S	rs144336148	2
+enflurane	CACNA1S	rs1800559	2
+enflurane	CACNA1S	rs1801086	2
+enflurane	CACNA1S	rs193922747	2
+enflurane	CACNA1S	rs193922748	2
+enflurane	CACNA1S	rs193922753	2
+enflurane	CACNA1S	rs193922762	2
+enflurane	CACNA1S	rs193922764	2
+enflurane	CACNA1S	rs193922768	2
+enflurane	CACNA1S	rs193922770	2
+enflurane	CACNA1S	rs193922772	2
+enflurane	CACNA1S	rs193922802	2
+enflurane	CACNA1S	rs193922803	2
+enflurane	CACNA1S	rs193922807	2
+enflurane	CACNA1S	rs193922809	2
+enflurane	CACNA1S	rs193922816	2
+enflurane	CACNA1S	rs193922818	2
+enflurane	CACNA1S	rs193922832	2
+enflurane	CACNA1S	rs193922843	2
+enflurane	CACNA1S	rs193922876	2
+enflurane	CACNA1S	rs193922878	2
+enflurane	CACNA1S	rs28933396	2
+enflurane	CACNA1S	rs28933397	2
+enflurane	CACNA1S	rs63749869	2
+enflurane	CACNA1S	rs772226819	2
+enflurane	RYR1	rs111888148	2
+enflurane	RYR1	rs112563513	2
+enflurane	RYR1	rs118192116	2
+enflurane	RYR1	rs118192122	2
+enflurane	RYR1	rs118192124	2
+enflurane	RYR1	rs118192161	2
+enflurane	RYR1	rs118192162	2
+enflurane	RYR1	rs118192163	2
+enflurane	RYR1	rs118192167	2
+enflurane	RYR1	rs118192168	2
+enflurane	RYR1	rs118192170	2
+enflurane	RYR1	rs118192172	2
+enflurane	RYR1	rs118192175	2
+enflurane	RYR1	rs118192176	2
+enflurane	RYR1	rs118192177	2
+enflurane	RYR1	rs118192178	2
+enflurane	RYR1	rs121918592	2
+enflurane	RYR1	rs121918593	2
+enflurane	RYR1	rs121918594	2
+enflurane	RYR1	rs121918595	2
+enflurane	RYR1	rs121918596	2
+enflurane	RYR1	rs144336148	2
+enflurane	RYR1	rs1800559	2
+enflurane	RYR1	rs1801086	2
+enflurane	RYR1	rs193922747	2
+enflurane	RYR1	rs193922748	2
+enflurane	RYR1	rs193922753	2
+enflurane	RYR1	rs193922762	2
+enflurane	RYR1	rs193922764	2
+enflurane	RYR1	rs193922768	2
+enflurane	RYR1	rs193922770	2
+enflurane	RYR1	rs193922772	2
+enflurane	RYR1	rs193922802	2
+enflurane	RYR1	rs193922803	2
+enflurane	RYR1	rs193922807	2
+enflurane	RYR1	rs193922809	2
+enflurane	RYR1	rs193922816	2
+enflurane	RYR1	rs193922818	2
+enflurane	RYR1	rs193922832	2
+enflurane	RYR1	rs193922843	2
+enflurane	RYR1	rs193922876	2
+enflurane	RYR1	rs193922878	2
+enflurane	RYR1	rs28933396	2
+enflurane	RYR1	rs28933397	2
+enflurane	RYR1	rs63749869	2
+enflurane	RYR1	rs772226819	2
+halothane	CACNA1S	rs111888148	2
+halothane	CACNA1S	rs112563513	2
+halothane	CACNA1S	rs118192116	2
+halothane	CACNA1S	rs118192122	2
+halothane	CACNA1S	rs118192124	2
+halothane	CACNA1S	rs118192161	2
+halothane	CACNA1S	rs118192162	2
+halothane	CACNA1S	rs118192163	2
+halothane	CACNA1S	rs118192167	2
+halothane	CACNA1S	rs118192168	2
+halothane	CACNA1S	rs118192170	2
+halothane	CACNA1S	rs118192172	2
+halothane	CACNA1S	rs118192175	2
+halothane	CACNA1S	rs118192176	2
+halothane	CACNA1S	rs118192177	2
+halothane	CACNA1S	rs118192178	2
+halothane	CACNA1S	rs121918592	2
+halothane	CACNA1S	rs121918593	2
+halothane	CACNA1S	rs121918594	2
+halothane	CACNA1S	rs121918595	2
+halothane	CACNA1S	rs121918596	2
+halothane	CACNA1S	rs144336148	2
+halothane	CACNA1S	rs1800559	2
+halothane	CACNA1S	rs1801086	2
+halothane	CACNA1S	rs193922747	2
+halothane	CACNA1S	rs193922748	2
+halothane	CACNA1S	rs193922753	2
+halothane	CACNA1S	rs193922762	2
+halothane	CACNA1S	rs193922764	2
+halothane	CACNA1S	rs193922768	2
+halothane	CACNA1S	rs193922770	2
+halothane	CACNA1S	rs193922772	2
+halothane	CACNA1S	rs193922802	2
+halothane	CACNA1S	rs193922803	2
+halothane	CACNA1S	rs193922807	2
+halothane	CACNA1S	rs193922809	2
+halothane	CACNA1S	rs193922816	2
+halothane	CACNA1S	rs193922818	2
+halothane	CACNA1S	rs193922832	2
+halothane	CACNA1S	rs193922843	2
+halothane	CACNA1S	rs193922876	2
+halothane	CACNA1S	rs193922878	2
+halothane	CACNA1S	rs28933396	2
+halothane	CACNA1S	rs28933397	2
+halothane	CACNA1S	rs63749869	2
+halothane	CACNA1S	rs772226819	2
+halothane	RYR1	rs111888148	2
+halothane	RYR1	rs112563513	2
+halothane	RYR1	rs118192116	2
+halothane	RYR1	rs118192122	2
+halothane	RYR1	rs118192124	2
+halothane	RYR1	rs118192161	2
+halothane	RYR1	rs118192162	2
+halothane	RYR1	rs118192163	2
+halothane	RYR1	rs118192167	2
+halothane	RYR1	rs118192168	2
+halothane	RYR1	rs118192170	2
+halothane	RYR1	rs118192172	2
+halothane	RYR1	rs118192175	2
+halothane	RYR1	rs118192176	2
+halothane	RYR1	rs118192177	2
+halothane	RYR1	rs118192178	2
+halothane	RYR1	rs121918592	2
+halothane	RYR1	rs121918593	2
+halothane	RYR1	rs121918594	2
+halothane	RYR1	rs121918595	2
+halothane	RYR1	rs121918596	2
+halothane	RYR1	rs144336148	2
+halothane	RYR1	rs1800559	2
+halothane	RYR1	rs1801086	2
+halothane	RYR1	rs193922747	2
+halothane	RYR1	rs193922748	2
+halothane	RYR1	rs193922753	2
+halothane	RYR1	rs193922762	2
+halothane	RYR1	rs193922764	2
+halothane	RYR1	rs193922768	2
+halothane	RYR1	rs193922770	2
+halothane	RYR1	rs193922772	2
+halothane	RYR1	rs193922802	2
+halothane	RYR1	rs193922803	2
+halothane	RYR1	rs193922807	2
+halothane	RYR1	rs193922809	2
+halothane	RYR1	rs193922816	2
+halothane	RYR1	rs193922818	2
+halothane	RYR1	rs193922832	2
+halothane	RYR1	rs193922843	2
+halothane	RYR1	rs193922876	2
+halothane	RYR1	rs193922878	2
+halothane	RYR1	rs28933396	2
+halothane	RYR1	rs28933397	2
+halothane	RYR1	rs63749869	2
+halothane	RYR1	rs772226819	2
+isoflurane	CACNA1S	rs111888148	2
+isoflurane	CACNA1S	rs112563513	2
+isoflurane	CACNA1S	rs118192116	2
+isoflurane	CACNA1S	rs118192122	2
+isoflurane	CACNA1S	rs118192124	2
+isoflurane	CACNA1S	rs118192161	2
+isoflurane	CACNA1S	rs118192162	2
+isoflurane	CACNA1S	rs118192163	2
+isoflurane	CACNA1S	rs118192167	2
+isoflurane	CACNA1S	rs118192168	2
+isoflurane	CACNA1S	rs118192170	2
+isoflurane	CACNA1S	rs118192172	2
+isoflurane	CACNA1S	rs118192175	2
+isoflurane	CACNA1S	rs118192176	2
+isoflurane	CACNA1S	rs118192177	2
+isoflurane	CACNA1S	rs118192178	2
+isoflurane	CACNA1S	rs121918592	2
+isoflurane	CACNA1S	rs121918593	2
+isoflurane	CACNA1S	rs121918594	2
+isoflurane	CACNA1S	rs121918595	2
+isoflurane	CACNA1S	rs121918596	2
+isoflurane	CACNA1S	rs144336148	2
+isoflurane	CACNA1S	rs1800559	2
+isoflurane	CACNA1S	rs1801086	2
+isoflurane	CACNA1S	rs193922747	2
+isoflurane	CACNA1S	rs193922748	2
+isoflurane	CACNA1S	rs193922753	2
+isoflurane	CACNA1S	rs193922762	2
+isoflurane	CACNA1S	rs193922764	2
+isoflurane	CACNA1S	rs193922768	2
+isoflurane	CACNA1S	rs193922770	2
+isoflurane	CACNA1S	rs193922772	2
+isoflurane	CACNA1S	rs193922802	2
+isoflurane	CACNA1S	rs193922803	2
+isoflurane	CACNA1S	rs193922807	2
+isoflurane	CACNA1S	rs193922809	2
+isoflurane	CACNA1S	rs193922816	2
+isoflurane	CACNA1S	rs193922818	2
+isoflurane	CACNA1S	rs193922832	2
+isoflurane	CACNA1S	rs193922843	2
+isoflurane	CACNA1S	rs193922876	2
+isoflurane	CACNA1S	rs193922878	2
+isoflurane	CACNA1S	rs28933396	2
+isoflurane	CACNA1S	rs28933397	2
+isoflurane	CACNA1S	rs63749869	2
+isoflurane	CACNA1S	rs772226819	2
+isoflurane	RYR1	rs111888148	2
+isoflurane	RYR1	rs112563513	2
+isoflurane	RYR1	rs118192116	2
+isoflurane	RYR1	rs118192122	2
+isoflurane	RYR1	rs118192124	2
+isoflurane	RYR1	rs118192161	2
+isoflurane	RYR1	rs118192162	2
+isoflurane	RYR1	rs118192163	2
+isoflurane	RYR1	rs118192167	2
+isoflurane	RYR1	rs118192168	2
+isoflurane	RYR1	rs118192170	2
+isoflurane	RYR1	rs118192172	2
+isoflurane	RYR1	rs118192175	2
+isoflurane	RYR1	rs118192176	2
+isoflurane	RYR1	rs118192177	2
+isoflurane	RYR1	rs118192178	2
+isoflurane	RYR1	rs121918592	2
+isoflurane	RYR1	rs121918593	2
+isoflurane	RYR1	rs121918594	2
+isoflurane	RYR1	rs121918595	2
+isoflurane	RYR1	rs121918596	2
+isoflurane	RYR1	rs144336148	2
+isoflurane	RYR1	rs1800559	2
+isoflurane	RYR1	rs1801086	2
+isoflurane	RYR1	rs193922747	2
+isoflurane	RYR1	rs193922748	2
+isoflurane	RYR1	rs193922753	2
+isoflurane	RYR1	rs193922762	2
+isoflurane	RYR1	rs193922764	2
+isoflurane	RYR1	rs193922768	2
+isoflurane	RYR1	rs193922770	2
+isoflurane	RYR1	rs193922772	2
+isoflurane	RYR1	rs193922802	2
+isoflurane	RYR1	rs193922803	2
+isoflurane	RYR1	rs193922807	2
+isoflurane	RYR1	rs193922809	2
+isoflurane	RYR1	rs193922816	2
+isoflurane	RYR1	rs193922818	2
+isoflurane	RYR1	rs193922832	2
+isoflurane	RYR1	rs193922843	2
+isoflurane	RYR1	rs193922876	2
+isoflurane	RYR1	rs193922878	2
+isoflurane	RYR1	rs28933396	2
+isoflurane	RYR1	rs28933397	2
+isoflurane	RYR1	rs63749869	2
+isoflurane	RYR1	rs772226819	2
+methoxyflurane	CACNA1S	rs111888148	2
+methoxyflurane	CACNA1S	rs112563513	2
+methoxyflurane	CACNA1S	rs118192116	2
+methoxyflurane	CACNA1S	rs118192122	2
+methoxyflurane	CACNA1S	rs118192124	2
+methoxyflurane	CACNA1S	rs118192161	2
+methoxyflurane	CACNA1S	rs118192162	2
+methoxyflurane	CACNA1S	rs118192163	2
+methoxyflurane	CACNA1S	rs118192167	2
+methoxyflurane	CACNA1S	rs118192168	2
+methoxyflurane	CACNA1S	rs118192170	2
+methoxyflurane	CACNA1S	rs118192172	2
+methoxyflurane	CACNA1S	rs118192175	2
+methoxyflurane	CACNA1S	rs118192176	2
+methoxyflurane	CACNA1S	rs118192177	2
+methoxyflurane	CACNA1S	rs118192178	2
+methoxyflurane	CACNA1S	rs121918592	2
+methoxyflurane	CACNA1S	rs121918593	2
+methoxyflurane	CACNA1S	rs121918594	2
+methoxyflurane	CACNA1S	rs121918595	2
+methoxyflurane	CACNA1S	rs121918596	2
+methoxyflurane	CACNA1S	rs144336148	2
+methoxyflurane	CACNA1S	rs1800559	2
+methoxyflurane	CACNA1S	rs1801086	2
+methoxyflurane	CACNA1S	rs193922747	2
+methoxyflurane	CACNA1S	rs193922748	2
+methoxyflurane	CACNA1S	rs193922753	2
+methoxyflurane	CACNA1S	rs193922762	2
+methoxyflurane	CACNA1S	rs193922764	2
+methoxyflurane	CACNA1S	rs193922768	2
+methoxyflurane	CACNA1S	rs193922770	2
+methoxyflurane	CACNA1S	rs193922772	2
+methoxyflurane	CACNA1S	rs193922802	2
+methoxyflurane	CACNA1S	rs193922803	2
+methoxyflurane	CACNA1S	rs193922807	2
+methoxyflurane	CACNA1S	rs193922809	2
+methoxyflurane	CACNA1S	rs193922816	2
+methoxyflurane	CACNA1S	rs193922818	2
+methoxyflurane	CACNA1S	rs193922832	2
+methoxyflurane	CACNA1S	rs193922843	2
+methoxyflurane	CACNA1S	rs193922876	2
+methoxyflurane	CACNA1S	rs193922878	2
+methoxyflurane	CACNA1S	rs28933396	2
+methoxyflurane	CACNA1S	rs28933397	2
+methoxyflurane	CACNA1S	rs63749869	2
+methoxyflurane	CACNA1S	rs772226819	2
+methoxyflurane	RYR1	rs111888148	2
+methoxyflurane	RYR1	rs112563513	2
+methoxyflurane	RYR1	rs118192116	2
+methoxyflurane	RYR1	rs118192122	2
+methoxyflurane	RYR1	rs118192124	2
+methoxyflurane	RYR1	rs118192161	2
+methoxyflurane	RYR1	rs118192162	2
+methoxyflurane	RYR1	rs118192163	2
+methoxyflurane	RYR1	rs118192167	2
+methoxyflurane	RYR1	rs118192168	2
+methoxyflurane	RYR1	rs118192170	2
+methoxyflurane	RYR1	rs118192172	2
+methoxyflurane	RYR1	rs118192175	2
+methoxyflurane	RYR1	rs118192176	2
+methoxyflurane	RYR1	rs118192177	2
+methoxyflurane	RYR1	rs118192178	2
+methoxyflurane	RYR1	rs121918592	2
+methoxyflurane	RYR1	rs121918593	2
+methoxyflurane	RYR1	rs121918594	2
+methoxyflurane	RYR1	rs121918595	2
+methoxyflurane	RYR1	rs121918596	2
+methoxyflurane	RYR1	rs144336148	2
+methoxyflurane	RYR1	rs1800559	2
+methoxyflurane	RYR1	rs1801086	2
+methoxyflurane	RYR1	rs193922747	2
+methoxyflurane	RYR1	rs193922748	2
+methoxyflurane	RYR1	rs193922753	2
+methoxyflurane	RYR1	rs193922762	2
+methoxyflurane	RYR1	rs193922764	2
+methoxyflurane	RYR1	rs193922768	2
+methoxyflurane	RYR1	rs193922770	2
+methoxyflurane	RYR1	rs193922772	2
+methoxyflurane	RYR1	rs193922802	2
+methoxyflurane	RYR1	rs193922803	2
+methoxyflurane	RYR1	rs193922807	2
+methoxyflurane	RYR1	rs193922809	2
+methoxyflurane	RYR1	rs193922816	2
+methoxyflurane	RYR1	rs193922818	2
+methoxyflurane	RYR1	rs193922832	2
+methoxyflurane	RYR1	rs193922843	2
+methoxyflurane	RYR1	rs193922876	2
+methoxyflurane	RYR1	rs193922878	2
+methoxyflurane	RYR1	rs28933396	2
+methoxyflurane	RYR1	rs28933397	2
+methoxyflurane	RYR1	rs63749869	2
+methoxyflurane	RYR1	rs772226819	2
+sevoflurane	CACNA1S	rs111888148	2
+sevoflurane	CACNA1S	rs112563513	2
+sevoflurane	CACNA1S	rs118192116	2
+sevoflurane	CACNA1S	rs118192122	2
+sevoflurane	CACNA1S	rs118192124	2
+sevoflurane	CACNA1S	rs118192161	2
+sevoflurane	CACNA1S	rs118192162	2
+sevoflurane	CACNA1S	rs118192163	2
+sevoflurane	CACNA1S	rs118192167	2
+sevoflurane	CACNA1S	rs118192168	2
+sevoflurane	CACNA1S	rs118192170	2
+sevoflurane	CACNA1S	rs118192172	2
+sevoflurane	CACNA1S	rs118192175	2
+sevoflurane	CACNA1S	rs118192176	2
+sevoflurane	CACNA1S	rs118192177	2
+sevoflurane	CACNA1S	rs118192178	2
+sevoflurane	CACNA1S	rs121918592	2
+sevoflurane	CACNA1S	rs121918593	2
+sevoflurane	CACNA1S	rs121918594	2
+sevoflurane	CACNA1S	rs121918595	2
+sevoflurane	CACNA1S	rs121918596	2
+sevoflurane	CACNA1S	rs144336148	2
+sevoflurane	CACNA1S	rs1800559	2
+sevoflurane	CACNA1S	rs1801086	2
+sevoflurane	CACNA1S	rs193922747	2
+sevoflurane	CACNA1S	rs193922748	2
+sevoflurane	CACNA1S	rs193922753	2
+sevoflurane	CACNA1S	rs193922762	2
+sevoflurane	CACNA1S	rs193922764	2
+sevoflurane	CACNA1S	rs193922768	2
+sevoflurane	CACNA1S	rs193922770	2
+sevoflurane	CACNA1S	rs193922772	2
+sevoflurane	CACNA1S	rs193922802	2
+sevoflurane	CACNA1S	rs193922803	2
+sevoflurane	CACNA1S	rs193922807	2
+sevoflurane	CACNA1S	rs193922809	2
+sevoflurane	CACNA1S	rs193922816	2
+sevoflurane	CACNA1S	rs193922818	2
+sevoflurane	CACNA1S	rs193922832	2
+sevoflurane	CACNA1S	rs193922843	2
+sevoflurane	CACNA1S	rs193922876	2
+sevoflurane	CACNA1S	rs193922878	2
+sevoflurane	CACNA1S	rs28933396	2
+sevoflurane	CACNA1S	rs28933397	2
+sevoflurane	CACNA1S	rs63749869	2
+sevoflurane	CACNA1S	rs772226819	2
+sevoflurane	RYR1	rs111888148	2
+sevoflurane	RYR1	rs112563513	2
+sevoflurane	RYR1	rs118192116	2
+sevoflurane	RYR1	rs118192122	2
+sevoflurane	RYR1	rs118192124	2
+sevoflurane	RYR1	rs118192161	2
+sevoflurane	RYR1	rs118192162	2
+sevoflurane	RYR1	rs118192163	2
+sevoflurane	RYR1	rs118192167	2
+sevoflurane	RYR1	rs118192168	2
+sevoflurane	RYR1	rs118192170	2
+sevoflurane	RYR1	rs118192172	2
+sevoflurane	RYR1	rs118192175	2
+sevoflurane	RYR1	rs118192176	2
+sevoflurane	RYR1	rs118192177	2
+sevoflurane	RYR1	rs118192178	2
+sevoflurane	RYR1	rs121918592	2
+sevoflurane	RYR1	rs121918593	2
+sevoflurane	RYR1	rs121918594	2
+sevoflurane	RYR1	rs121918595	2
+sevoflurane	RYR1	rs121918596	2
+sevoflurane	RYR1	rs144336148	2
+sevoflurane	RYR1	rs1800559	2
+sevoflurane	RYR1	rs1801086	2
+sevoflurane	RYR1	rs193922747	2
+sevoflurane	RYR1	rs193922748	2
+sevoflurane	RYR1	rs193922753	2
+sevoflurane	RYR1	rs193922762	2
+sevoflurane	RYR1	rs193922764	2
+sevoflurane	RYR1	rs193922768	2
+sevoflurane	RYR1	rs193922770	2
+sevoflurane	RYR1	rs193922772	2
+sevoflurane	RYR1	rs193922802	2
+sevoflurane	RYR1	rs193922803	2
+sevoflurane	RYR1	rs193922807	2
+sevoflurane	RYR1	rs193922809	2
+sevoflurane	RYR1	rs193922816	2
+sevoflurane	RYR1	rs193922818	2
+sevoflurane	RYR1	rs193922832	2
+sevoflurane	RYR1	rs193922843	2
+sevoflurane	RYR1	rs193922876	2
+sevoflurane	RYR1	rs193922878	2
+sevoflurane	RYR1	rs28933396	2
+sevoflurane	RYR1	rs28933397	2
+sevoflurane	RYR1	rs63749869	2
+sevoflurane	RYR1	rs772226819	2
+succinylcholine	CACNA1S	rs111888148	2
+succinylcholine	CACNA1S	rs112563513	2
+succinylcholine	CACNA1S	rs118192116	2
+succinylcholine	CACNA1S	rs118192122	2
+succinylcholine	CACNA1S	rs118192124	2
+succinylcholine	CACNA1S	rs118192161	2
+succinylcholine	CACNA1S	rs118192162	2
+succinylcholine	CACNA1S	rs118192163	2
+succinylcholine	CACNA1S	rs118192167	2
+succinylcholine	CACNA1S	rs118192168	2
+succinylcholine	CACNA1S	rs118192170	2
+succinylcholine	CACNA1S	rs118192172	2
+succinylcholine	CACNA1S	rs118192175	2
+succinylcholine	CACNA1S	rs118192176	2
+succinylcholine	CACNA1S	rs118192177	2
+succinylcholine	CACNA1S	rs118192178	2
+succinylcholine	CACNA1S	rs121918592	2
+succinylcholine	CACNA1S	rs121918593	2
+succinylcholine	CACNA1S	rs121918594	2
+succinylcholine	CACNA1S	rs121918595	2
+succinylcholine	CACNA1S	rs121918596	2
+succinylcholine	CACNA1S	rs144336148	2
+succinylcholine	CACNA1S	rs1800559	2
+succinylcholine	CACNA1S	rs1801086	2
+succinylcholine	CACNA1S	rs193922747	2
+succinylcholine	CACNA1S	rs193922748	2
+succinylcholine	CACNA1S	rs193922753	2
+succinylcholine	CACNA1S	rs193922762	2
+succinylcholine	CACNA1S	rs193922764	2
+succinylcholine	CACNA1S	rs193922768	2
+succinylcholine	CACNA1S	rs193922770	2
+succinylcholine	CACNA1S	rs193922772	2
+succinylcholine	CACNA1S	rs193922802	2
+succinylcholine	CACNA1S	rs193922803	2
+succinylcholine	CACNA1S	rs193922807	2
+succinylcholine	CACNA1S	rs193922809	2
+succinylcholine	CACNA1S	rs193922816	2
+succinylcholine	CACNA1S	rs193922818	2
+succinylcholine	CACNA1S	rs193922832	2
+succinylcholine	CACNA1S	rs193922843	2
+succinylcholine	CACNA1S	rs193922876	2
+succinylcholine	CACNA1S	rs193922878	2
+succinylcholine	CACNA1S	rs28933396	2
+succinylcholine	CACNA1S	rs28933397	2
+succinylcholine	CACNA1S	rs63749869	2
+succinylcholine	CACNA1S	rs772226819	2
+succinylcholine	RYR1	rs111888148	2
+succinylcholine	RYR1	rs112563513	2
+succinylcholine	RYR1	rs118192116	2
+succinylcholine	RYR1	rs118192122	2
+succinylcholine	RYR1	rs118192124	2
+succinylcholine	RYR1	rs118192161	2
+succinylcholine	RYR1	rs118192162	2
+succinylcholine	RYR1	rs118192163	2
+succinylcholine	RYR1	rs118192167	2
+succinylcholine	RYR1	rs118192168	2
+succinylcholine	RYR1	rs118192170	2
+succinylcholine	RYR1	rs118192172	2
+succinylcholine	RYR1	rs118192175	2
+succinylcholine	RYR1	rs118192176	2
+succinylcholine	RYR1	rs118192177	2
+succinylcholine	RYR1	rs118192178	2
+succinylcholine	RYR1	rs121918592	2
+succinylcholine	RYR1	rs121918593	2
+succinylcholine	RYR1	rs121918594	2
+succinylcholine	RYR1	rs121918595	2
+succinylcholine	RYR1	rs121918596	2
+succinylcholine	RYR1	rs144336148	2
+succinylcholine	RYR1	rs1800559	2
+succinylcholine	RYR1	rs1801086	2
+succinylcholine	RYR1	rs193922747	2
+succinylcholine	RYR1	rs193922748	2
+succinylcholine	RYR1	rs193922753	2
+succinylcholine	RYR1	rs193922762	2
+succinylcholine	RYR1	rs193922764	2
+succinylcholine	RYR1	rs193922768	2
+succinylcholine	RYR1	rs193922770	2
+succinylcholine	RYR1	rs193922772	2
+succinylcholine	RYR1	rs193922802	2
+succinylcholine	RYR1	rs193922803	2
+succinylcholine	RYR1	rs193922807	2
+succinylcholine	RYR1	rs193922809	2
+succinylcholine	RYR1	rs193922816	2
+succinylcholine	RYR1	rs193922818	2
+succinylcholine	RYR1	rs193922832	2
+succinylcholine	RYR1	rs193922843	2
+succinylcholine	RYR1	rs193922876	2
+succinylcholine	RYR1	rs193922878	2
+succinylcholine	RYR1	rs28933396	2
+succinylcholine	RYR1	rs28933397	2
+succinylcholine	RYR1	rs63749869	2
+succinylcholine	RYR1	rs772226819	2
+desipramine	CYP2D6	all alleles	1
+dexlansoprazole	CYP2C19	all alleles	1
+doxepin	CYP2C19	all alleles	2
+doxepin	CYP2D6	all alleles	2
+efavirenz	CYP2B6	all alleles	1
+fluorouracil	DPYD	all alleles	1
+fluvastatin	CYP2C9	CYP2C9*2	2
+fluvastatin	CYP2C9	CYP2C9*3	2
+fluvastatin	CYP2C9	rs4149056	2
+fluvastatin	CYP2C9	SLCO1B1*15	2
+fluvastatin	CYP2C9	SLCO1B1*5	2
+fluvastatin	SLCO1B1	CYP2C9*2	2
+fluvastatin	SLCO1B1	CYP2C9*3	2
+fluvastatin	SLCO1B1	rs4149056	2
+fluvastatin	SLCO1B1	SLCO1B1*15	2
+fluvastatin	SLCO1B1	SLCO1B1*5	2
+fluvoxamine	CYP2D6	all alleles	1
+fosphenytoin	CYP2C9	HLA-B*15:02	2
+fosphenytoin	HLA-B	HLA-B*15:02	2
+phenytoin	CYP2C9	HLA-B*15:02	2
+phenytoin	HLA-B	HLA-B*15:02	2
+hydrocodone	CYP2D6	all alleles	1
+imipramine	CYP2C19	all alleles	2
+imipramine	CYP2D6	all alleles	2
+ivacaftor	CFTR	rs113993958	1
+ivacaftor	CFTR	rs115545701	1
+ivacaftor	CFTR	rs11971167	1
+ivacaftor	CFTR	rs121908752	1
+ivacaftor	CFTR	rs121908753	1
+ivacaftor	CFTR	rs121908755	1
+ivacaftor	CFTR	rs121908757	1
+ivacaftor	CFTR	rs121909013	1
+ivacaftor	CFTR	rs121909020	1
+ivacaftor	CFTR	rs121909041	1
+ivacaftor	CFTR	rs141033578	1
+ivacaftor	CFTR	rs150212784	1
+ivacaftor	CFTR	rs186045772	1
+ivacaftor	CFTR	rs193922525	1
+ivacaftor	CFTR	rs202179988	1
+ivacaftor	CFTR	rs267606723	1
+ivacaftor	CFTR	rs368505753	1
+ivacaftor	CFTR	rs397508256	1
+ivacaftor	CFTR	rs397508288	1
+ivacaftor	CFTR	rs397508442	1
+ivacaftor	CFTR	rs397508513	1
+ivacaftor	CFTR	rs397508537	1
+ivacaftor	CFTR	rs397508759	1
+ivacaftor	CFTR	rs74503330	1
+ivacaftor	CFTR	rs74551128	1
+ivacaftor	CFTR	rs75527207	1
+ivacaftor	CFTR	rs75541969	1
+ivacaftor	CFTR	rs77834169	1
+ivacaftor	CFTR	rs77932196	1
+ivacaftor	CFTR	rs78655421	1
+ivacaftor	CFTR	rs78769542	1
+ivacaftor	CFTR	rs80282562	1
+lansoprazole	CYP2C19	all alleles	1
+omeprazole	CYP2C19	all alleles	1
+pantoprazole	CYP2C19	all alleles	1
+lovastatin	SLCO1B1	rs4149056	1
+lovastatin	SLCO1B1	SLCO1B1*15	1
+lovastatin	SLCO1B1	SLCO1B1*5	1
+meloxicam	CYP2C9	all alleles	1
+mercaptopurine	NUDT15	all alleles	2
+mercaptopurine	TPMT	all alleles	2
+metoprolol	CYP2D6	all alleles	1
+nitrofurantoin	G6PD	all alleles	1
+nortriptyline	CYP2D6	all alleles	1
+ondansetron	CYP2D6	all alleles	1
+oxcarbazepine	HLA-B	HLA-B*15:02	1
+paroxetine	CYP2D6	all alleles	1
+peginterferon alfa-2a	IFNL3	rs12979860	1
+peginterferon alfa-2b	IFNL3	rs12979860	1
+ribavirin	IFNL3	rs12979860	1
+piroxicam	CYP2C9	all alleles	1
+pitavastatin	SLCO1B1	rs4149056	1
+pitavastatin	SLCO1B1	SLCO1B1*15	1
+pitavastatin	SLCO1B1	SLCO1B1*5	1
+pravastatin	SLCO1B1	rs4149056	1
+pravastatin	SLCO1B1	SLCO1B1*15	1
+pravastatin	SLCO1B1	SLCO1B1*5	1
+primaquine	G6PD	all alleles	1
+rosuvastatin	ABCG2	rs2231142	2
+rosuvastatin	ABCG2	rs4149056	2
+rosuvastatin	ABCG2	SLCO1B1*15	2
+rosuvastatin	ABCG2	SLCO1B1*5	2
+rosuvastatin	SLCO1B1	rs2231142	2
+rosuvastatin	SLCO1B1	rs4149056	2
+rosuvastatin	SLCO1B1	SLCO1B1*15	2
+rosuvastatin	SLCO1B1	SLCO1B1*5	2
+sertraline	CYP2B6	all alleles	2
+sertraline	CYP2C19	all alleles	2
+simvastatin	SLCO1B1	rs4149056	1
+simvastatin	SLCO1B1	SLCO1B1*15	1
+simvastatin	SLCO1B1	SLCO1B1*5	1
+tacrolimus	CYP3A5	all alleles	1
+tamoxifen	CYP2D6	all alleles	1
+tenoxicam	CYP2C9	all alleles	1
+thioguanine	NUDT15	all alleles	2
+thioguanine	TPMT	all alleles	2
+tramadol	CYP2D6	all alleles	1
+trimipramine	CYP2C19	all alleles	2
+trimipramine	CYP2D6	all alleles	2
+tropisetron	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+voriconazole	CYP2C19	all alleles	1
+vortioxetine	CYP2D6	all alleles	1
+warfarin	CYP2C9	CYP2C9*11	3
+warfarin	CYP2C9	CYP2C9*2	3
+warfarin	CYP2C9	CYP2C9*3	3
+warfarin	CYP2C9	CYP2C9*5	3
+warfarin	CYP2C9	CYP2C9*6	3
+warfarin	CYP2C9	CYP2C9*8	3
+warfarin	CYP2C9	rs12777823	3
+warfarin	CYP2C9	rs2108622	3
+warfarin	CYP2C9	rs9923231	3
+warfarin	CYP4F2	CYP2C9*11	3
+warfarin	CYP4F2	CYP2C9*2	3
+warfarin	CYP4F2	CYP2C9*3	3
+warfarin	CYP4F2	CYP2C9*5	3
+warfarin	CYP4F2	CYP2C9*6	3
+warfarin	CYP4F2	CYP2C9*8	3
+warfarin	CYP4F2	rs12777823	3
+warfarin	CYP4F2	rs2108622	3
+warfarin	CYP4F2	rs9923231	3
+warfarin	VKORC1	CYP2C9*11	3
+warfarin	VKORC1	CYP2C9*2	3
+warfarin	VKORC1	CYP2C9*3	3
+warfarin	VKORC1	CYP2C9*5	3
+warfarin	VKORC1	CYP2C9*6	3
+warfarin	VKORC1	CYP2C9*8	3
+warfarin	VKORC1	rs12777823	3
+warfarin	VKORC1	rs2108622	3
+warfarin	VKORC1	rs9923231	3
+abacavir	HLA-B	HLA-B*57:01	1
+acenocoumarol	VKORC1	rs9923231	1
+allopurinol	ABCG2	rs2231142	1
+allopurinol	HLA-B	HLA-B*58:01	1
+amitriptyline	CYP2D6	all alleles	1
+aripiprazole	CYP2D6	all alleles	1
+atomoxetine	CYP2D6	all alleles	1
+atorvastatin	SLCO1B1	rs4149056	1
+azathioprine	NUDT15	all alleles	1
+azathioprine	TPMT	TPMT*1	1
+azathioprine	TPMT	TPMT*10	1
+azathioprine	TPMT	TPMT*11	1
+azathioprine	TPMT	TPMT*12	1
+azathioprine	TPMT	TPMT*13	1
+azathioprine	TPMT	TPMT*14	1
+azathioprine	TPMT	TPMT*15	1
+azathioprine	TPMT	TPMT*16	1
+azathioprine	TPMT	TPMT*17	1
+azathioprine	TPMT	TPMT*18	1
+azathioprine	TPMT	TPMT*2	1
+azathioprine	TPMT	TPMT*3A	1
+azathioprine	TPMT	TPMT*3B	1
+azathioprine	TPMT	TPMT*3C	1
+azathioprine	TPMT	TPMT*4	1
+azathioprine	TPMT	TPMT*5	1
+azathioprine	TPMT	TPMT*6	1
+azathioprine	TPMT	TPMT*7	1
+azathioprine	TPMT	TPMT*8	1
+azathioprine	TPMT	TPMT*9	1
+brexpiprazole	CYP2D6	all alleles	1
+capecitabine	DPYD	all alleles	1
+carbamazepine	HLA-A	HLA-A*31:01	1
+carbamazepine	HLA-B	HLA-B*15:02	1
+carbamazepine	HLA-B	HLA-B*15:11	1
+citalopram	CYP2C19	all alleles	1
+clomipramine	CYP2C19	all alleles	1
+clomipramine	CYP2D6	all alleles	1
+clopidogrel	CYP2C19	all alleles	1
+codeine	CYP2D6	all alleles	1
+doxepin	CYP2D6	all alleles	1
+efavirenz	CYP2B6	CYP2B6*18	1
+efavirenz	CYP2B6	CYP2B6*5	1
+efavirenz	CYP2B6	CYP2B6*6	1
+eliglustat	CYP2D6	all alleles	1
+escitalopram	CYP2C19	all alleles	1
+flecainide	CYP2D6	all alleles	1
+flucloxacillin	HLA-B	HLA-B*57:01	1
+flucytosine	DPYD	all alleles	1
+fluorouracil	DPYD	all alleles	1
+haloperidol	CYP2D6	all alleles	1
+imipramine	CYP2C19	all alleles	1
+imipramine	CYP2D6	all alleles	1
+irinotecan	UGT1A1	UGT1A1*28	1
+lamotrigine	HLA-B	HLA-B*15:02	1
+lansoprazole	CYP2C19	all alleles	1
+mercaptopurine	NUDT15	all alleles	1
+mercaptopurine	TPMT	TPMT*1	1
+mercaptopurine	TPMT	TPMT*10	1
+mercaptopurine	TPMT	TPMT*11	1
+mercaptopurine	TPMT	TPMT*12	1
+mercaptopurine	TPMT	TPMT*13	1
+mercaptopurine	TPMT	TPMT*14	1
+mercaptopurine	TPMT	TPMT*15	1
+mercaptopurine	TPMT	TPMT*16	1
+mercaptopurine	TPMT	TPMT*17	1
+mercaptopurine	TPMT	TPMT*18	1
+mercaptopurine	TPMT	TPMT*2	1
+mercaptopurine	TPMT	TPMT*3A	1
+mercaptopurine	TPMT	TPMT*3B	1
+mercaptopurine	TPMT	TPMT*3C	1
+mercaptopurine	TPMT	TPMT*4	1
+mercaptopurine	TPMT	TPMT*5	1
+mercaptopurine	TPMT	TPMT*6	1
+mercaptopurine	TPMT	TPMT*7	1
+mercaptopurine	TPMT	TPMT*8	1
+mercaptopurine	TPMT	TPMT*9	1
+metoprolol	CYP2D6	all alleles	1
+nortriptyline	CYP2D6	all alleles	1
+omeprazole	CYP2C19	all alleles	1
+oxcarbazepine	HLA-B	HLA-B*15:02	1
+pantoprazole	CYP2C19	all alleles	1
+paroxetine	CYP2D6	all alleles	1
+phenprocoumon	VKORC1	rs9923231	1
+phenytoin	CYP2C9	CYP2C9*2	1
+phenytoin	CYP2C9	CYP2C9*3	1
+phenytoin	HLA-B	HLA-B*15:02	1
+pimozide	CYP2D6	all alleles	1
+propafenone	CYP2D6	all alleles	1
+quetiapine	CYP3A4	CYP3A4*1	1
+quetiapine	CYP3A4	CYP3A4*11	1
+quetiapine	CYP3A4	CYP3A4*12	1
+quetiapine	CYP3A4	CYP3A4*13	1
+quetiapine	CYP3A4	CYP3A4*16	1
+quetiapine	CYP3A4	CYP3A4*17	1
+quetiapine	CYP3A4	CYP3A4*18	1
+quetiapine	CYP3A4	CYP3A4*20	1
+quetiapine	CYP3A4	CYP3A4*22	1
+quetiapine	CYP3A4	CYP3A4*26	1
+quetiapine	CYP3A4	CYP3A4*6	1
+quetiapine	CYP3A4	CYP3A4*8	1
+risperidone	CYP2D6	all alleles	1
+sertraline	CYP2C19	all alleles	1
+simvastatin	SLCO1B1	rs4149056	1
+siponimod	CYP2C9	CYP2C9*2	1
+siponimod	CYP2C9	CYP2C9*3	1
+tacrolimus	CYP3A5	CYP3A5*3	1
+tamoxifen	CYP2D6	all alleles	1
+tegafur	DPYD	all alleles	1
+thioguanine	NUDT15	all alleles	1
+thioguanine	TPMT	TPMT*1	1
+thioguanine	TPMT	TPMT*10	1
+thioguanine	TPMT	TPMT*11	1
+thioguanine	TPMT	TPMT*12	1
+thioguanine	TPMT	TPMT*13	1
+thioguanine	TPMT	TPMT*14	1
+thioguanine	TPMT	TPMT*15	1
+thioguanine	TPMT	TPMT*16	1
+thioguanine	TPMT	TPMT*17	1
+thioguanine	TPMT	TPMT*18	1
+thioguanine	TPMT	TPMT*2	1
+thioguanine	TPMT	TPMT*3A	1
+thioguanine	TPMT	TPMT*3B	1
+thioguanine	TPMT	TPMT*3C	1
+thioguanine	TPMT	TPMT*4	1
+thioguanine	TPMT	TPMT*5	1
+thioguanine	TPMT	TPMT*6	1
+thioguanine	TPMT	TPMT*7	1
+thioguanine	TPMT	TPMT*8	1
+thioguanine	TPMT	TPMT*9	1
+tramadol	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+voriconazole	CYP2C19	all alleles	1
+warfarin	CYP2C9	CYP2C9*2	1
+warfarin	CYP2C9	CYP2C9*3	1
+warfarin	VKORC1	rs9923231	1
+zuclopenthixol	CYP2D6	all alleles	1
+abacavir	HLA-B	HLA-B*57:01	1
+abrocitinib	CYP2C19	all alleles	1
+acetaminophen / caffeine / dihydrocodeine	CYP2D6	all alleles	1
+allopurinol	HLA-B	HLA-B*58:01	1
+amikacin	MT-RNR1	rs267606617	1
+aripiprazole	CYP2D6	all alleles	1
+aripiprazole lauroxil	CYP2D6	all alleles	1
+articaine / epinephrine	CYB5R3	all alleles	2
+articaine / epinephrine	G6PD	all alleles	2
+Ascorbic acid (vitamin C), combinations	G6PD	all alleles	1
+Ascorbic acid (vitamin C), plain	G6PD	all alleles	1
+sodium ascorbate	G6PD	all alleles	1
+atomoxetine	CYP2D6	all alleles	1
+azathioprine	NUDT15	all alleles	2
+azathioprine	TPMT	all alleles	2
+belinostat	UGT1A1	all alleles	1
+belzutifan	CYP2C19	CYP2C19*2	2
+belzutifan	CYP2C19	CYP2C19*3	2
+belzutifan	UGT2B17	CYP2C19*2	2
+belzutifan	UGT2B17	CYP2C19*3	2
+brexpiprazole	CYP2D6	all alleles	1
+brivaracetam	CYP2C19	all alleles	1
+bupivacaine	CYB5R3	all alleles	2
+bupivacaine	G6PD	all alleles	2
+capecitabine	DPYD	all alleles	1
+carbamazepine	HLA-A	HLA-A*31:01	1
+carbamazepine	HLA-B	HLA-B*15:02	1
+carisoprodol	CYP2C19	all alleles	1
+celecoxib	CYP2C9	CYP2C9*3	1
+cevimeline	CYP2D6	all alleles	1
+chloroquine	G6PD	all alleles	1
+chlorpropamide	G6PD	all alleles	1
+citalopram	CYP2C19	all alleles	1
+clobazam	CYP2C19	all alleles	1
+clopidogrel	CYP2C19	all alleles	1
+clozapine	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+dabrafenib	G6PD	all alleles	1
+desflurane	CACNA1S	all alleles	2
+desflurane	RYR1	all alleles	2
+deutetrabenazine	CYP2D6	all alleles	1
+dextromethorphan hydrobromide / bupropion hydrochloride	CYP2D6	all alleles	1
+dextromethorphan / quinidine	CYP2D6	all alleles	1
+dronabinol	CYP2C9	all alleles	1
+eliglustat	CYP2D6	all alleles	1
+erdafitinib	CYP2C9	CYP2C9*3	1
+flibanserin	CYP2C19	all alleles	1
+fluorouracil	DPYD	all alleles	1
+fluoxetine	CYP2D6	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+flutamide	G6PD	all alleles	1
+fluvoxamine	CYP2D6	all alleles	1
+fosphenytoin	CYP2C19	CYP2C9*2	3
+fosphenytoin	CYP2C19	CYP2C9*3	3
+fosphenytoin	CYP2C19	HLA-B*15:02	3
+fosphenytoin	CYP2C9	CYP2C9*2	3
+fosphenytoin	CYP2C9	CYP2C9*3	3
+fosphenytoin	CYP2C9	HLA-B*15:02	3
+fosphenytoin	HLA-B	CYP2C9*2	3
+fosphenytoin	HLA-B	CYP2C9*3	3
+fosphenytoin	HLA-B	HLA-B*15:02	3
+gefitinib	CYP2D6	all alleles	1
+gentamicin	MT-RNR1	rs267606617	1
+glimepiride	G6PD	all alleles	1
+glipizide	G6PD	all alleles	1
+glyburide	G6PD	all alleles	1
+hydroxychloroquine	G6PD	all alleles	1
+iloperidone	CYP2D6	all alleles	1
+irinotecan	UGT1A1	UGT1A1*28	1
+irinotecan	UGT1A1	UGT1A1*6	1
+isoflurane	CACNA1S	all alleles	2
+isoflurane	RYR1	all alleles	2
+ivacaftor	CFTR	rs113993958	1
+ivacaftor	CFTR	rs115545701	1
+ivacaftor	CFTR	rs11971167	1
+ivacaftor	CFTR	rs121908752	1
+ivacaftor	CFTR	rs121908753	1
+ivacaftor	CFTR	rs121908755	1
+ivacaftor	CFTR	rs121908757	1
+ivacaftor	CFTR	rs121909013	1
+ivacaftor	CFTR	rs121909020	1
+ivacaftor	CFTR	rs121909041	1
+ivacaftor	CFTR	rs141033578	1
+ivacaftor	CFTR	rs150212784	1
+ivacaftor	CFTR	rs186045772	1
+ivacaftor	CFTR	rs193922525	1
+ivacaftor	CFTR	rs200321110	1
+ivacaftor	CFTR	rs202179988	1
+ivacaftor	CFTR	rs267606723	1
+ivacaftor	CFTR	rs368505753	1
+ivacaftor	CFTR	rs397508256	1
+ivacaftor	CFTR	rs397508288	1
+ivacaftor	CFTR	rs397508387	1
+ivacaftor	CFTR	rs397508442	1
+ivacaftor	CFTR	rs397508513	1
+ivacaftor	CFTR	rs397508537	1
+ivacaftor	CFTR	rs397508761	1
+ivacaftor	CFTR	rs74503330	1
+ivacaftor	CFTR	rs74551128	1
+ivacaftor	CFTR	rs75039782	1
+ivacaftor	CFTR	rs75527207	1
+ivacaftor	CFTR	rs75541969	1
+ivacaftor	CFTR	rs76151804	1
+ivacaftor	CFTR	rs77834169	1
+ivacaftor	CFTR	rs77932196	1
+ivacaftor	CFTR	rs78655421	1
+ivacaftor	CFTR	rs78769542	1
+ivacaftor	CFTR	rs80224560	1
+ivacaftor	CFTR	rs80282562	1
+lesinurad	CYP2C9	all alleles	1
+lidocaine and tetracaine	G6PD	all alleles	1
+lidocaine / prilocaine	CYB5R3	all alleles	2
+lidocaine / prilocaine	G6PD	all alleles	2
+lofexidine	CYP2D6	all alleles	1
+meclizine	CYP2D6	all alleles	1
+meloxicam	CYP2C9	CYP2C9*3	1
+mepivacaine	G6PD	all alleles	1
+mercaptopurine	NUDT15	NUDT15*2	2
+mercaptopurine	NUDT15	NUDT15*3	2
+mercaptopurine	NUDT15	TPMT*2	2
+mercaptopurine	NUDT15	TPMT*3A	2
+mercaptopurine	NUDT15	TPMT*3C	2
+mercaptopurine	TPMT	NUDT15*2	2
+mercaptopurine	TPMT	NUDT15*3	2
+mercaptopurine	TPMT	TPMT*2	2
+mercaptopurine	TPMT	TPMT*3A	2
+mercaptopurine	TPMT	TPMT*3C	2
+methylene blue	G6PD	all alleles	1
+metoclopramide	CYP2D6	all alleles	1
+moviprep	G6PD	all alleles	1
+nalidixic acid	G6PD	all alleles	1
+nitrofurantoin	G6PD	all alleles	1
+oliceridine	CYP2D6	all alleles	1
+oxcarbazepine	HLA-B	HLA-B*15:02	1
+oxymetazoline and tetracaine	BCHE	all alleles	3
+oxymetazoline and tetracaine	CYB5R3	all alleles	3
+oxymetazoline and tetracaine	G6PD	all alleles	3
+pantoprazole	CYP2C19	all alleles	1
+pegloticase	G6PD	all alleles	1
+phenytoin	CYP2C9	CYP2C9*2	2
+phenytoin	CYP2C9	CYP2C9*3	2
+phenytoin	CYP2C9	HLA-B*15:02	2
+phenytoin	HLA-B	CYP2C9*2	2
+phenytoin	HLA-B	CYP2C9*3	2
+phenytoin	HLA-B	HLA-B*15:02	2
+pimozide	CYP2D6	all alleles	1
+piroxicam	CYP2C9	all alleles	1
+pitolisant	CYP2D6	all alleles	1
+plazomicin	MT-RNR1	rs267606617	1
+primaquine	G6PD	all alleles	1
+rasburicase	G6PD	all alleles	1
+sacituzumab govitecan	UGT1A1	UGT1A1*28	1
+sevoflurane	CACNA1S	all alleles	2
+sevoflurane	RYR1	all alleles	2
+siponimod	CYP2C9	CYP2C9*2	1
+siponimod	CYP2C9	CYP2C9*3	1
+sodium nitrite	CYB5R3	all alleles	2
+sodium nitrite	G6PD	all alleles	2
+streptomycin	MT-RNR1	rs267606617	1
+succinylcholine	BCHE	all alleles	3
+succinylcholine	CACNA1S	all alleles	3
+succinylcholine	RYR1	all alleles	3
+sulfasalazine	G6PD	all alleles	1
+tafenoquine	G6PD	all alleles	1
+tamsulosin	CYP2D6	all alleles	1
+tetrabenazine	CYP2D6	all alleles	1
+thioguanine	NUDT15	all alleles	2
+thioguanine	TPMT	all alleles	2
+thioridazine	CYP2D6	all alleles	1
+tobramycin	MT-RNR1	rs267606617	1
+tolazamide	G6PD	all alleles	1
+tolbutamide	G6PD	all alleles	1
+tramadol	CYP2D6	all alleles	1
+valbenazine	CYP2D6	all alleles	1
+vortioxetine	CYP2D6	all alleles	1
+warfarin	CYP2C9	CYP2C9*1	4
+warfarin	CYP2C9	CYP2C9*2	4
+warfarin	CYP2C9	CYP2C9*3	4
+warfarin	CYP2C9	rs9923231	4
+warfarin	PROC	CYP2C9*1	4
+warfarin	PROC	CYP2C9*2	4
+warfarin	PROC	CYP2C9*3	4
+warfarin	PROC	rs9923231	4
+warfarin	PROS1	CYP2C9*1	4
+warfarin	PROS1	CYP2C9*2	4
+warfarin	PROS1	CYP2C9*3	4
+warfarin	PROS1	rs9923231	4
+warfarin	VKORC1	CYP2C9*1	4
+warfarin	VKORC1	CYP2C9*2	4
+warfarin	VKORC1	CYP2C9*3	4
+warfarin	VKORC1	rs9923231	4
+amitriptyline	CYP2D6	all alleles	1
+amoxapine	CYP2D6	all alleles	1
+atorvastatin	SLCO1B1	all alleles	1
+avatrombopag	CYP2C9	all alleles	1
+carisoprodol	CYP2C19	all alleles	1
+clomipramine	CYP2D6	all alleles	1
+darifenacin	CYP2D6	all alleles	1
+desipramine	CYP2D6	all alleles	1
+dexlansoprazole	CYP2C19	all alleles	1
+diazepam	CYP2C19	all alleles	1
+dolutegravir	UGT1A1	all alleles	1
+donepezil	CYP2D6	all alleles	1
+doxepin	CYP2C19	all alleles	1
+doxepin	CYP2D6	all alleles	1
+elagolix	SLCO1B1	all alleles	1
+escitalopram	CYP2C19	all alleles	1
+esomeprazole	CYP2C19	all alleles	1
+fesoterodine	CYP2D6	all alleles	1
+fluvoxamine	CYP2D6	all alleles	1
+galantamine	CYP2D6	all alleles	1
+ibuprofen	CYP2C9	all alleles	1
+imipramine	CYP2D6	all alleles	1
+lansoprazole	CYP2C19	all alleles	1
+metoprolol	CYP2D6	all alleles	1
+mirabegron	CYP2D6	all alleles	1
+nebivolol	CYP2D6	all alleles	1
+nortriptyline	CYP2D6	all alleles	1
+omeprazole	CYP2C19	all alleles	1
+paroxetine	CYP2D6	all alleles	1
+propranolol	CYP2D6	all alleles	1
+protriptyline	CYP2D6	all alleles	1
+rabeprazole	CYP2C19	all alleles	1
+raltegravir	UGT1A1	all alleles	1
+risperidone	CYP2D6	all alleles	1
+rosuvastatin	SLCO1B1	all alleles	1
+tamoxifen	CYP2D6	all alleles	1
+tamsulosin	CYP2D6	all alleles	1
+trimipramine	CYP2D6	all alleles	1
+viloxazine	CYP2D6	all alleles	1
+allopurinol	HLA-B	HLA-B*58:01	1
+carbamazepine	HLA-A	HLA-A*31:01	1
+carvedilol	CYP2D6	all alleles	1
+cevimeline	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+efavirenz	CYP2B6	all alleles	1
+mavacamten	CYP2C19	all alleles	1
+nilotinib	UGT1A1	all alleles	1
+oxcarbazepine	HLA-B	HLA-B*15:02	1
+pazopanib	HLA-B	HLA-B*57:01	1
+pazopanib	UGT1A1	all alleles	1
+perphenazine	CYP2D6	all alleles	1
+simvastatin	SLCO1B1	all alleles	1
+tolterodine	CYP2D6	all alleles	1
+tramadol	CYP2D6	all alleles	1
+voriconazole	CYP2C19	all alleles	1
+abacavir	HLA-B	HLA-B*57:01	1
+abrocitinib	CYP2C19	all alleles	1
+amphetamine	CYP2D6	all alleles	1
+aripiprazole	CYP2D6	all alleles	1
+aripiprazole lauroxil	CYP2D6	all alleles	1
+atomoxetine	CYP2D6	all alleles	1
+azathioprine	NUDT15	all alleles	2
+azathioprine	TPMT	all alleles	2
+belinostat	UGT1A1	all alleles	1
+belzutifan	CYP2C19	all alleles	2
+belzutifan	UGT2B17	all alleles	2
+brexpiprazole	CYP2D6	all alleles	1
+brivaracetam	CYP2C19	all alleles	1
+capecitabine	DPYD	all alleles	1
+carbamazepine	HLA-B	HLA-B*15:02	1
+celecoxib	CYP2C9	all alleles	1
+citalopram	CYP2C19	all alleles	1
+clobazam	CYP2C19	all alleles	1
+clopidogrel	CYP2C19	all alleles	1
+clozapine	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+deutetrabenazine	CYP2D6	all alleles	1
+dronabinol	CYP2C9	all alleles	1
+eliglustat	CYP2D6	all alleles	1
+erdafitinib	CYP2C9	all alleles	1
+flibanserin	CYP2C19	all alleles	1
+fluorouracil	DPYD	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+fosphenytoin	CYP2C9	all alleles	1
+fosphenytoin	HLA-B	HLA-B*15:02	1
+gefitinib	CYP2D6	all alleles	1
+iloperidone	CYP2D6	all alleles	1
+irinotecan	UGT1A1	all alleles	1
+lofexidine	CYP2D6	all alleles	1
+meclizine	CYP2D6	all alleles	1
+meloxicam	CYP2C9	all alleles	1
+mercaptopurine	NUDT15	all alleles	2
+mercaptopurine	TPMT	all alleles	2
+metoclopramide	CYP2D6	all alleles	1
+nateglinide	CYP2C9	all alleles	1
+oliceridine	CYP2D6	all alleles	1
+pantoprazole	CYP2C19	all alleles	1
+phenytoin	CYP2C9	all alleles	1
+phenytoin	HLA-B	HLA-B*15:02	1
+pimozide	CYP2D6	all alleles	1
+piroxicam	CYP2C9	all alleles	1
+pitolisant	CYP2D6	all alleles	1
+propafenone	CYP2D6	all alleles	1
+sacituzumab govitecan	UGT1A1	all alleles	1
+siponimod	CYP2C9	all alleles	1
+tacrolimus	CYP3A5	all alleles	1
+tetrabenazine	CYP2D6	all alleles	1
+thioguanine	NUDT15	all alleles	2
+thioguanine	TPMT	all alleles	2
+thioridazine	CYP2D6	all alleles	1
+tramadol	CYP2D6	all alleles	1
+valbenazine	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+vortioxetine	CYP2D6	all alleles	1
+warfarin	CYP2C9	all alleles	1
+warfarin	VKORC1	all alleles	1

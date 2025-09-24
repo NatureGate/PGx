@@ -1,0 +1,89 @@
+drug,drug_id,gene,diplotype,ref_guide,implications,recommendation,classification
+atazanavir,PA10251,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,Not Found,Not Found
+belinostat,PA165971474,UGT1A1,*1/*80+*28,FDA Label Annotation,,,
+dolutegravir,PA166114961,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,Not Found,Not Found
+irinotecan,PA450085,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,"The CAMPTOSAR [irinotecan] label states &quot;Individuals who are heterozygous for either the UGT1A1*28 or *6 alleles (*1/*6, *1/*28) are UGT1A1 intermediate metabolizers and may also have an increased risk of severe or life-threatening neutropenia. Published studies have shown that individuals with UGT1A1*28 and *6 alleles may be at an increased risk of severe diarrhea.&quot;  &quot;Closely monitor patients with UGT1A1*28 or *6 alleles for neutropenia during and after treatment with CAMPTOSAR.&quot; See label for more information.",Unspecified
+nilotinib,PA165958345,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,Not Found,Not Found
+pazopanib,PA165291492,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,Not Found,Not Found
+raltegravir,PA164888966,UGT1A1,*1/*80+*28,FDA Label Annotation,Not Found,Not Found,Not Found
+sacituzumab govitecan,PA166225061,UGT1A1,*1/*80+*28,FDA Label Annotation,,,
+warfarin,PA451906,VKORC1,rs9923231 variant (T)/rs9923231 variant (T),FDA Label Annotation,,,
+carbamazepine,PA448785,HLA-A,Unknown/Unknown,FDA Label Annotation,,,
+,,NAT2,,FDA Label Annotation,Not Found,Not Found,Not Found
+acetaminophen ,PA166246281,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+ caffeine ,PA166246281,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+ dihydrocodeine,PA166246281,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+amitriptyline,PA448385,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+amoxapine,PA448405,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+amphetamine,PA448408,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+aripiprazole,PA10026,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+aripiprazole lauroxil,PA166161216,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+atomoxetine,PA134688071,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+brexpiprazole,PA166160053,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+carvedilol,PA448817,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+cevimeline,PA164754754,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+clomipramine,PA449048,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+clozapine,PA449061,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+codeine,PA449088,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+darifenacin,PA164774901,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+desipramine,PA449233,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+deutetrabenazine,PA166169881,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+dextromethorphan ,PA166175998,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+ quinidine,PA166175998,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+dextromethorphan hydrobromide ,PA166278341,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+ bupropion hydrochloride,PA166278341,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+donepezil,PA449394,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+doxepin,PA449409,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+eliglustat,PA166123486,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+fesoterodine,PA165958376,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+fluoxetine,PA449673,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+fluvoxamine,PA449690,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+galantamine,PA449726,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+gefitinib,PA131301952,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+hydrocodone,PA449900,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+iloperidone,PA161199368,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+imipramine,PA449969,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+lofexidine,PA164744510,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+meclizine,PA450338,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+metoclopramide,PA450475,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+metoprolol,PA450480,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+mirabegron,PA166177513,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+nebivolol,PA151958426,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+nortriptyline,PA450657,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+oliceridine,PA166223601,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+ondansetron,PA450705,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+paroxetine,PA450801,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+perphenazine,PA450882,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+pimozide,PA450965,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+pitolisant,PA166185163,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+propafenone,PA451131,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+propranolol,PA451145,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+protriptyline,PA451168,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+risperidone,PA451257,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+tamoxifen,PA451581,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+tamsulosin,PA451583,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+tetrabenazine,PA140222719,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+thioridazine,PA451666,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+tolterodine,PA164746757,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+tramadol,PA451735,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+trimipramine,PA451791,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+tropisetron,PA161925594,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+valbenazine,PA166170051,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+venlafaxine,PA451866,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+viloxazine,PA166251581,CYP2D6,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+vortioxetine,PA166122595,CYP2D6,Unknown/Unknown,FDA Label Annotation,,,
+desflurane,PA164749136,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+enflurane,PA449461,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+halothane,PA449845,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+isoflurane,PA450106,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+methoxyflurane,PA450434,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+sevoflurane,PA451341,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+succinylcholine,PA451522,RYR1,Reference/Reference,FDA Label Annotation,Not Found,Not Found,Not Found
+abacavir,PA448004,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+allopurinol,PA448320,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+carbamazepine,PA448785,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+fosphenytoin,PA164746820,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+oxcarbazepine,PA450732,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+pazopanib,PA165291492,HLA-B,Unknown/Unknown,FDA Label Annotation,Not Found,Not Found,Not Found
+phenytoin,PA450947,HLA-B,Unknown/Unknown,FDA Label Annotation,,,
+rosuvastatin,PA134308647,ABCG2,rs2231142 reference (G)/rs2231142 variant (T),FDA Label Annotation,Not Found,Not Found,Not Found

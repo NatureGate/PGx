@@ -1,0 +1,300 @@
+Chemical	Gene	Allele	Gene_number
+
+amitriptyline	CYP2D6	all alleles	2
+
+atomoxetine	CYP2D6	all alleles	1
+
+celecoxib	CYP2C9	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+ibuprofen	CYP2C9	all alleles	1
+lornoxicam	CYP2C9	all alleles	1
+citalopram	CYP2C19	all alleles	1
+
+clomipramine	CYP2D6	all alleles	2
+
+codeine	CYP2D6	all alleles	1
+dapsone	G6PD	all alleles	1
+methylene blue	G6PD	all alleles	1
+pegloticase	G6PD	all alleles	1
+rasburicase	G6PD	all alleles	1
+tafenoquine	G6PD	all alleles	1
+toluidine blue	G6PD	all alleles	1
+
+
+
+
+
+desipramine	CYP2D6	all alleles	1
+
+doxepin	CYP2D6	all alleles	2
+
+
+fluvoxamine	CYP2D6	all alleles	1
+
+hydrocodone	CYP2D6	all alleles	1
+
+imipramine	CYP2D6	all alleles	2
+
+meloxicam	CYP2C9	all alleles	1
+
+mercaptopurine	TPMT	all alleles	2
+metoprolol	CYP2D6	all alleles	1
+nitrofurantoin	G6PD	all alleles	1
+
+ondansetron	CYP2D6	all alleles	1
+
+paroxetine	CYP2D6	all alleles	1
+
+piroxicam	CYP2C9	all alleles	1
+
+primaquine	G6PD	all alleles	1
+
+tamoxifen	CYP2D6	all alleles	1
+tenoxicam	CYP2C9	all alleles	1
+
+tramadol	CYP2D6	all alleles	1
+
+trimipramine	CYP2D6	all alleles	2
+tropisetron	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+
+vortioxetine	CYP2D6	all alleles	1
+
+atomoxetine	CYP2D6	all alleles	1
+atorvastatin	SLCO1B1	rs4149056	1
+
+brexpiprazole	CYP2D6	all alleles	1
+
+clomipramine	CYP2D6	all alleles	1
+
+codeine	CYP2D6	all alleles	1
+doxepin	CYP2D6	all alleles	1
+
+flecainide	CYP2D6	all alleles	1
+
+flucytosine	DPYD	all alleles	1
+fluorouracil	DPYD	all alleles	1
+haloperidol	CYP2D6	all alleles	1
+
+imipramine	CYP2D6	all alleles	1
+
+metoprolol	CYP2D6	all alleles	1
+nortriptyline	CYP2D6	all alleles	1
+omeprazole	CYP2C19	all alleles	1
+oxcarbazepine	HLA-B	HLA-B*15:02	1
+pantoprazole	CYP2C19	all alleles	1
+paroxetine	CYP2D6	all alleles	1
+phenprocoumon	VKORC1	rs9923231	1
+phenytoin	HLA-B	HLA-B*15:02	1
+pimozide	CYP2D6	all alleles	1
+propafenone	CYP2D6	all alleles	1
+risperidone	CYP2D6	all alleles	1
+sertraline	CYP2C19	all alleles	1
+simvastatin	SLCO1B1	rs4149056	1
+tacrolimus	CYP3A5	CYP3A5*3	1
+tamoxifen	CYP2D6	all alleles	1
+tegafur	DPYD	all alleles	1
+thioguanine	NUDT15	all alleles	1
+thioguanine	TPMT	TPMT*1	1
+thioguanine	TPMT	TPMT*10	1
+thioguanine	TPMT	TPMT*11	1
+thioguanine	TPMT	TPMT*12	1
+thioguanine	TPMT	TPMT*13	1
+thioguanine	TPMT	TPMT*14	1
+thioguanine	TPMT	TPMT*15	1
+thioguanine	TPMT	TPMT*16	1
+thioguanine	TPMT	TPMT*17	1
+thioguanine	TPMT	TPMT*18	1
+thioguanine	TPMT	TPMT*2	1
+thioguanine	TPMT	TPMT*3A	1
+thioguanine	TPMT	TPMT*3B	1
+thioguanine	TPMT	TPMT*3C	1
+thioguanine	TPMT	TPMT*4	1
+thioguanine	TPMT	TPMT*5	1
+thioguanine	TPMT	TPMT*6	1
+thioguanine	TPMT	TPMT*7	1
+thioguanine	TPMT	TPMT*8	1
+thioguanine	TPMT	TPMT*9	1
+tramadol	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+voriconazole	CYP2C19	all alleles	1
+warfarin	VKORC1	rs9923231	1
+zuclopenthixol	CYP2D6	all alleles	1
+acetaminophen / caffeine / dihydrocodeine	CYP2D6	all alleles	1
+aripiprazole	CYP2D6	all alleles	1
+aripiprazole lauroxil	CYP2D6	all alleles	1
+articaine / epinephrine	G6PD	all alleles	2
+Ascorbic acid (vitamin C), combinations	G6PD	all alleles	1
+Ascorbic acid (vitamin C), plain	G6PD	all alleles	1
+sodium ascorbate	G6PD	all alleles	1
+atomoxetine	CYP2D6	all alleles	1
+brexpiprazole	CYP2D6	all alleles	1
+bupivacaine	G6PD	all alleles	2
+cevimeline	CYP2D6	all alleles	1
+chloroquine	G6PD	all alleles	1
+chlorpropamide	G6PD	all alleles	1
+clozapine	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+dabrafenib	G6PD	all alleles	1
+desflurane	RYR1	all alleles	2
+deutetrabenazine	CYP2D6	all alleles	1
+dextromethorphan hydrobromide / bupropion hydrochloride	CYP2D6	all alleles	1
+dextromethorphan / quinidine	CYP2D6	all alleles	1
+dronabinol	CYP2C9	all alleles	1
+eliglustat	CYP2D6	all alleles	1
+fluoxetine	CYP2D6	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+flutamide	G6PD	all alleles	1
+fluvoxamine	CYP2D6	all alleles	1
+gefitinib	CYP2D6	all alleles	1
+glimepiride	G6PD	all alleles	1
+glipizide	G6PD	all alleles	1
+glyburide	G6PD	all alleles	1
+hydroxychloroquine	G6PD	all alleles	1
+iloperidone	CYP2D6	all alleles	1
+isoflurane	RYR1	all alleles	2
+lesinurad	CYP2C9	all alleles	1
+lidocaine and tetracaine	G6PD	all alleles	1
+lidocaine / prilocaine	G6PD	all alleles	2
+lofexidine	CYP2D6	all alleles	1
+meclizine	CYP2D6	all alleles	1
+mepivacaine	G6PD	all alleles	1
+methylene blue	G6PD	all alleles	1
+metoclopramide	CYP2D6	all alleles	1
+moviprep	G6PD	all alleles	1
+nalidixic acid	G6PD	all alleles	1
+nitrofurantoin	G6PD	all alleles	1
+oliceridine	CYP2D6	all alleles	1
+oxymetazoline and tetracaine	G6PD	all alleles	3
+pegloticase	G6PD	all alleles	1
+pimozide	CYP2D6	all alleles	1
+piroxicam	CYP2C9	all alleles	1
+pitolisant	CYP2D6	all alleles	1
+primaquine	G6PD	all alleles	1
+rasburicase	G6PD	all alleles	1
+sevoflurane	RYR1	all alleles	2
+succinylcholine	RYR1	all alleles	3
+sulfasalazine	G6PD	all alleles	1
+tafenoquine	G6PD	all alleles	1
+tamsulosin	CYP2D6	all alleles	1
+tetrabenazine	CYP2D6	all alleles	1
+thioridazine	CYP2D6	all alleles	1
+tolazamide	G6PD	all alleles	1
+tolbutamide	G6PD	all alleles	1
+tramadol	CYP2D6	all alleles	1
+valbenazine	CYP2D6	all alleles	1
+vortioxetine	CYP2D6	all alleles	1
+amitriptyline	CYP2D6	all alleles	1
+amoxapine	CYP2D6	all alleles	1
+atorvastatin	SLCO1B1	all alleles	1
+avatrombopag	CYP2C9	all alleles	1
+carisoprodol	CYP2C19	all alleles	1
+clomipramine	CYP2D6	all alleles	1
+darifenacin	CYP2D6	all alleles	1
+desipramine	CYP2D6	all alleles	1
+dexlansoprazole	CYP2C19	all alleles	1
+diazepam	CYP2C19	all alleles	1
+
+donepezil	CYP2D6	all alleles	1
+
+doxepin	CYP2D6	all alleles	1
+elagolix	SLCO1B1	all alleles	1
+escitalopram	CYP2C19	all alleles	1
+esomeprazole	CYP2C19	all alleles	1
+fesoterodine	CYP2D6	all alleles	1
+fluvoxamine	CYP2D6	all alleles	1
+galantamine	CYP2D6	all alleles	1
+ibuprofen	CYP2C9	all alleles	1
+imipramine	CYP2D6	all alleles	1
+lansoprazole	CYP2C19	all alleles	1
+metoprolol	CYP2D6	all alleles	1
+mirabegron	CYP2D6	all alleles	1
+nebivolol	CYP2D6	all alleles	1
+nortriptyline	CYP2D6	all alleles	1
+omeprazole	CYP2C19	all alleles	1
+paroxetine	CYP2D6	all alleles	1
+propranolol	CYP2D6	all alleles	1
+protriptyline	CYP2D6	all alleles	1
+rabeprazole	CYP2C19	all alleles	1
+raltegravir	UGT1A1	all alleles	1
+risperidone	CYP2D6	all alleles	1
+rosuvastatin	SLCO1B1	all alleles	1
+tamoxifen	CYP2D6	all alleles	1
+tamsulosin	CYP2D6	all alleles	1
+trimipramine	CYP2D6	all alleles	1
+viloxazine	CYP2D6	all alleles	1
+
+carvedilol	CYP2D6	all alleles	1
+cevimeline	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+efavirenz	CYP2B6	all alleles	1
+mavacamten	CYP2C19	all alleles	1
+nilotinib	UGT1A1	all alleles	1
+
+pazopanib	UGT1A1	all alleles	1
+perphenazine	CYP2D6	all alleles	1
+simvastatin	SLCO1B1	all alleles	1
+tolterodine	CYP2D6	all alleles	1
+tramadol	CYP2D6	all alleles	1
+voriconazole	CYP2C19	all alleles	1
+
+abrocitinib	CYP2C19	all alleles	1
+amphetamine	CYP2D6	all alleles	1
+aripiprazole	CYP2D6	all alleles	1
+aripiprazole lauroxil	CYP2D6	all alleles	1
+atomoxetine	CYP2D6	all alleles	1
+azathioprine	NUDT15	all alleles	2
+azathioprine	TPMT	all alleles	2
+belinostat	UGT1A1	all alleles	1
+belzutifan	CYP2C19	all alleles	2
+belzutifan	UGT2B17	all alleles	2
+brexpiprazole	CYP2D6	all alleles	1
+brivaracetam	CYP2C19	all alleles	1
+capecitabine	DPYD	all alleles	1
+carbamazepine	HLA-B	HLA-B*15:02	1
+celecoxib	CYP2C9	all alleles	1
+citalopram	CYP2C19	all alleles	1
+clobazam	CYP2C19	all alleles	1
+clopidogrel	CYP2C19	all alleles	1
+clozapine	CYP2D6	all alleles	1
+codeine	CYP2D6	all alleles	1
+deutetrabenazine	CYP2D6	all alleles	1
+dronabinol	CYP2C9	all alleles	1
+eliglustat	CYP2D6	all alleles	1
+erdafitinib	CYP2C9	all alleles	1
+flibanserin	CYP2C19	all alleles	1
+fluorouracil	DPYD	all alleles	1
+flurbiprofen	CYP2C9	all alleles	1
+fosphenytoin	CYP2C9	all alleles	1
+fosphenytoin	HLA-B	HLA-B*15:02	1
+gefitinib	CYP2D6	all alleles	1
+iloperidone	CYP2D6	all alleles	1
+irinotecan	UGT1A1	all alleles	1
+lofexidine	CYP2D6	all alleles	1
+meclizine	CYP2D6	all alleles	1
+meloxicam	CYP2C9	all alleles	1
+mercaptopurine	NUDT15	all alleles	2
+mercaptopurine	TPMT	all alleles	2
+metoclopramide	CYP2D6	all alleles	1
+nateglinide	CYP2C9	all alleles	1
+oliceridine	CYP2D6	all alleles	1
+pantoprazole	CYP2C19	all alleles	1
+phenytoin	CYP2C9	all alleles	1
+phenytoin	HLA-B	HLA-B*15:02	1
+pimozide	CYP2D6	all alleles	1
+piroxicam	CYP2C9	all alleles	1
+pitolisant	CYP2D6	all alleles	1
+propafenone	CYP2D6	all alleles	1
+sacituzumab govitecan	UGT1A1	all alleles	1
+siponimod	CYP2C9	all alleles	1
+tacrolimus	CYP3A5	all alleles	1
+tetrabenazine	CYP2D6	all alleles	1
+thioguanine	NUDT15	all alleles	2
+thioguanine	TPMT	all alleles	2
+thioridazine	CYP2D6	all alleles	1
+tramadol	CYP2D6	all alleles	1
+valbenazine	CYP2D6	all alleles	1
+venlafaxine	CYP2D6	all alleles	1
+vortioxetine	CYP2D6	all alleles	1
+warfarin	CYP2C9	all alleles	1
+warfarin	VKORC1	all alleles	1
