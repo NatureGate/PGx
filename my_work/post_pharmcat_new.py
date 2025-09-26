@@ -22,8 +22,8 @@ DRUG_ANNOTATION = {
 
 OUTCALL_GENE={'CYP2D6','HLA-A','HLA-B','MT-RNR1'}
 
-# DRUG_NAME_JSON = '/home/stereonote/data/drugs_union.json'
-DRUG_NAME_JSON = 'drugs_union.json'
+DRUG_NAME_JSON = '/home/stereonote/data/drugs_union.json'
+#DRUG_NAME_JSON = 'drugs_union.json'
 def drug_name_en2zh(df):
 
     # 读取 JSON 文件
@@ -75,10 +75,8 @@ def prepare_variant_msg(file1, file2):
     prepharmcat_data['pHGVS'] = prepharmcat_data['INFO'].str.split('|').str[10]
     df['gene'] = prepharmcat_data['PX']
     df['rsid'] = prepharmcat_data['ID']
-    # df['cHGVS'] = prepharmcat_data['cHGVS']
-    # df['pHGVS'] = prepharmcat_data['pHGVS']
-    df['cHGVS'] = 'test'
-    df['pHGVS'] = 'test'
+    df['cHGVS'] = prepharmcat_data['cHGVS']
+    df['pHGVS'] = prepharmcat_data['pHGVS']
     grouped_df = df.groupby('gene', as_index=False).agg({
         'cHGVS': lambda x: ','.join(set(x)),  
         'pHGVS': lambda x: ','.join(set(x)),  
@@ -116,16 +114,16 @@ def get_gene(df:pd.DataFrame, outcall_file):
 def add_drugs(df,related_drugs, gene,diplotype,annotation_type):
     
     for drugs in related_drugs:
-        # if drugs['name'].__contains__('/'):
-        #     # for drug in drugs['name'].split('/'):
-        #     #     new_row=[drug,drugs['id'], gene,diplotype,annotation_type]
-        #     #     df.loc[len(df)] = new_row  
-        #     # # new_row=[drugs['name'], drugs['id'], gene,diplotype,annotation_type]
-        #     # # df.loc[len(df)] = new_row
-        #     continue
-        # else:
-        new_row=[drugs['name'], drugs['id'], gene,diplotype,annotation_type]
-        df.loc[len(df)] = new_row  
+        if drugs['name'].__contains__('/'):
+            # for drug in drugs['name'].split('/'):
+            #     new_row=[drug,drugs['id'], gene,diplotype,annotation_type]
+            #     df.loc[len(df)] = new_row  
+            # # new_row=[drugs['name'], drugs['id'], gene,diplotype,annotation_type]
+            # # df.loc[len(df)] = new_row
+            continue
+        else:
+            new_row=[drugs['name'], drugs['id'], gene,diplotype,annotation_type]
+            df.loc[len(df)] = new_row  
     return df
 
 def get_all_guideline(df:pd.DataFrame,data,annotation_type,diplotype,gene_table):
@@ -238,7 +236,7 @@ def get_annotation(diplotype_gene_set, df, data, annotation_type,gene_table):
             new_row = ['', '', gene, '', annotation_type]
             df.loc[len(df)] = new_row
     
-        results = get_all_guideline(df,data,annotation_type,diplotype,gene_table)
+    results = get_all_guideline(df,data,annotation_type,diplotype,gene_table)
     
     return results
 
@@ -284,8 +282,7 @@ def add_filter_gene(results_table,filtered_df,sample_id):
 # 这里添加的是有CPIC用药指南，但是没有检测出变异的基因。
 def add_reference_gene_report(results_table,var_gene):
     
-    # data = pd.read_csv('/home/stereonote/data/merged_output.csv',sep='\t',dtype=str)
-    data = pd.read_csv('merged_output.csv',sep='\t',dtype=str)
+    data = pd.read_csv('/home/stereonote/data/merged_output.csv',sep='\t',dtype=str)
     default_gene = set(data['gene'])
     results_gene = var_gene
     print(f"results_gene:{results_gene}")
@@ -342,42 +339,17 @@ def filter_single_effect_genes(unknown_type_gene_table: pd.DataFrame,
     result = unknown_type_gene_table.groupby(group_cols, as_index=False).first()
 
     return result
+    
 
-def split_drug(df):
-    # 2. 拆分 drug 列中含 "/" 的行
-    has_slash = df['drug'].str.contains('/', na=False)
-    df_to_split = df[has_slash].copy()
-    df_intact   = df[~has_slash].copy()
-    # 3. 真正拆分
-    #    先按 / 拆成多列，再 stack 成 Series，再还原成 DataFrame
-    split_series = (
-        df_to_split['drug']
-        .str.split('/', expand=True)   # 拆成多列
-        .stack()                       # 变成长 Series
-        .reset_index(level=1, drop=True)
-        .rename('drug')                # 保持列名一致
-    )
-
-    # 4. 把拆分后的 drug 拼回原 DataFrame
-    df_split = (
-        df_to_split
-        .drop(columns=['drug'])
-        .join(split_series)
-        .reset_index(drop=True)
-    )
-
-    # 5. 合并结果
-    result = pd.concat([df_intact, df_split], ignore_index=True)    
-
-    return result
+   
 
 def main():
     # describe the tool
     parser = argparse.ArgumentParser(description='Extract results from PharmCAT JSONs into a TSV-formatted file.')
     # list input arguments
-    parser.add_argument("-report_json_file", type=str,help="Pharmcat report result file",default='data/test_new.report.json')
-    parser.add_argument("-result_tsv_file", type=str,help="Pharmcat result tsv file",default='data/test_new.report.tsv')
-    parser.add_argument("-outcall_file", type=str,help="pharcat outcall file",default='data/test_new_outcall.tsv')
+    parser.add_argument("-report_json_file", type=str,help="Pharmcat report result file",default='data/E-B22444326276.report.json')
+    parser.add_argument("-result_tsv_file", type=str,help="Pharmcat result tsv file",default='data/E-B22444326276.report.tsv')
+    parser.add_argument("-outcall_file", type=str,help="pharcat outcall file",default='data/E-B22444326276.outcall.tsv')
     parser.add_argument("-intersect_file", type=str,help="pharmcat pipeline inputfile",default='data/intersect.csv')
     parser.add_argument("-prepharmcat_file", type=str,help="",default='data/annotated.csv')
     parser.add_argument("-sample_id", type=str,help="",default='Test')
@@ -441,10 +413,9 @@ def main():
 #     result_df = results_table.groupby(['gene', 'drug', 'diplotype']).apply(lambda group: group[group['ref_guide'].str.startswith('CPIC')]
 # ).reset_index(drop=True)
     
-    results_table = add_reference_gene_report(results_table,var_gene)
+    # results_table = add_reference_gene_report(results_table,var_gene)
     results_table = results_table.fillna('.').replace('Not Found', '.')
     results_table['sample'] = args.sample_id
-    results_table = split_drug(results_table)
     selected_genes = results_table.groupby('gene')['diplotype'].nunique()[lambda x: x > 1].index
     unknown_type_gene_table = results_table[results_table['gene'].isin(selected_genes)]
     known_type_gene_table = results_table[~results_table['gene'].isin(selected_genes)]
