@@ -6,7 +6,8 @@ MTRNR1_variants = {
 	"rs267606618":"m.1095T>C",
 	"rs267606619":"m.1494C>T",
 	"rs267606617":"m.1555A>G",
-	"rs28358569":"m.827A>G"
+	"rs28358569":"m.827A>G",
+    "Reference":"Reference"
 }
 
 if __name__ == "__main__":
@@ -16,7 +17,9 @@ if __name__ == "__main__":
     # Check if MTRNR1.txt exists and is not empty
 
     if os.path.getsize(MTRNR1_FILE) == 0:
-        exit()
+        with open(MTRNR1_FILE,'w') as f:
+            f.write("Reference")
+        
 
     with open(MTRNR1_FILE) as f:
         key = f.readline().strip()

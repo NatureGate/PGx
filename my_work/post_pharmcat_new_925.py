@@ -22,7 +22,10 @@ DRUG_ANNOTATION = {
     'FDA-PGx':'FDA PGx Association',
 }
 
-OUTCALL_GENE={'CYP2D6','HLA-A','HLA-B','MT-RNR1'}
+OUTCALL_GENE = {'CYP2D6','HLA-A','HLA-B','MT-RNR1'}
+
+ALL_GENE_SET = {'CYP2D6','HLA-A','HLA-B','MT-RNR1','ABCG2','CACNA1S','CFTR','CYP2B6','CYP2C19','CYP2C9',
+                'CYP3A4','CYP3A5','CYP4F2','DPYD','G6PD','IFNL3','NUDT15','RYR1','SLCO1B1','TPMT','UGT1A1','VKORC1'}
 
 # DRUG_NAME_JSON = '/home/stereonote/data/drugs_union.json'
 DRUG_NAME_JSON = 'my_work/drugs_union.json'
@@ -48,9 +51,9 @@ def reverse_string(s):
     return f"{right_part}/{left_part}"
 
 
-def prepare_variant_msg(file1, file2):
-    print(f'file1, file2:{file1}, {file2}')
-    df = pd.read_csv(file1,sep='\t',dtype=str)
+def prepare_variant_msg(intersect_file, prepharmcat_file):
+    print(f'file1, file2:{intersect_file}, {prepharmcat_file}')
+    df = pd.read_csv(intersect_file,sep='\t',dtype=str)
     df['depth'] = df.iloc[:, -1].str.split(':').str[1]
     split_depth = df['depth'].str.split(',', expand=True).astype(float)
     split_depth.fillna(0, inplace=True)
@@ -71,7 +74,7 @@ def prepare_variant_msg(file1, file2):
         df['REF'] + '>' + 
         df['ALT']
     )
-    prepharmcat_data = pd.read_csv(file2, sep='\t',dtype=str)
+    prepharmcat_data = pd.read_csv(prepharmcat_file, sep='\t',dtype=str)
     prepharmcat_data['PX'] = prepharmcat_data['INFO'].str.extract(r'PX=([^;]+)')
     prepharmcat_data['cHGVS'] = 'test'
     prepharmcat_data['pHGVS'] = 'test'
@@ -341,7 +344,13 @@ def filter_single_effect_genes(unknown_type_gene_table: pd.DataFrame,
     result = unknown_type_gene_table.groupby(group_cols, as_index=False).first()
 
     return result
-    
+
+def keep_cpic_if_exists(group):
+    if DRUG_ANNOTATION['CPIC'] in group['ref_guide'].values:
+        return group[group['ref_guide'] == DRUG_ANNOTATION['CPIC']]
+    else:
+        return group
+
 
    
 
@@ -371,11 +380,12 @@ def main():
     
     df.to_csv('variant_msg.csv', index=False, encoding='utf-8')
     diplotype_gene_set = set(df['gene'])
+    diplotype_gene_set = ALL_GENE_SET
     print(f'diplotype_gene_set:{diplotype_gene_set}')
-
     drug_gene_table = get_report(args.report_json_file, diplotype_gene_set,gene_table)
     results_table = drug_gene_table.merge(df,on='gene', how='left')
     results_table = results_table.groupby(['gene','drug','diplotype'], as_index=False).first()
+    results_table = results_table.groupby(['gene', 'drug'], group_keys=False).apply(keep_cpic_if_exists)
     results_table.to_csv('results_table.csv', index=False, encoding='utf-8')
     mask = (results_table['diplotype'] == 'Unknown/Unknown') | (results_table['diplotype'] == 'Not Found')
     results_table = results_table[~mask]
@@ -417,6 +427,7 @@ def main():
     
     # results_table = add_reference_gene_report(results_table,var_gene)
     results_table = results_table.fillna('.').replace('Not Found', '.')
+    results_table.to_excel(f'results_table.xlsx',index=False)
     results_table['sample'] = args.sample_id
     selected_genes = results_table.groupby('gene')['diplotype'].nunique()[lambda x: x > 1].index
     unknown_type_gene_table = results_table[results_table['gene'].isin(selected_genes)]
@@ -425,9 +436,10 @@ def main():
     if len(unknown_type_gene_table)>0:
         unknown_type_gene_table = drug_name_en2zh(unknown_type_gene_table)
         unknown_type_gene_table.to_csv(f'{args.sample_id}_unknown.pgx.tsv', index=False, encoding='utf-8', sep='\t')
-        add_diplotype_table = filter_single_effect_genes(unknown_type_gene_table)
-        known_type_gene_table = pd.concat([known_type_gene_table, add_diplotype_table], ignore_index=True) if 'add_diplotype_table' in locals() else known_type_gene_table
-    known_type_gene_table.to_csv(f'{args.sample_id}.pgx.tsv', index=False, encoding='utf-8', sep='\t')
+        # add_diplotype_table = filter_single_effect_genes(unknown_type_gene_table)
+        # known_type_gene_table = pd.concat([known_type_gene_table, add_diplotype_table], ignore_index=True) if 'add_diplotype_table' in locals() else known_type_gene_table
+    # known_type_gene_table.to_excel(f'{args.sample_id}.pgx.tsv', index=False, encoding='utf-8', sep='\t')
+    known_type_gene_table.to_excel(f'{args.sample_id}.pgx.xlsx', index=False)
     # results_table = add_filter_gene(results_table,filtered_df,args.sample_id)
     # results_table.to_csv(f'{args.sample_id}.pgx.tsv', index=False, encoding='utf-8',sep='\t')
 

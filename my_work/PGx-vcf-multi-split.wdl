@@ -368,7 +368,7 @@ task merge_phased_vcfs_task {
     }
     
     runtime {
-        docker_url: "stereonote_hpc/longrui_16750eaf940e4be288594b3c957f8957_private:latest"
+        docker_url: "stereonote_hpc/longrui_4a0c80de573e4e2bb69324bcf3674407_private:latest"
         req_cpu: 1
         req_memory: "2Gi"
     }
