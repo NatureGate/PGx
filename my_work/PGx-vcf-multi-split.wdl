@@ -543,7 +543,7 @@ task PostPharmCat {
     }
 
     runtime {
-        docker_url: "stereonote_hpc/longrui_204333d9ed2247328fc4469a6a090234_private:latest"
+        docker_url: "stereonote_hpc/longrui_03e769d2d0ae40d3a8dcfb8bdcd2d4b1_private:latest"
         req_cpu: 1
         req_memory: "3Gi"
   }
