@@ -93,5 +93,61 @@ def merge_guidelie_shorts():
     # empty_summary_series.to_csv(output_path, index=False)
 
 # 调用函数
-merge_guidelie_shorts()
+# merge_guidelie_shorts()
+def group_results():
+    guidelie_path = 'reporter/results_guidelie_shorts.xlsx'
+    new_guidelie_path = 'reporter/results_guidelie_shorts_grouped.xlsx'
+    guidelie_df = pd.read_excel(guidelie_path)
+    
+    # 根据Guideline Name列增加一列，判断包含的关键字并赋值
+    def get_guideline_type(text):
+        if pd.isna(text):
+            return None
+        text = str(text)
+        if 'CPIC' in text:
+            return 'CPIC'
+        elif 'DPWG' in text:
+            return 'DPWG'
+        elif 'FDA Label' in text:
+            return 'FDA Label'
+        elif 'FDA PGx' in text:
+            return 'FDA PGx'
+        return None
+    
+    guidelie_df['Guideline Type'] = guidelie_df['Guideline Name'].apply(get_guideline_type)
+    
+    # 定义 Guideline Type 的优先级顺序
+    guideline_type_order = ['CPIC', 'DPWG', 'FDA Label', 'FDA PGx']
+    guidelie_df['Guideline Type'] = pd.Categorical(guidelie_df['Guideline Type'], categories=guideline_type_order, ordered=True)
+    
+    # 依据新列顺序保留first数据
+    guidelie_df = guidelie_df.sort_values(['short_description', 'Related Chemicals', 'Guideline Type']).groupby(['short_description','Related Chemicals'], as_index=False).first()
+    
+    guidelie_df.to_excel(new_guidelie_path, index=False)
+    guidelie_path = 'reporter/results_guidelie_shorts.xlsx'
+    new_guidelie_path = 'reporter/results_guidelie_shorts_grouped.xlsx'
+    guidelie_df = pd.read_excel(guidelie_path)
+    
+    # 根据Guideline Name列增加一列，判断包含的关键字并赋值
+    def get_guideline_type(text):
+        if pd.isna(text):
+            return None
+        text = str(text)
+        if 'CPIC' in text:
+            return 'CPIC'
+        elif 'DPWG' in text:
+            return 'DPWG'
+        elif 'FDA Label' in text:
+            return 'FDA Label'
+        elif 'FDA PGx' in text:
+            return 'FDA PGx'
+        return None
+    
+    guidelie_df['Guideline Type'] = guidelie_df['Guideline Name'].apply(get_guideline_type)
+    
+    guidelie_df = guidelie_df.groupby(['short_description','Related Chemicals'],as_index=False).first()
+    guidelie_df.to_excel(new_guidelie_path, index=False)
+    
+group_results()
+
 
