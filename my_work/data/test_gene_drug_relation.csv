@@ -1,0 +1,211 @@
+gene,genotype,drug,annotation_type,phenotypes
+ABCG2,rs2231142 reference (G)/rs2231142 reference (G),allopurinol,DPWG,Normal Function
+ABCG2,rs2231142 reference (G)/rs2231142 reference (G),rosuvastatin,CPIC,Normal Function
+CACNA1S,Reference/Reference,desflurane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,enflurane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,halothane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,isoflurane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,methoxyflurane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,sevoflurane,CPIC,Uncertain Susceptibility
+CACNA1S,Reference/Reference,succinylcholine,CPIC,Uncertain Susceptibility
+CFTR,Reference/Reference,ivacaftor,CPIC,ivacaftor non-responsive in CF patients
+CYP2B6,*1/*1,efavirenz,DPWG,Normal Metabolizer
+CYP2B6,*1/*1,sertraline,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,abrocitinib,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,amitriptyline,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,belzutifan,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,brivaracetam,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,carisoprodol,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,citalopram,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,clobazam,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,clomipramine,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,clopidogrel,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,dexlansoprazole,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,diazepam,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,doxepin,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,escitalopram,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,esomeprazole,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,flibanserin,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,imipramine,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,lansoprazole,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,mavacamten,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,omeprazole,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,pantoprazole,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,rabeprazole,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,sertraline,DPWG,Normal Metabolizer
+CYP2C19,*1/*1,trimipramine,CPIC,Normal Metabolizer
+CYP2C19,*1/*1,voriconazole,DPWG,Normal Metabolizer
+CYP2C9,*1/*1,avatrombopag,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,celecoxib,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,deuruxolitinib,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,dronabinol,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,erdafitinib,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,flurbiprofen,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,fluvastatin,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,fosphenytoin,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,ibuprofen,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,lesinurad,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,lornoxicam,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,meloxicam,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,nateglinide,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,phenytoin,DPWG,Normal Metabolizer
+CYP2C9,*1/*1,piroxicam,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,siponimod,DPWG,Normal Metabolizer
+CYP2C9,*1/*1,tenoxicam,CPIC,Normal Metabolizer
+CYP2C9,*1/*1,warfarin,DPWG,Normal Metabolizer
+CYP2D6,*1/*3,acetaminophen / caffeine / dihydrocodeine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,amitriptyline,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,amoxapine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,amphetamine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,aripiprazole,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,aripiprazole lauroxil,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,atomoxetine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,brexpiprazole,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,carvedilol,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,cevimeline,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,clomipramine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,clozapine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,codeine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,darifenacin,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,desipramine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,deutetrabenazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,dextromethorphan / quinidine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,dextromethorphan hydrobromide / bupropion hydrochloride,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,donepezil,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,doxepin,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,eliglustat,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,fesoterodine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,flecainide,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,fluoxetine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,fluvoxamine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,galantamine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,gefitinib,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,haloperidol,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,hydrocodone,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,iloperidone,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,imipramine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,lofexidine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,meclizine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,metoclopramide,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,metoprolol,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,mirabegron,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,nebivolol,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,nortriptyline,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,oliceridine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,ondansetron,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,paroxetine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,perphenazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,pimozide,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,pitolisant,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,propafenone,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,propranolol,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,protriptyline,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,risperidone,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,tamoxifen,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,tamsulosin,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,tetrabenazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,thioridazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,tolterodine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,tramadol,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,trimipramine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,tropisetron,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,valbenazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,venlafaxine,DPWG,Intermediate Metabolizer
+CYP2D6,*1/*3,viloxazine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,vortioxetine,CPIC,Intermediate Metabolizer
+CYP2D6,*1/*3,zuclopenthixol,DPWG,Intermediate Metabolizer
+CYP3A4,*1/*1,quetiapine,DPWG,Normal Metabolizer
+CYP3A5,*3/*3,tacrolimus,DPWG,Poor Metabolizer
+CYP4F2,*1/*17,warfarin,CPIC,
+DPYD,c.1627A>G (*5) (heterozygous),capecitabine,DPWG,n/a
+DPYD,c.1627A>G (*5) (heterozygous),flucytosine,DPWG,n/a
+DPYD,c.1627A>G (*5) (heterozygous),fluorouracil,DPWG,n/a
+DPYD,c.1627A>G (*5) (heterozygous),tegafur,DPWG,n/a
+G6PD,B (reference)/B (reference),"Ascorbic acid (vitamin C), combinations",CPIC,Normal
+G6PD,B (reference)/B (reference),"Ascorbic acid (vitamin C), plain",CPIC,Normal
+G6PD,B (reference)/B (reference),articaine / epinephrine,CPIC,Normal
+G6PD,B (reference)/B (reference),bupivacaine,CPIC,Normal
+G6PD,B (reference)/B (reference),chloroquine,CPIC,Normal
+G6PD,B (reference)/B (reference),chlorpropamide,CPIC,Normal
+G6PD,B (reference)/B (reference),dabrafenib,CPIC,Normal
+G6PD,B (reference)/B (reference),dapsone,CPIC,Normal
+G6PD,B (reference)/B (reference),flutamide,CPIC,Normal
+G6PD,B (reference)/B (reference),glimepiride,CPIC,Normal
+G6PD,B (reference)/B (reference),glipizide,CPIC,Normal
+G6PD,B (reference)/B (reference),glyburide,CPIC,Normal
+G6PD,B (reference)/B (reference),hydroxychloroquine,CPIC,Normal
+G6PD,B (reference)/B (reference),lidocaine / prilocaine,CPIC,Normal
+G6PD,B (reference)/B (reference),lidocaine and tetracaine,CPIC,Normal
+G6PD,B (reference)/B (reference),mepivacaine,CPIC,Normal
+G6PD,B (reference)/B (reference),methylene blue,CPIC,Normal
+G6PD,B (reference)/B (reference),moviprep,CPIC,Normal
+G6PD,B (reference)/B (reference),nalidixic acid,CPIC,Normal
+G6PD,B (reference)/B (reference),nitrofurantoin,CPIC,Normal
+G6PD,B (reference)/B (reference),oxymetazoline and tetracaine,CPIC,Normal
+G6PD,B (reference)/B (reference),pegloticase,CPIC,Normal
+G6PD,B (reference)/B (reference),primaquine,CPIC,Normal
+G6PD,B (reference)/B (reference),rasburicase,CPIC,Normal
+G6PD,B (reference)/B (reference),ropivacaine,CPIC,Normal
+G6PD,B (reference)/B (reference),sodium ascorbate,CPIC,Normal
+G6PD,B (reference)/B (reference),sodium nitrite,CPIC,Normal
+G6PD,B (reference)/B (reference),sulfasalazine,CPIC,Normal
+G6PD,B (reference)/B (reference),tafenoquine,CPIC,Normal
+G6PD,B (reference)/B (reference),tolazamide,CPIC,Normal
+G6PD,B (reference)/B (reference),tolbutamide,CPIC,Normal
+G6PD,B (reference)/B (reference),toluidine blue,CPIC,Normal
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive
+HLA-B,*15:02/*57:01,abacavir,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,allopurinol,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,flucloxacillin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,fosphenytoin,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,lamotrigine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,pazopanib,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative"
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative"
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),peginterferon alfa-2a,CPIC,n/a
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),peginterferon alfa-2b,CPIC,n/a
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),ribavirin,CPIC,n/a
+MT-RNR1,Unknown,amikacin,CPIC,No Result
+MT-RNR1,Unknown,dibekacin,CPIC,No Result
+MT-RNR1,Unknown,gentamicin,CPIC,No Result
+MT-RNR1,Unknown,kanamycin,CPIC,No Result
+MT-RNR1,Unknown,neomycin,CPIC,No Result
+MT-RNR1,Unknown,netilmicin,CPIC,No Result
+MT-RNR1,Unknown,paromomycin,CPIC,No Result
+MT-RNR1,Unknown,plazomicin,CPIC,No Result
+MT-RNR1,Unknown,ribostamycin,CPIC,No Result
+MT-RNR1,Unknown,streptomycin,CPIC,No Result
+MT-RNR1,Unknown,tobramycin,CPIC,No Result
+NUDT15,*1/*1,azathioprine,DPWG,Normal Metabolizer
+NUDT15,*1/*1,mercaptopurine,DPWG,Normal Metabolizer
+NUDT15,*1/*1,thioguanine,DPWG,Normal Metabolizer
+RYR1,c.11266C>G (heterozygous),desflurane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),enflurane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),halothane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),isoflurane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),methoxyflurane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),sevoflurane,CPIC,Uncertain Susceptibility
+RYR1,c.11266C>G (heterozygous),succinylcholine,CPIC,Uncertain Susceptibility
+SLCO1B1,*15/*15,atorvastatin,DPWG,Poor Function
+SLCO1B1,*15/*15,elagolix,CPIC,Poor Function
+SLCO1B1,*15/*15,fluvastatin,CPIC,Poor Function
+SLCO1B1,*15/*15,lovastatin,CPIC,Poor Function
+SLCO1B1,*15/*15,pitavastatin,CPIC,Poor Function
+SLCO1B1,*15/*15,pravastatin,CPIC,Poor Function
+SLCO1B1,*15/*15,rosuvastatin,DPWG,Poor Function
+SLCO1B1,*15/*15,simvastatin,DPWG,Poor Function
+TPMT,*1/*1,azathioprine,DPWG,Normal Metabolizer
+TPMT,*1/*1,mercaptopurine,DPWG,Normal Metabolizer
+TPMT,*1/*1,thioguanine,DPWG,Normal Metabolizer
+UGT1A1,*1/*1,atazanavir,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,belinostat,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,dolutegravir,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,irinotecan,DPWG,Normal Metabolizer
+UGT1A1,*1/*1,nilotinib,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,pazopanib,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,raltegravir,CPIC,Normal Metabolizer
+UGT1A1,*1/*1,sacituzumab govitecan,CPIC,Normal Metabolizer
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),acenocoumarol,DPWG,-1639 AA
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),phenprocoumon,DPWG,-1639 AA
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),warfarin,DPWG,-1639 AA

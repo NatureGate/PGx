@@ -6,36 +6,15 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-short_guideline_path = 'reporter/new_results_guidelie_shorts_grouped.xlsx'
+short_guideline_path = 'reporter/new_short_guideline_1018.xlsx'
 drugs_name_path = 'reporter/drugs_1013.csv'
-# def merge_drug_data():
-    
-#     # 读取drugs_1013.csv文件
-#     df_drugs = pd.read_csv('reporter/drugs_1013.csv', sep='\t')
-    
-#     # 读取drugs_union.json文件
-#     with open('drugs_union.json', 'r', encoding='utf-8') as f:
-#         drugs_json = json.load(f)
-#     jsondrugs_en = set(drugs_json.keys())
-#     df_drugs_en = set(df_drugs['英文名称'])
-#     # 找出drugs_union.json中没有的英文名称
-#     en_not_in_drugs = jsondrugs_en - df_drugs_en
-#     en_not_in_drugs = list(filter(lambda x: not (x.__contains__(' / ') or x.__contains__(' and ')), en_not_in_drugs))
-#     # df = pd.DataFrame('', index=range(n), columns=[f'c{i}' for i in range(m)])
-#     # pd.DataFrame(columns=['英文名称', '中文名称'])
-#     df = pd.DataFrame('', index=range(len(en_not_in_drugs)), columns=['英文名称', '中文名称'])
-#     for i in range(len(en_not_in_drugs)):
-#         df.iloc[i, 0] = en_not_in_drugs[i]
-#         df.iloc[i, 1] = drugs_json[en_not_in_drugs[i]]
-#     # 合并数据，保留drugs_union.json中drugs_1013.csv没有的数据
-#     merged_df = pd.concat([df_drugs, df], ignore_index=True)
-    
-#     # 重新输出drugs_1013.csv
-#     merged_df.to_csv('reporter/drugs_1013.csv', sep='\t', index=False)
-    
 
-# 调用合并函数
-# merge_drug_data()
+annotation_map = {
+    'CPIC Guideline Annotation':'CPIC',
+    'DPWG Guideline Annotation':'DPWG',
+    'FDA Label Annotation':'FDA Label',
+    'FDA PGx Association':'FDA PGx'
+}
 
 phenotypes_dict = {
     "Decreased Function": "功能降低",
@@ -137,18 +116,27 @@ def process_data(pd_results):
 # 调用函数
 def get_short_guide(pd_results):
     result = process_data(pd_results)
+    result.to_csv('org_result.csv',index=False)
     # sample	drug	gatkscore	depth	readsratio	gene	diplotype	cHGVS	pHGVS	zyg	guide_x	advice_x	effect	suggest	ref_guide	drugid	rsID	location	name_en	name_zh	processed_suggest	short_description	Related Chemicals	Guideline Name	Name	Text	Implications	Lookup Key	text	guide_y	advice_y	zh_guide	Guideline Type
-    result = result[['sample','name_zh','gatkscore','depth','readsratio','gene','diplotype','cHGVS','pHGVS','zyg','guide_y','effect','advice_y','zh_guide','Guideline Type','name_en','drugid','rsID','location']]
+    result = result[['sample','name_zh','gatkscore','depth','readsratio','gene','diplotype','cHGVS','pHGVS','zyg','guide','effect','advice','zh_guide','annotation_type_y','name_en','drugid','rsID','location']]
     result['effect'] = result['effect'].map(phenotypes_dict).fillna('.')
     result = result[~result['name_en'].isin(['amphetamine','hydrocodone','oliceridine','dronabinol','lesinurad','mavacamten'])]
     result.rename(columns={
         
         'name_zh': 'drug',
-        'guide_y': 'guide',
-        'advice_y': 'advice',
+        'guide': 'guide',
+        'advice': 'advice',
         'zh_guide':'suggest',
-        'Guideline Type':'ref_guide'
+        'annotation_type_y':'ref_guide'
     }, inplace=True)
+    result['ref_guide'] = result['ref_guide'].map(annotation_map).fillna('.')
+    result = result[['sample','name_en','drug','gatkscore','depth','readsratio','gene','diplotype','cHGVS','pHGVS','zyg','guide','effect','advice','suggest','ref_guide','drugid','rsID','location']]
+    cols_to_fill = ['gatkscore','depth','readsratio','cHGVS','pHGVS','zyg','rsID','location']
+    result[cols_to_fill] = result[cols_to_fill].fillna('.')
+    guideline_fill = ['advice','suggest']
+    result[guideline_fill] = result[guideline_fill].fillna('常规用药')
+    mask = result['drug'].str.contains('/') | result['drug'].str.contains(' and ')|result['drug'].isna()
+    result = result[~mask]
     if result is not None:
         today = datetime.datetime.now().strftime("%Y%m%d")
         result.to_csv(f'result_{today}.csv', index=False)

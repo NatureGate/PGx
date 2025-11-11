@@ -160,10 +160,10 @@ workflow PGx{
         #File merged_unphased_vcf = merge_phased_vcfs_task.merged_unphased_vcf
         File outcall_file = cyriusTask.outcall_file
         
-        File post_pharmcat_file = PostPharmCat.output_file
+        # File post_pharmcat_file = PostPharmCat.output_file
         File unknown_genotype_file = PostPharmCat.unknown_genotype_file
         # File other_file = PostPharmCat.other_file
-        File pgx_xls_file = PostPharmCat.pgx_xls_file
+        File pgx_result_file = PostPharmCat.pgx_result_file
     }
  }
 
@@ -424,22 +424,24 @@ task cyriusTask{
         echo $PATH
         echo "hello,world "
         echo ~{bam_file}>bam_path.txt
-        
+        source activate base
+        conda activate bcyrius
+        bcyrius --input ~{bam_file} --outDir . --id cyp2d6 --threads 4
         # docker run --rm \
-        cyrius --manifest bam_path.txt \
-                       --genome 38 \
-                       --prefix cyp2d6 \
-                       --outDir . \
-                       --threads 4
-        cyp2d6_results_handler.py --input_file cyp2d6.tsv
-        hla_results_handler.py --input_file ~{hla_file}
+        # cyrius --manifest bam_path.txt \
+        #                --genome 38 \
+        #                --prefix cyp2d6 \
+        #                --outDir . \
+        #                --threads 4
+        python /home/stereonote/script/cyp2d6_results_handler.py --input_file cyp2d6.tsv
+        python /home/stereonote/script/hla_results_handler.py --input_file ~{hla_file}
         cat cyp2d6_result.txt>outcall.tsv
         echo >> outcall.tsv
         cat hla_result.txt>>outcall.tsv
     }
     runtime {
         #The fixed parameter "docker_url" is used in wdl to specify the image address,Please copy the real url from "Image" and paste it here ,such as"stereonote/stereonote:latest". If you switch the area,please change the image url
-        docker_url: "stereonote_hpc/longrui_463c1b38f30c40ee967277e674812fbe_private:latest"
+        docker_url: "stereonote_hpc/longrui_7152705b04de43db945a732810ef35b2_private:latest"
         
         
         #The fixed parameter " req_cpu" is used in wdl to apply for a task running cpu
@@ -531,19 +533,19 @@ task PostPharmCat {
             -intersect_file intersect.csv \
             -prepharmcat_file annotated.csv \
             -sample_id ~{sample_id}
-         cp ~{sample_id}.pgx.tsv ~{sample_id}.drug.xls
+         cp ~{sample_id}.drug.tsv ~{sample_id}.drug.xls
         # python /home/stereonote/script/var_drug.py --valid_ids_path valid_ids.txt --sample_id ~{sample_id}
     >>>
 
     output {
-        File output_file = "~{sample_id}.pgx.tsv"
+        # File output_file = "~{sample_id}.pgx.tsv"
         File unknown_genotype_file = "~{sample_id}_unknown.pgx.tsv"
         # File other_file = "~{sample_id}_other.pgx.tsv"
-        File pgx_xls_file = "~{sample_id}.drug.xls"
+        File pgx_result_file = "~{sample_id}.drug.tsv"
     }
 
     runtime {
-        docker_url: "stereonote_hpc/longrui_03e769d2d0ae40d3a8dcfb8bdcd2d4b1_private:latest"
+        docker_url: "stereonote_hpc/longrui_ac02724d754549c0b851b9b352a084d5_private:latest"
         req_cpu: 1
         req_memory: "3Gi"
   }

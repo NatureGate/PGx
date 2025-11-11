@@ -1,0 +1,632 @@
+gene_x,genotype_x,drug,annotation_type_x,phenotypes,drugRecommendation,genotype_y,gene_y,annotation_type_y
+ABCG2,rs2231142 reference (G)/rs2231142 reference (G),allopurinol,DPWG,Normal Function,The guideline does not provide a recommendation for allopurinol in patients with the the ABCG2 rs2231142 GG genotype (c.421CC; p.141QQ),rs2231142 reference (G)/rs2231142 reference (G),ABCG2,DPWG Guideline Annotation
+ABCG2,rs2231142 reference (G)/rs2231142 reference (G),rosuvastatin,CPIC,Normal Function,"Prescribe ≤20mg as a starting dose and adjust doses of rosuvastatin based on disease-specific and specific population guidelines. If dose &gt; 20mg needed for desired efficacy, consider combination therapy (i.e., rosuvastatin plus non-statin guideline directed medical therapy) (PMID: 30423391).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function and Asian ancestry should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",rs2231142 reference (G)/rs2231142 reference (G),ABCG2,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,desflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,desflurane,CPIC,Uncertain Susceptibility,"&quot;The use of SUPRANE [desflurane] is contraindicated in...[cases of k]nown or suspected genetic susceptibility to malignant hyperthermia...SUPRANE [desflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.  &quot; See label for more information.",Reference/Reference,CACNA1S,FDA Label Annotation
+CACNA1S,Reference/Reference,enflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,halothane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,isoflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,isoflurane,CPIC,Uncertain Susceptibility,"&quot;CONTRAINDICATIONS...with known or suspected genetic susceptibility to malignant hyperthermia...FORANE [isoflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.&quot; See label for more information.",Reference/Reference,CACNA1S,FDA Label Annotation
+CACNA1S,Reference/Reference,methoxyflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,sevoflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,sevoflurane,CPIC,Uncertain Susceptibility,"&quot;CONTRAINDICATIONS: Known or suspected genetic susceptibility to malignant hyperthermia...ULTANE [sevoflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.&quot; See label for more information.",Reference/Reference,CACNA1S,FDA Label Annotation
+CACNA1S,Reference/Reference,succinylcholine,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",Reference/Reference,CACNA1S,CPIC Guideline Annotation
+CACNA1S,Reference/Reference,succinylcholine,CPIC,Uncertain Susceptibility,"&quot;ANECTINE [succinylcholine] is contraindicated in patients with...[k]nown or suspected genetic susceptibility to malignant hyperthermia...Anectine [succinylcholine] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants...Succinylcholine is metabolized by plasma cholinesterase and should be used with caution, if at all, in patients known to be or suspected of being homozygous for the atypical plasma cholinesterase gene [BCHE] .&quot; See label for more information.",Reference/Reference,CACNA1S,FDA Label Annotation
+CFTR,Reference/Reference,ivacaftor,CPIC,ivacaftor non-responsive in CF patients,Ivacaftor is not recommended,Reference/Reference,CFTR,CPIC Guideline Annotation
+CYP2B6,*1/*1,efavirenz,DPWG,Normal Metabolizer,"Initiate efavirenz with standard dosing (600 mg/day)
+<h4 id=""other-considerations"">Other Considerations</h4>
+The ENCORE study showed that in treatment-naïve patients randomized to initiate efavirenz-based regimens (combined with tenofovir and emtricitabine), 400 mg/day was non-inferior to 600 mg/day regardless of CYP2B6 genotype (PMID 24522178).",*1/*1,CYP2B6,CPIC Guideline Annotation
+CYP2B6,*1/*1,efavirenz,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for efavirenz in normal metabolizers.,*1/*1,CYP2B6,DPWG Guideline Annotation
+CYP2B6,*1/*1,sertraline,CPIC,Normal Metabolizer,Initiate therapy with recommended starting dose.,*1/*1,CYP2B6,CPIC Guideline Annotation
+CYP2C19,*1/*1,amitriptyline,CPIC,Normal Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,citalopram,DPWG,Normal Metabolizer,Initiate therapy with recommended starting dose,*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,citalopram,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for citalopram in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,clomipramine,DPWG,Normal Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,clomipramine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for clomipramine in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,clopidogrel,DPWG,Normal Metabolizer,"If considering clopidogrel, use at standard dose (75 mg/day)
+<h4 id=""other-considerations"">Other Considerations</h4>
+For cardiovascular indications of acute coronary syndrome (ACS) and/or percutaneous coronary intervention (PCI). ACS and/or PCI includes patients undergoing PCI for an ACS or non-ACS (elective) indication.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,clopidogrel,DPWG,Normal Metabolizer,"If considering clopidogrel, use at standard dose (75 mg/day)
+<h4 id=""other-considerations"">Other Considerations</h4>
+For non-acute coronary syndrome (non-ACS) and non-percutaneous coronary intervention (non-PCI) cardiovascular indications. Non-ACS, non-PCI cardiovascular indications include peripheral arterial disease and stable coronary artery disease following a recent myocardial infarction outside the setting of PCI.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,clopidogrel,DPWG,Normal Metabolizer,"If considering clopidogrel, use at standard dose (75 mg/day)
+<h4 id=""other-considerations"">Other Considerations</h4>
+For neurovascular indications. Neurovascular disease includes acute ischemic stroke or transient ischemic attack, secondary prevention of stroke, or prevention of thromboembolic events following neurointerventional procedures such as carotid artery stenting and stent-assisted coiling of intracranial aneurysms.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,clopidogrel,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for clopidogrel in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,dexlansoprazole,CPIC,Normal Metabolizer,"Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,doxepin,CPIC,Normal Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,escitalopram,DPWG,Normal Metabolizer,Initiate therapy with recommended starting dose,*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,escitalopram,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for escitalopram in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,imipramine,DPWG,Normal Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,imipramine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for imipramine in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,lansoprazole,DPWG,Normal Metabolizer,"Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,lansoprazole,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for lansoprazole in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,omeprazole,DPWG,Normal Metabolizer,"Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,omeprazole,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for omeprazole in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,pantoprazole,DPWG,Normal Metabolizer,"Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of H. pylori infection and erosive esophagitis. Daily dose may be given in divided doses.
+Monitor for efficacy.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,pantoprazole,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for pantoprazole in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,sertraline,DPWG,Normal Metabolizer,Initiate therapy with recommended starting dose.,*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,sertraline,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for sertraline in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C19,*1/*1,trimipramine,CPIC,Normal Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,voriconazole,DPWG,Normal Metabolizer,"Initiate therapy with recommended standard of care dosing
+<h4 id=""other-considerations"">Other Considerations</h4>
+Further dose adjustments or selection of alternative therapy may be necessary due to other clinical factors, such as drug interactions, hepatic function, renal function, species, site of infection, therapeutic drug monitoring, and comorbidities.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,voriconazole,DPWG,Normal Metabolizer,"Initiate therapy with recommended standard of care dosing
+<h4 id=""other-considerations"">Other Considerations</h4>
+Further dose adjustments or selection of alternative therapy may be necessary due to other clinical factors, such as drug interactions, hepatic function, renal function, species, site of infection, therapeutic drug monitoring, and comorbidities.",*1/*1,CYP2C19,CPIC Guideline Annotation
+CYP2C19,*1/*1,voriconazole,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for voriconazole in normal metabolizers.,*1/*1,CYP2C19,DPWG Guideline Annotation
+CYP2C9,*1/*1,celecoxib,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,flurbiprofen,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,fluvastatin,CPIC,Normal Metabolizer,"Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If patient is tolerating 40mg per day but higher potency is needed, a higher dose (&gt;40mg) or an alternative statin or combination therapy (i.e. fluvastatin plus non-statin guideline directed medical therapy) (PMID: 30423391) could be considered. Prescriber should be aware of possible increased risk for myopathy with fluvastatin especially with doses &gt;40mg per day.
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,fosphenytoin,CPIC,Normal Metabolizer,"If patient is phenytoin-naive, do not use phenytoin/fosphenytoin. Avoid carbamazepine and oxcarbazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants, including eslicarbazepine, lamotrigine, and phenobarbital, have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,fosphenytoin,CPIC,Normal Metabolizer,"If the patient has previously used phenytoin continuously for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of phenytoin in the future. The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (4-28 days), and cases usually occur within three months of dosing.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of phenytoin is not indicative of tolerance to other aromatic anticonvulsants.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,fosphenytoin,CPIC,Normal Metabolizer,&quot;Consider avoiding CEREBYX [fosphenytoin] as an alternative to carbamazepine in patients who are positive for HLA-B*1502 or in CYP2C9*3 carriers.&quot; See label for more information.,*1/*1,CYP2C9,FDA Label Annotation
+CYP2C9,*1/*1,ibuprofen,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,lornoxicam,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,meloxicam,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,phenytoin,DPWG,Normal Metabolizer,"If patient is phenytoin-naive, do not use phenytoin/fosphenytoin. Avoid carbamazepine and oxcarbazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants, including eslicarbazepine, lamotrigine, and phenobarbital, have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,phenytoin,DPWG,Normal Metabolizer,"If the patient has previously used phenytoin continuously for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of phenytoin in the future. The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (4-28 days), and cases usually occur within three months of dosing.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of phenytoin is not indicative of tolerance to other aromatic anticonvulsants.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,phenytoin,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for phenytoin in normal metabolizers.,*1/*1,CYP2C9,DPWG Guideline Annotation
+CYP2C9,*1/*1,phenytoin,DPWG,Normal Metabolizer,&quot;Consider avoiding DILANTIN [phenytoin] as an alternative to carbamazepine in patients who are positive for HLA-B*1502 or in CYP2C9*3 carriers.&quot; See label for more information.,*1/*1,CYP2C9,FDA Label Annotation
+CYP2C9,*1/*1,piroxicam,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,siponimod,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for siponimod in normal metabolizers.,*1/*1,CYP2C9,DPWG Guideline Annotation
+CYP2C9,*1/*1,siponimod,DPWG,Normal Metabolizer,"The MAYZENT (siponimod) label states: &quot;Recommended Dosage in Patients With CYP2C9 Genotypes *1/*1, *1/*2, or *2/*2&quot; &quot;Initiate MAYZENT with a 5-day titration, as shown in Table 1... A starter pack should be used for patients who will be titrated to the 2-mg maintenance dosage&quot; &quot;After treatment titration (see Treatment Initiation), the recommended maintenance dosage of MAYZENT is 2 mg taken orally once daily starting on Day 6.&quot; See label for more information.",*1/*1,CYP2C9,FDA Label Annotation
+CYP2C9,*1/*1,tenoxicam,CPIC,Normal Metabolizer,"Initiate therapy with recommended starting dose. In accordance with the prescribing information, use the lowest effective dosage for shortest duration consistent with individual patient treatment goals.",*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,warfarin,DPWG,Normal Metabolizer,,*1/*1,CYP2C9,CPIC Guideline Annotation
+CYP2C9,*1/*1,warfarin,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for warfarin in normal metabolizers.,*1/*1,CYP2C9,DPWG Guideline Annotation
+CYP2C9,*1/*1,warfarin,DPWG,Normal Metabolizer,"Table 1 in the drug label provides ranges of expected maintenance daily doses of warfarin (COUMADIN) based on CYP2C9*2, CYP2C9*3 and VKORC1−1639G&gt;A (rs9923231) genotypes. For CYP2C9*1/*1, VKORC1 AA (rs9923231 TT), the range of expected maintenance daily dose is 3-4 mg.",*1/*1,CYP2C9,FDA Label Annotation
+CYP2D6,*1/*3,amitriptyline,DPWG,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,amitriptyline,DPWG,Intermediate Metabolizer,Use 75% of the standard dose and monitor the efficacy and side effects or the plasma concentrations of amitriptyline and nortriptyline to adjust the maintenance dose,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,amitriptyline,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,amoxapine,CPIC,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,aripiprazole,DPWG,Intermediate Metabolizer,NO action is needed for this gene-drug interaction.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,atomoxetine,DPWG,Intermediate Metabolizer,"Initiate with a dose of 40 mg/day and increase to 80 mg/day after 3 days. If no clinical response and in the absence of adverse events after 2 weeks, consider increasing dose to 100 mg/day. If no clinical response observed after 2 weeks, consider obtaining a peak plasma concentration (1 to 2 hours after dose administered). If &lt;200 ng/mL, consider a proportional increase in dose to approach 400 ng/mL. Dosages greater than 100 mg/day may be needed to achieve target concentrations.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Therapeutic range of 200 to 1000 ng/mL has been proposed (PMID 29493375). Limited data are available regarding the relationship between atomoxetine plasma concentrations and clinical response. Available information suggests that clinical response is greater in poor metabolizers (PMs) compared to non-PMs and may be related to the higher plasma concentrations 1 to 1.5 hours after dosing in PMs compared to non-PMs administered a similar dose. Furthermore, modest improvement in response, defined as reduction in ADHD-rating scale, is observed at peak concentrations greater than 400 ng/mL. Doses above 120 mg/day have not been evaluated.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,atomoxetine,DPWG,Intermediate Metabolizer,"Initiate with a dose of 0.5 mg/kg/day and increase to 1.2 mg/kg/day after 3 days. If no clinical response and in the absence of adverse events after 2 weeks, consider obtaining a peak plasma concentration (1 to 2 hours after dose administered). If &lt; 200 ng/mL, consider a proportional increase in dose to approach 400 ng/mL.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Therapeutic range of 200 to 1000 ng/mL has been proposed (PMID 29493375). Limited data are available regarding the relationship between atomoxetine plasma concentrations and clinical response. Available information suggests that clinical response is greater in poor metabolizers (PMs) compared to non-PMs and may be related to the higher plasma concentrations 1 to 1.5 hours after dosing in PMs compared to non-PMs administered a similar dose. Furthermore, modest improvement in response, defined as reduction in ADHD-rating scale, is observed at peak concentrations greater than 400 ng/mL.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,atomoxetine,DPWG,Intermediate Metabolizer,In the event of side effects occurring and/or a response later than 9 weeks: reduce the dose and check whether the effect is conserved The plasma concentration of atomoxetine is a factor of 2-3 times higher for IM than for NM at the same dose.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,brexpiprazole,DPWG,Intermediate Metabolizer,NO action is required for this gene-drug interaction.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,clomipramine,DPWG,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,clomipramine,DPWG,Intermediate Metabolizer,"Use 70% of the standard dose and monitor the effect and side effects or the plasma concentrations of clomipramine and desmethylclomipramine.
+For depression, the therapeutic range is 200-400 ng/mL for the sum of the plasma concentrations of clomipramine and desmethylclomipramine. For anxiety disorders, the therapeutic plasma concentration of clomipramine is approximately 100 ng/mL, in combination with a plasma concentration of desmethylclomipramine lower than 200 ng/mL. For obsessive compulsive disorder, the therapeutic plasma concentration of clomipramine is higher than 200 ng/mL, in combination with a plasma concentration of desmethylclomipramine that is as low as possible. A sum of the plasma concentrations of clomipramine and desmethylclomipramine higher than 600 ng/mL is considered toxic.",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,clomipramine,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,codeine,DPWG,Intermediate Metabolizer,"Use codeine label recommended age- or weight-specific dosing. If no response and opioid use is warranted, consider a non-tramadol opioid.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,codeine,DPWG,Intermediate Metabolizer,"For PAIN:
+It is not possible to offer adequately substantiated advice for dose adjustment based on the limited available literature for this phenotype.
+<ol>
+<li>Be alert to a reduced effectiveness.</li>
+<li>In the case of inadequate effectiveness: 1. Try a dose increase. 2. If this does not work: choose an alternative.
+Do not select tramadol, as this is also metabolised by CYP2D6. Morphine is not metabolised by CYP2D6. Oxycodone is metabolised by CYP2D6 to a limited extent, but this does not result in differences in analgesia in patients.</li>
+<li>If no alternative is selected: advise the patient to report inadequate analgesia.</li>
+</ol>
+For COUGH:
+No action required.",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,desipramine,CPIC,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Titrate dose to observed clinical response with symptom improvement and minimal (if any) side effects. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,desipramine,CPIC,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,doxepin,DPWG,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,doxepin,DPWG,Intermediate Metabolizer,Use 80% of the standard dose and monitor the effect and side effects or the plasma concentrations of doxepin and nordoxepin in order to set the maintenance dose. The therapeutic range is 100-250 ng/mL for the sum of doxepin and nordoxepin plasma concentrations. Values higher than 400 ng/mL are considered toxic.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,doxepin,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,eliglustat,DPWG,Intermediate Metabolizer,"Co-medication with BOTH a MODERATE to STRONG CYP2D6 INHIBITOR AND a MODERATE to STRONG CYP3A INHIBITOR:
+<ul>
+<li>Eliglustat is contra-indicated. Choose an alternative if possible.</li>
+</ul>
+<em>Strong CYP2D6 inhibitor: for example paroxetine, fluoxetine, quinidine, bupropione. Moderate CYP2D6 inhibitor: for example duloxetine, terbinafine, moclobemide, mirabegron, cinacalcet, dronedarone. Strong CYP3A inhibitor: for example ketoconazole, clarithromycin, itraconazole, cobicistat, indinavir, lopinavir, ritonavir, saquinavir, telaprevir, tipranavir, posaconazole, voriconazole, telithromycin, conivaptan, boceprevir. Moderate CYP3A inhibitor: for example erythromycin, ciprofloxacin, fluconazole, diltiazem, verapamil, aprepitant, atazanavir, darunavir, fosamprenavir, imatinib, cimetidine.</em>
+Co-medication with a STRONG CYP2D6 INHIBITOR (e.g. paroxetine, fluoxetine, quinidine, bupropione):
+<ul>
+<li>Use a dose of 84mg eliglustat 1x daily.</li>
+</ul>
+Co-medication with a MODERATE CYP2D6 INHIBITOR (for example duloxetine, terbinafine, moclobemide, mirabegron, cinacalcet, dronedarone):
+<ul>
+<li>Consider a dose of 84mg eliglustat 1x daily. Be alert to side effects.</li>
+</ul>
+Co-medication with a STRONG CYP3A INHIBITOR (for example ketoconazole, clarithromycin, itraconazole, cobicistat, indinavir, lopinavir, ritonavir, saquinavir, telaprevir, tipranavir, posaconazole, voriconazole, telithromycin, conivaptan, boceprevir):
+<ul>
+<li>Choose an alternative if possible.</li>
+<li>If an alternative is not an option: consider a dose of 84 mg eliglustat 1x daily and be alert to side effects.</li>
+</ul>
+Co-medication with a MODERATE CYP3A INHIBITOR (for example erythromycin, ciprofloxacin, fluconazole, diltiazem, verapamil, aprepitant, atazanavir, darunavir, fosamprenavir, imatinib, cimetidine):
+<ul>
+<li>Choose an alternative.</li>
+<li>If an alternative is not an option: consider a dose of 84mg eliglustat 1x daily and be alert to side effects.</li>
+</ul>
+Co-medication with a STRONG CYP3A INDUCER (for example rifampicin, carbamazepine, phenobarbital, phenytoin, rifabutine, hypericum): Eliglustat is not recommended. The plasma concentration may decrease so sharply that a therapeutic effect cannot be achieved.
+<ul>
+<li>Choose an alternative if possible.</li>
+</ul>
+NO co-medication with a moderate or strong CYP2D6 or CYP3A inhibitor or strong CYP3A inducer:
+<ul>
+<li>Use the standard dose of 84mg 2x daily.</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,eliglustat,DPWG,Intermediate Metabolizer,CYP2D6 IMs have a recommended dose of 84 mg orally twice daily.,*1/*3,CYP2D6,FDA Label Annotation
+CYP2D6,*1/*3,eliglustat,DPWG,Intermediate Metabolizer,"&quot;Alters systemic concentrations, effectiveness, and adverse reaction risk (QT prolongation). Indicated for normal, intermediate, and poor metabolizer patients. Ultrarapid metabolizers may not achieve adequate concentrations to achieve a therapeutic effect. The recommended dosages are based on CYP2D6 metabolizer status. Coadministration with strong CYP3A inhibitors is contraindicated in intermediate and poor CYP2D6 metabolizers. Refer to FDA labeling for specific dosing recommendations.&quot;",*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,flecainide,DPWG,Intermediate Metabolizer,"Indications other than diagnosis of Brugada syndrome:
+<ul>
+<li>Reduce the dose to 75% of the standard dose and record an ECG and monitor the plasma concentration.</li>
+</ul>
+Provocation test for diagnosis of Brugada syndrome:
+<ul>
+<li>No action required. At a dose of 2.0 mg/kg body weight to a maximum of 150 mg, the response is better for patients with alleles that result in reduced activity. All 5 patients with these alleles and 20% of the patients with two fully active alleles exhibited a response within 30 minutes.</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,fluvoxamine,CPIC,Intermediate Metabolizer,Initiate therapy with recommended starting dose.,*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,fluvoxamine,CPIC,Intermediate Metabolizer,The fluvoxamine label states: &quot;Caution is indicated in patients known to have reduced levels of cytochrome P450 2D6 activity[...]&quot; See label for more information.,*1/*3,CYP2D6,FDA Label Annotation
+CYP2D6,*1/*3,haloperidol,DPWG,Intermediate Metabolizer,NO action is required for this gene-drug interaction.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,hydrocodone,CPIC,Intermediate Metabolizer,"Use hydrocodone label recommended age- or weight-specific dosing. If no response and opioid use is warranted, consider non-codeine or non-tramadol opioid.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,imipramine,DPWG,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,imipramine,DPWG,Intermediate Metabolizer,Use 70% of the standard dose and monitor the effect and side effects or the plasma concentrations of imipramine and desipramine in order to set the maintenance dose. The therapeutic range is 150-300 ng/mL for the sum of the imipramine and desipramine plasma concentrations. Values exceeding 500 ng/mL are considered toxic.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,imipramine,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,meclizine,CPIC,Intermediate Metabolizer,"&quot;... when ANTIVERT® [meclizine] is administered to patients with CYP2D6 polymorphism, monitor for adverse reactions and clinical effect accordingly.&quot; See label for more information.",*1/*3,CYP2D6,FDA Label Annotation
+CYP2D6,*1/*3,meclizine,CPIC,Intermediate Metabolizer,&quot;May affect systemic concentrations. Monitor for adverse reactions and clinical effect.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,metoprolol,DPWG,Intermediate Metabolizer,Initiate standard dosing,*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,metoprolol,DPWG,Intermediate Metabolizer,"If a GRADUAL REDUCTION in HEART RATE is desired, or in the event of SYMPTOMATIC BRADYCARDIA:
+<ul>
+<li>Use smaller steps in dose titration and/or prescribe no more than 50% of the standard dose.</li>
+</ul>
+OTHER CASES:
+<ul>
+<li>No action required.</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,nortriptyline,DPWG,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Titrate dose to observed clinical response with symptom improvement and minimal (if any) side effects. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of tricyclic antidepressants for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,nortriptyline,DPWG,Intermediate Metabolizer,Use 60% of the standard dose and monitor the effect and side effects or the plasma concentration of nortriptyline in order to set the maintenance dose. The therapeutic range of nortriptyline is 50-150 ng/mL. Values exceeding 250 ng/mL are considered toxic.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,nortriptyline,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,ondansetron,CPIC,Intermediate Metabolizer,"Insufficient evidence demonstrating clinical impact based on CYP2D6 genotype. Initiate therapy with recommended starting dose.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Drug-drug interactions and other patient characteristics (e.g., age, renal function, and liver function) should be considered when selecting alternative therapy.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,paroxetine,DPWG,Intermediate Metabolizer,"Consider a lower starting dose and slower titration schedule as compared to normal metabolizers.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Drug-drug interactions and other patient characteristics (e.g., age, renal function, liver function) should be considered when adjusting dose or selecting an alternative therapy.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,paroxetine,DPWG,Intermediate Metabolizer,NO action is needed for this gene-drug interaction.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,paroxetine,DPWG,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,pimozide,DPWG,Intermediate Metabolizer,"Use no more than the following doses (80% of the normal maximum dose):
+<ul>
+<li>12 years and older: 16 mg/day</li>
+<li>younger than 12 years: 0.08 mg/kg per day to a maximum of 3 mg/day</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,propafenone,DPWG,Intermediate Metabolizer,"It is not possible to offer adequately substantiated recommendations for dose adjustment based on the literature.
+<ul>
+<li>Either guide the dose by therapeutic drug monitoring, perform an ECG and be alert to side effects.</li>
+<li>Or choose an alternative. Antiarrhythmic drugs that are hardly if at all metabolised by CYP2D6 include, for example, sotalol, disopyramide, quinidine and amiodarone.</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,risperidone,DPWG,Intermediate Metabolizer,NO action is needed for this gene-drug interaction.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,tamoxifen,DPWG,Intermediate Metabolizer,"Consider hormonal therapy such as an aromatase inhibitor for postmenopausal women or aromatase inhibitor along with ovarian function suppression in premenopausal women, given that these approaches are superior to tamoxifen regardless of CYP2D6 genotype (PMID 26211827). If aromatase inhibitor use is contraindicated, consideration should be given to use a higher but FDA approved tamoxifen dose (40 mg/day)(PMID 27226358). Avoid CYP2D6 strong to weak inhibitors.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,tamoxifen,DPWG,Intermediate Metabolizer,"<ul>
+<li>Select an alternative or measure the endoxifen concentration and increase the dose if necessary, by a factor of 1.5-2. Aromatase inhibitors are a possible alternative for post-menopausal women.</li>
+<li>If TAMOXIFEN is selected: avoid co-medication with CYP2D6 inhibitors such as paroxetine and fluoxetine.</li>
+</ul>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,tamoxifen,DPWG,Intermediate Metabolizer,&quot;Results in lower systemic active metabolite concentrations. The impact of CYP2D6 intermediate or poor metabolism on efficacy is not well established.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,tetrabenazine,CPIC,Intermediate Metabolizer,"&quot;Genotyped patients who are identified as extensive (EMs) or intermediate metabolizers (IMs) of
+CYP2D6, who need doses of XENAZINE [tetrabenazine] above 50 mg per day, should be titrated up slowly at
+weekly intervals by 12.5 mg daily, to allow the identification of a tolerated dose that reduces
+chorea. Doses above 50 mg per day should be given in a three times a day regimen. The
+maximum recommended daily dose is 100 mg and the maximum recommended single dose is
+37.5 mg. If adverse reactions such as akathisia, parkinsonism, depression, insomnia, anxiety or
+sedation occur, titration should be stopped and the dose should be reduced. If the adverse
+reaction does not resolve, consideration should be given to withdrawing XENAZINE [tetrabenazine] treatment
+or initiating other specific treatment.&quot; See label for more information",*1/*3,CYP2D6,FDA Label Annotation
+CYP2D6,*1/*3,thioridazine,CPIC,Intermediate Metabolizer,"&quot;...thioridazine is contraindicated...in patients, comprising about 7% of the normal population, who are known to have a genetic defect leading to reduced levels of activity of P450 2D6.&quot; See label for more information.",*1/*3,CYP2D6,FDA Label Annotation
+CYP2D6,*1/*3,tramadol,DPWG,Intermediate Metabolizer,"Use tramadol label recommended age- or weight-specific dosing. If no response and opioid use is warranted, consider non-codeine opioid.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,tramadol,DPWG,Intermediate Metabolizer,"It is not possible to provide a recommendation for dose adjustment, because the total analgesic effect changes when the ratio between the mother compound and the active metabolite changes.
+<ol>
+<li>Be alert to a reduced effectiveness.</li>
+<li>In the case of inadequate effectiveness:</li>
+</ol>
+<ul>
+<li>a. Try a dose increase.</li>
+<li>b. If this does not work: choose an alternative. Do not select codeine, as this is also metabolised by CYP2D6. Morphine is not metabolised by CYP2D6. Oxycodone is metabolised by CYP2D6 to a limited extent, but this does not result in differences in analgesia in patients.</li>
+</ul>
+<ol start=""3"">
+<li>If no alternative is selected: advise the patient to report inadequate analgesia.</li>
+</ol>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,trimipramine,CPIC,Intermediate Metabolizer,"Consider a 25% reduction of recommended starting dose. Utilize therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose. Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,trimipramine,CPIC,Intermediate Metabolizer,&quot;May alter systemic concentrations.&quot;,*1/*3,CYP2D6,FDA PGx Association
+CYP2D6,*1/*3,tropisetron,CPIC,Intermediate Metabolizer,"Insufficient evidence demonstrating clinical impact based on CYP2D6 genotype. Initiate therapy with recommended starting dose.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Drug-drug interactions and other patient characteristics (e.g., age, renal function, and liver function) should be considered when selecting alternative therapy.",*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,venlafaxine,DPWG,Intermediate Metabolizer,No action recommended based on genotype for venlafaxine because of minimal evidence regarding the impact on efficacy or side effects.,*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,venlafaxine,DPWG,Intermediate Metabolizer,"It is not possible to offer adequately substantiated advice for dose reduction based on the literature.
+<ul>
+<li>Avoid venlafaxine. Antidepressants that are not metabolised by CYP2D6 - or to a lesser extent - include, for example, duloxetine, mirtazapine, citalopram and sertraline.</li>
+<li>If it is not possible to avoid venlafaxine and side effects occur:</li>
+</ul>
+<ol>
+<li>Reduce the dose</li>
+<li>Monitor the effect and side effects or check the plasma concentrations of venlafaxine and O-desmethylvenlafaxine.
+It is not known whether it is possible to reduce the dose to such an extent that the side effects disappear, while the effectiveness is maintained. In general, it is assumed that the effectiveness is determined by the sum of the plasma concentrations of venlafaxine and O-desmethylvenlafaxine. However, the side effects do not appear to be related to this sum.</li>
+</ol>",*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP2D6,*1/*3,vortioxetine,CPIC,Intermediate Metabolizer,Initiate therapy with recommended starting dose.,*1/*3,CYP2D6,CPIC Guideline Annotation
+CYP2D6,*1/*3,zuclopenthixol,DPWG,Intermediate Metabolizer,Use 75% of the normal dose.,*1/*3,CYP2D6,DPWG Guideline Annotation
+CYP3A4,*1/*1,quetiapine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for quetiapine in normal metabolizers.,*1/*1,CYP3A4,DPWG Guideline Annotation
+CYP3A5,*3/*3,tacrolimus,DPWG,Poor Metabolizer,"Initiate therapy with standard recommended dose. Use therapeutic drug monitoring to guide dose adjustments.
+<h4 id=""other-considerations"">Other Considerations</h4>
+This recommendation includes the use of tacrolimus in kidney, heart, lung and hematopoietic stem cell transplant patients, and liver transplant patients where the donor and recipient genotypes are identical. Typically with other CYP enzymes, a normal metabolizer would be classified as having normal metabolism, and therefore, the drug dose would not change based on the patient’s genotype. However, in the case of CYP3A5 and tacrolimus, a CYP3A5 expresser (i.e., CYP3A5 normal metabolizer or intermediate metabolizer) would require a higher recommended starting dose and the CYP3A5 non-expresser (i.e., poor metabolizer) would require the standard recommended starting dose.",*3/*3,CYP3A5,CPIC Guideline Annotation
+CYP3A5,*3/*3,tacrolimus,DPWG,Poor Metabolizer,The guideline does not provide a recommendation for tacrolimus in CYP3A5 non-expressers.,*3/*3,CYP3A5,DPWG Guideline Annotation
+CYP4F2,*1/*17,warfarin,CPIC,,,*1/*17,CYP4F2,CPIC Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),capecitabine,DPWG,n/a,"Based on genotype, there is no indication to change dose or therapy. Use label-recommended dosage and administration.",c.1627A>G (*5) (heterozygous),DPYD,CPIC Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),capecitabine,DPWG,n/a,The guideline does not provide a recommendation for capecitabine in patients with a DPYD activity score of 2.,Reference/Reference,DPYD,DPWG Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),flucytosine,DPWG,n/a,The guideline does not provide a recommendation for flucytosine in patients with a DPYD activity score of 2.,Reference/Reference,DPYD,DPWG Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),fluorouracil,DPWG,n/a,"Based on genotype, there is no indication to change dose or therapy. Use label-recommended dosage and administration.",c.1627A>G (*5) (heterozygous),DPYD,CPIC Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),fluorouracil,DPWG,n/a,The guideline does not provide a recommendation for fluorouracil in patients with a DPYD activity score of 2.,Reference/Reference,DPYD,DPWG Guideline Annotation
+DPYD,c.1627A>G (*5) (heterozygous),tegafur,DPWG,n/a,The guideline does not provide a recommendation for tegafur in patients with a DPYD activity score of 2.,Reference/Reference,DPYD,DPWG Guideline Annotation
+G6PD,B (reference)/B (reference),dapsone,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),methylene blue,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),nitrofurantoin,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),pegloticase,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),primaquine,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),rasburicase,CPIC,Normal,No reason to avoid based on G6PD status,B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),tafenoquine,CPIC,Normal,"No reason to avoid based on G6PD status
+<h4 id=""other-considerations"">Other Considerations</h4>
+Tafenoquine’s safety has been established for a G6PD enzyme activity ≥70% of normal. (Inclusion criteria for clinical trials involving tafenoquine included G6PD activity ≥70%.)",B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+G6PD,B (reference)/B (reference),toluidine blue,CPIC,Normal,"No reason to avoid based on G6PD status
+<h4 id=""other-considerations"">Other Considerations</h4>
+Toluidine blue classification strength is based on extrapolation from methylene blue data",B (reference)/B (reference),G6PD,CPIC Guideline Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,"If patient is carbamazepine-naïve, do not use carbamazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*31:01/*31:01,HLA-A,CPIC Guideline Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,"The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (~4-28 days), and cases usually occur within three months of dosing; therefore, if the patient has previously used carbamazepine consistently for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of carbamazepine in the future.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*31:01/*31:01,HLA-A,CPIC Guideline Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,"If patient is carbamazepine-naïve, do not use carbamazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*31:01/*31:01,HLA-A,CPIC Guideline Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,"<ul>
+<li>Carefully weigh the risk of DRESS and SJS/TEN against the benefits.</li>
+<li>Avoid carbamazepine if an alternative is possible.</li>
+<li>If it is not possible to avoid carbamazepine, advise the patient to report any skin rash immediately.</li>
+</ul>",*31:01/*31:01,HLA-A,DPWG Guideline Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,"The Tegretol (carbamazepine) label states: &quot;The risks and benefits of Tegretol therapy should be weighed before considering Tegretol in patients known to be positive for HLA-A*3101.&quot; &quot;Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine. These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms&quot; See label for more information.",*31:01/*31:01,HLA-A,FDA Label Annotation
+HLA-A,*31:01/*31:01,carbamazepine,DPWG,*31:01 positive,&quot;Results in higher adverse reaction risk (severe skin reactions). Consider risk and benefit of carbamazepine use in patients positive for HLA-A*31:01. Genotyping is not a substitute for clinical vigilance.&quot;,*31:01/*31:01,HLA-A,FDA PGx Association
+HLA-B,*15:02/*57:01,abacavir,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",Abacavir is not recommended,*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,abacavir,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","Abacavir is contra-indicated for HLA-B*57:01-positive patients.
+<ol>
+<li>Avoid abacavir.</li>
+</ol>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,abacavir,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","&quot;All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with ZIAGEN [abacavir] or reinitiation of therapy with ZIAGEN, unless patients have a previously documented HLA-B*5701 allele assessment...ZIAGEN [abacavir] is contraindicated in patients: who have the HLA-B*5701 allele.&quot; See label for more information.",*15:02/*57:01,HLA-B,FDA Label Annotation
+HLA-B,*15:02/*57:01,abacavir,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Results in higher adverse reaction risk (hypersensitivity reactions). Do not use abacavir in patients positive for HLA-B*57:01.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+HLA-B,*15:02/*57:01,allopurinol,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",Use allopurinol per standard dosing guidelines,*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","If patient is carbamazepine-naïve, do not use carbamazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (~4-28 days), and cases usually occur within three months of dosing; therefore, if the patient has previously used carbamazepine consistently for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of carbamazepine in the future.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","If patient is carbamazepine-naïve, do not use carbamazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital. In addition to HLA-B*15:02, risk for carbamazepine-induced SJS/TEN has been reported in association with the most common B75 serotype alleles in Southeast Asia, HLA-B*15:08, HLA-B*15:11, and HLA-B*15:21. Although not described, the possibility of carbamazepine-induced SJS/TEN in association with less frequently carried B75 serotype alleles, such as HLA-B*15:30 and HLA-B*15:31, should also be considered.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","<ul>
+<li>Avoid carbamazepine.
+Phenytoin, lamotrigine and oxcarbazepine also pose an increased risk of SJS/TEN in these patients, but the final risk is 5-10-fold lower for these medicines than for carbamazepine. Furthermore, in the case of oxcarbazepine, the most severe forms (SJS/TEN overlap and TEN) have not been observed.</li>
+</ul>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Tegretol [carbamazepine] should not be used in patients positive for HLAB*1502 unless the benefits clearly outweigh the risks.&quot; See label for more information.,*15:02/*57:01,HLA-B,FDA Label Annotation
+HLA-B,*15:02/*57:01,carbamazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Results in higher adverse reaction risk (severe skin reactions). Avoid use unless potential benefits outweigh risks and consider risks of alternative therapies. Patients positive for HLA-B*15:02 may be at increased risk of severe skin reactions with other drugs that are associated with a risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Genotyping is not a substitute for clinical vigilance.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+HLA-B,*15:02/*57:01,flucloxacillin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","<ol>
+<li>Regularly monitor the patient’s liver function</li>
+<li>Choose an alternative if liver enzymes and/or bilirubin levels are elevated</li>
+</ol>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,fosphenytoin,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative","If patient is phenytoin-naive, do not use phenytoin/fosphenytoin. Avoid carbamazepine and oxcarbazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants, including eslicarbazepine, lamotrigine, and phenobarbital, have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,fosphenytoin,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative","If the patient has previously used phenytoin continuously for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of phenytoin in the future. The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (4-28 days), and cases usually occur within three months of dosing.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of phenytoin is not indicative of tolerance to other aromatic anticonvulsants.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,fosphenytoin,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Consider avoiding CEREBYX [fosphenytoin] as an alternative to carbamazepine in patients who are positive for HLA-B*1502 or in CYP2C9*3 carriers.&quot; See label for more information.,*15:02/*57:01,HLA-B,FDA Label Annotation
+HLA-B,*15:02/*57:01,fosphenytoin,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;May result in higher adverse reaction risk (severe cutaneous reactions). Patients positive for HLA-B*15:02 may be at increased risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Consider avoiding fosphenytoin as an alternative to carbamazepine in patients who are positive for HLA-B*15:02. Genotyping is not a substitute for clinical vigilance and patient management.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+HLA-B,*15:02/*57:01,lamotrigine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","<ul>
+<li>Carefully weigh the risk of SJS/TEN against the benefits.</li>
+<li>Avoid lamotrigine if an alternative is possible.
+Carbamazepine carries a much higher risk of SJS/TEN in these patients and is therefore not an alternative.
+A similar risk has been reported for phenytoin as for lamotrigine. The same applies to oxcarbazepine, but the most severe forms (SJS/TEN overlap and TEN) have not been observed with oxcarbazepine.</li>
+<li>If it is not possible to avoid lamotrigine, advise the patient to report any skin rash immediately.</li>
+</ul>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","If patient is oxcarbazepine-naïve, do not use oxcarbazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (~4-28 days), and cases usually occur within three months of dosing; therefore, if the patient has previously used oxcarbazepine consistently for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of oxcarbazepine in the future.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of oxcarbazepine is not indicative of tolerance to other aromatic anticonvulsants. Aromatic anticonvulsants include carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, fosphenytoin, and phenobarbital.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","<ul>
+<li>Carefully weigh the risk of SJS against the benefits.</li>
+<li>Avoid oxcarbazepine if an alternative is possible.
+<ul>
+<li>Carbamazepine carries a 10-fold higher risk of SJS/TEN in these patients and is therefore not an alternative.</li>
+<li>In these patients, phenytoin and lamotrigine carry a similar risk of SJS/TEN as oxcarbazepine, but more severe forms of SJS/TEN (SJS/TEN overlap and TEN) are also
+observed with these medicines. Therefore, they are also not suitable as alternatives.</li>
+</ul>
+</li>
+<li>If it is not possible to avoid oxcarbazepine, advise the patient to report any rash immediately</li>
+</ul>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.&quot; See label for more information.,*15:02/*57:01,HLA-B,FDA Label Annotation
+HLA-B,*15:02/*57:01,oxcarbazepine,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Results in higher adverse reaction risk (severe skin reactions). Patients positive for HLA-B*15:02 may be at increased risk of severe skin reactions with other drugs that are associated with a risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Genotyping is not a substitute for clinical vigilance.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+HLA-B,*15:02/*57:01,pazopanib,CPIC,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;May result in higher adverse reaction risk (liver enzyme elevations). Monitor liver function tests regardless of genotype.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","If patient is phenytoin-naive, do not use phenytoin/fosphenytoin. Avoid carbamazepine and oxcarbazepine.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Other aromatic anticonvulsants, including eslicarbazepine, lamotrigine, and phenobarbital, have weaker evidence linking SJS/TEN with the HLA-B*15:02 allele; however, caution should still be used in choosing an alternative agent.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","If the patient has previously used phenytoin continuously for longer than three months without incidence of cutaneous adverse reactions, cautiously consider use of phenytoin in the future. The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (4-28 days), and cases usually occur within three months of dosing.
+<h4 id=""other-considerations"">Other Considerations</h4>
+Previous tolerance of phenytoin is not indicative of tolerance to other aromatic anticonvulsants.",*15:02/*57:01,HLA-B,CPIC Guideline Annotation
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative","<ul>
+<li>Carefully weigh the risk of SJS/TEN against the benefits.</li>
+<li>Avoid phenytoin if an alternative is possible.
+<ul>
+<li>Carbamazepine carries a 10-fold higher risk of SJS/TEN for these patients and is therefore not an alternative.</li>
+<li>A comparable risk has been reported for lamotrigine as for phenytoin. The same applies for oxcarbazepine, but the most severe forms (SJS/TEN overlap and TEN) are not observed with oxcarbazepine.</li>
+</ul>
+</li>
+<li>If it is not possible to avoid phenytoin, advise the patient to report any skin rash
+immediately.</li>
+</ul>",*15:02/*57:01,HLA-B,DPWG Guideline Annotation
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;Consider avoiding DILANTIN [phenytoin] as an alternative to carbamazepine in patients who are positive for HLA-B*1502 or in CYP2C9*3 carriers.&quot; See label for more information.,*15:02/*57:01,HLA-B,FDA Label Annotation
+HLA-B,*15:02/*57:01,phenytoin,DPWG,"*15:02 positive,*57:01 positive,*58:01 negative",&quot;May result in higher adverse reaction risk (severe cutaneous reactions). Patients positive for HLA-B*15:02 may be at increased risk of Stevens Johnson Syndrome/Toxic Epidermal necrolysis (SJS/TEN). Consider avoiding phenytoin as an alternative to carbamazepine in patients who are positive for HLA-B*15:02. Genotyping is not a substitute for clinical vigilance and patient management.&quot;,*15:02/*57:01,HLA-B,FDA PGx Association
+NUDT15,*1/*1,azathioprine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 2-3 mg/kg/day) and adjust doses of azathioprine based on disease-specific guidelines. Allow 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 11302950, 15606506).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,NUDT15,CPIC Guideline Annotation
+NUDT15,*1/*1,azathioprine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for azathioprine in normal metabolizers,*1/*1,NUDT15,DPWG Guideline Annotation
+NUDT15,*1/*1,mercaptopurine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 75 mg/m2/day or 1.5 mg/kg/day) and adjust doses of mercaptopurine (and of any other myelosuppressive therapy) without any special emphasis on mercaptopurine compared to other agents. Allow at least 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 16401827, 11302950).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,NUDT15,CPIC Guideline Annotation
+NUDT15,*1/*1,mercaptopurine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for mercaptopurine in normal metabolizers,*1/*1,NUDT15,DPWG Guideline Annotation
+NUDT15,*1/*1,thioguanine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 40-60 mg/m2/day) and adjust doses of thioguanine and of other myelosuppressive therapy without any special emphasis on thioguanine. Allow 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 11037857).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,NUDT15,CPIC Guideline Annotation
+NUDT15,*1/*1,thioguanine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for thioguanine in normal metabolizers,*1/*1,NUDT15,DPWG Guideline Annotation
+RYR1,c.11266C>G (heterozygous),desflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),desflurane,CPIC,Uncertain Susceptibility,"&quot;The use of SUPRANE [desflurane] is contraindicated in...[cases of k]nown or suspected genetic susceptibility to malignant hyperthermia...SUPRANE [desflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.  &quot; See label for more information.",c.11266C>G (heterozygous),RYR1,FDA Label Annotation
+RYR1,c.11266C>G (heterozygous),enflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),halothane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),isoflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),isoflurane,CPIC,Uncertain Susceptibility,"&quot;CONTRAINDICATIONS...with known or suspected genetic susceptibility to malignant hyperthermia...FORANE [isoflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.&quot; See label for more information.",c.11266C>G (heterozygous),RYR1,FDA Label Annotation
+RYR1,c.11266C>G (heterozygous),methoxyflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),sevoflurane,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),sevoflurane,CPIC,Uncertain Susceptibility,"&quot;CONTRAINDICATIONS: Known or suspected genetic susceptibility to malignant hyperthermia...ULTANE [sevoflurane] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants.&quot; See label for more information.",c.11266C>G (heterozygous),RYR1,FDA Label Annotation
+RYR1,c.11266C>G (heterozygous),succinylcholine,CPIC,Uncertain Susceptibility,"Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.",c.11266C>G (heterozygous),RYR1,CPIC Guideline Annotation
+RYR1,c.11266C>G (heterozygous),succinylcholine,CPIC,Uncertain Susceptibility,"&quot;ANECTINE [succinylcholine] is contraindicated in patients with...[k]nown or suspected genetic susceptibility to malignant hyperthermia...Anectine [succinylcholine] can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants...Succinylcholine is metabolized by plasma cholinesterase and should be used with caution, if at all, in patients known to be or suspected of being homozygous for the atypical plasma cholinesterase gene [BCHE] .&quot; See label for more information.",c.11266C>G (heterozygous),RYR1,FDA Label Annotation
+SLCO1B1,*15/*15,atorvastatin,DPWG,Poor Function,"Prescribe ≤20mg as a starting dose and adjust doses of atorvastatin based on disease-specific guidelines. If dose &gt;20mg is needed for desired efficacy, consider rosuvastatin or combination therapy (i.e., atorvastatin plus non-statin guideline directed medical therapy) (PMID: 30423391).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,atorvastatin,DPWG,Poor Function,"<ul>
+<li>Patient has ADDITIONAL SIGNIFICANT RISK FACTORS for statin-induced myopathy:</li>
+</ul>
+<ol>
+<li>Choose an alternative.
+Rosuvastatin and pravastatin are influenced to a similar extent by the SLCO1B1 gene variation, but are not influenced by CYP3A4 inhibitors such as amiodarone, verapamil and diltiazem. Fluvastatin is not influenced significantly by the SLCO1B1 gene variation or CYP3A4 inhibitors.</li>
+<li>If an alternative is not an option: keep the atorvastatin dose as low as possible (e.g. by adding ezetimibe)</li>
+<li>advise the patient to report muscle symptoms.</li>
+</ol>
+<ul>
+<li>Patient has NO additional significant risk factors for statin-induced myopathy:</li>
+</ul>
+<ol>
+<li>advise the patient to report muscle symptoms.</li>
+</ol>",*15/*15,SLCO1B1,DPWG Guideline Annotation
+SLCO1B1,*15/*15,atorvastatin,DPWG,Poor Function,&quot;May result in higher systemic concentrations.&quot;,*15/*15,SLCO1B1,FDA PGx Association
+SLCO1B1,*15/*15,elagolix,CPIC,Poor Function,&quot;Results in higher systemic concentrations.&quot;,*15/*15,SLCO1B1,FDA PGx Association
+SLCO1B1,*15/*15,fluvastatin,CPIC,Poor Function,"Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If patient is tolerating 40mg per day but higher potency is needed, a higher dose (&gt;40mg) or an alternative statin or combination therapy (i.e. fluvastatin plus non-statin guideline directed medical therapy) (PMID: 30423391) could be considered. Prescriber should be aware of possible increased risk for myopathy with fluvastatin especially with doses &gt;40mg per day.
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,lovastatin,CPIC,Poor Function,"Prescribe an alternative statin depending on the desired potency (see Figure 1 of PMID: 35152405 for recommendations for alternative statins).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,pitavastatin,CPIC,Poor Function,"Prescribe ≤1mg as a starting dose and adjust doses of pitavastatin based on disease-specific guidelines. If dose &gt;1mg needed for desired efficacy, consider an alternative statin (see Figure 1 of PMID: 35152405 for recommendations for alternative statins) or combination therapy (i.e. pitavastatin plus non-statin guideline directed medical therapy)(PMID: 30423391).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,pravastatin,CPIC,Poor Function,"Prescribe ≤40mg as a starting dose and adjust doses of pravastatin based on disease-specific guidelines. If patient is tolerating 40mg dose but higher potency is needed, a higher dose (&gt;40mg) or an alternative statin (see Figure 1 of of PMID: 35152405 for recommendations for alternative statins) or combination therapy (i.e. pravastatin plus non-statin guideline directed medical therapy)(PMID: 30423391) could be considered. Prescriber should be aware of possible increased risk for myopathy especially with pravastatin doses &gt;40mg.
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,rosuvastatin,DPWG,Poor Function,"Prescribe ≤20mg as a starting dose and adjust doses of rosuvastatin based on disease-specific and specific population guidelines. If dose &gt; 20mg needed for desired efficacy, consider combination therapy (i.e., rosuvastatin plus non-statin guideline directed medical therapy) (PMID: 30423391).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function and Asian ancestry should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,rosuvastatin,DPWG,Poor Function,"Patient has ADDITIONAL SIGNIFICANT RISK FACTORS for statin-induced myopathy:
+<ol>
+<li>keep the rosuvastatin dose as low as possible (e.g. by adding ezetimibe)</li>
+<li>advise the patient to report muscle symptoms</li>
+</ol>
+Patient has NO additional significant risk factors for statin-induced myopathy:
+<ol>
+<li>advise the patient to report muscle symptoms</li>
+</ol>",*15/*15,SLCO1B1,DPWG Guideline Annotation
+SLCO1B1,*15/*15,rosuvastatin,DPWG,Poor Function,&quot;Results in higher systemic concentrations.&quot;,*15/*15,SLCO1B1,FDA PGx Association
+SLCO1B1,*15/*15,simvastatin,DPWG,Poor Function,"Prescribe an alternative statin depending on the desired potency (see Figure 1 of PMID: 35152405 for recommendations for alternative statins).
+<h4 id=""other-considerations"">Other Considerations</h4>
+The potential for drug-drug interactions and dose limits based on renal and hepatic function should be evaluated prior to initiating a statin. The effects of drug-drug interactions may be more pronounced resulting in a higher risk of myopathy.",*15/*15,SLCO1B1,CPIC Guideline Annotation
+SLCO1B1,*15/*15,simvastatin,DPWG,Poor Function,"<ol>
+<li>Choose an alternative.
+Consider any additional risk factors for statin-induced myopathy.
+Atorvastatin is affected less severely by the SLCO1B1 gene variation, but is also affected by CYP3A4 inhibitors such as amiodarone, verapamil and diltiazem. Use of atorvastatin is not recommended for patients with additional risk factors for statin-induced myopathy.
+Rosuvastatin and pravastatin are influenced to a lesser extent by the SLCO1B1 gene variation. They are also not influenced by CYP3A4 inhibitors such as amiodarone, verapamil and diltiazem.
+Fluvastatin is not significantly influenced by the SLCO1B1 gene variation or CYP3A4 inhibitors.</li>
+</ol>",*15/*15,SLCO1B1,DPWG Guideline Annotation
+SLCO1B1,*15/*15,simvastatin,DPWG,Poor Function,&quot;Results in higher systemic concentrations and higher adverse reaction risk (myopathy). The risk of adverse reaction (myopathy) is higher for patients on 80 mg than for those on lower doses.&quot;,*15/*15,SLCO1B1,FDA PGx Association
+TPMT,*1/*1,azathioprine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 2-3 mg/kg/day) and adjust doses of azathioprine based on disease-specific guidelines. Allow 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 11302950, 15606506).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,TPMT,CPIC Guideline Annotation
+TPMT,*1/*1,azathioprine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for azathioprine in normal metabolizers.,*1/*1,TPMT,DPWG Guideline Annotation
+TPMT,*1/*1,mercaptopurine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 75 mg/m2/day or 1.5 mg/kg/day) and adjust doses of mercaptopurine (and of any other myelosuppressive therapy) without any special emphasis on mercaptopurine compared to other agents. Allow at least 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 16401827, 11302950).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,TPMT,CPIC Guideline Annotation
+TPMT,*1/*1,mercaptopurine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for mercaptopurine in normal metabolizers.,*1/*1,TPMT,DPWG Guideline Annotation
+TPMT,*1/*1,thioguanine,DPWG,Normal Metabolizer,"Start with normal starting dose (e.g., 40-60 mg/m2/day) and adjust doses of thioguanine and of other myelosuppressive therapy without any special emphasis on thioguanine. Allow 2 weeks to reach steady-state after each dose adjustment (PMID 20354201, 11037857).
+<h4 id=""other-considerations"">Other Considerations</h4>
+Normal starting doses vary by race/ethnicity and treatment regimens. If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.",*1/*1,TPMT,CPIC Guideline Annotation
+TPMT,*1/*1,thioguanine,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for thioguanine in normal metabolizers.,*1/*1,TPMT,DPWG Guideline Annotation
+UGT1A1,*1/*1,atazanavir,CPIC,Normal Metabolizer,"There is no need to avoid prescribing of atazanavir based on UGT1A1 genetic test result. Inform the patient that some patients stop atazanavir because of jaundice (yellow eyes and skin), but that this patient’s genotype makes this unlikely (less than about a 1 in 20 chance of stopping atazanavir because of jaundice).
+<h4 id=""other-considerations"">Other Considerations</h4>
+All studies correlating UGT1A1 genotypes with atazanavir adverse events have involved ritonavir boosting. However, concentration-time profiles are equivalent when boosted with either cobicistat or ritonavir (PMID 23532097), and bilirubin-related adverse events including discontinuation of atazanavir occur in a similar percentage of patients prescribed atazanavir with cobicistat or ritonavir (PMID 23532097). Associations between UGT1A1 genotype, bilirubin elevations, and atazanavir/r discontinuation therefore almost certainly translate to atazanavir/cobicistat. &quot;reference&quot; function refers to the UGT1A1 allele to which other alleles are compared.",*1/*1,UGT1A1,CPIC Guideline Annotation
+UGT1A1,*1/*1,irinotecan,DPWG,Normal Metabolizer,The guideline does not provide a recommendation for irinotecan in normal metabolizers,*1/*1,UGT1A1,DPWG Guideline Annotation
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),acenocoumarol,DPWG,-1639 AA,"Monitoring by the ANTICOAGULATION CLINIC (National INR Monitoring Service):
+<ul>
+<li>recommend to use 50% of the standard initial dose</li>
+</ul>
+OTHERWISE:
+<ul>
+<li>recommend to use 50% of the standard initial dose</li>
+<li>recommend more frequent monitoring of the INR</li>
+</ul>",rs9923231 variant (T)/rs9923231 variant (T),VKORC1,DPWG Guideline Annotation
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),phenprocoumon,DPWG,-1639 AA,"Monitoring by a ANTICOAGULATION CLINIC:
+<ul>
+<li>recommend to use 50% of the standard initial dose</li>
+</ul>
+NO monitoring by a anticoagulation clinic:
+<ul>
+<li>recommend to use 50% of the standard initial dose</li>
+<li>recommend more frequent monitoring of the INR</li>
+</ul>",rs9923231 variant (T)/rs9923231 variant (T),VKORC1,DPWG Guideline Annotation
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),warfarin,DPWG,-1639 AA,,rs9923231 variant (T)/rs9923231 variant (T),VKORC1,CPIC Guideline Annotation
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),warfarin,DPWG,-1639 AA,"Use 60% of the standard initial dose.
+The genotype-specific initial dose and maintenance dose can be calculated using an algorithm, as used in EU-PACT: see
+https://www.knmp.nl/patientenzorg/medicatiebewaking/farmacogenetica.
+From day 6 on the standard algorithm without genotype information can be used to calculate the dose.",rs9923231 variant (T)/rs9923231 variant (T),VKORC1,DPWG Guideline Annotation
+VKORC1,rs9923231 variant (T)/rs9923231 variant (T),warfarin,DPWG,-1639 AA,"Table 1 in the drug label provides ranges of expected maintenance daily doses of warfarin (COUMADIN) based on CYP2C9*2, CYP2C9*3 and VKORC1−1639G&gt;A (rs9923231) genotypes. For CYP2C9*1/*1, VKORC1 AA (rs9923231 TT), the range of expected maintenance daily dose is 3-4 mg.",rs9923231 variant (T)/rs9923231 variant (T),VKORC1,FDA Label Annotation
+CYP2C19,*1/*1,abrocitinib,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,abrocitinib,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,belzutifan,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,belzutifan,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,brivaracetam,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,brivaracetam,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,carisoprodol,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,carisoprodol,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,clobazam,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,clobazam,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,diazepam,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,esomeprazole,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,flibanserin,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C19,*1/*1,flibanserin,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,mavacamten,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C19,*1/*1,rabeprazole,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C9,*1/*1,avatrombopag,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C9,*1/*1,deuruxolitinib,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C9,*1/*1,dronabinol,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C9,*1/*1,dronabinol,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C9,*1/*1,erdafitinib,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C9,*1/*1,erdafitinib,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2C9,*1/*1,lesinurad,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+CYP2C9,*1/*1,nateglinide,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,acetaminophen / caffeine / dihydrocodeine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,amphetamine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,aripiprazole lauroxil,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,aripiprazole lauroxil,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,carvedilol,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,cevimeline,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,cevimeline,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,clozapine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,clozapine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,darifenacin,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,deutetrabenazine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,deutetrabenazine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,dextromethorphan / quinidine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,dextromethorphan hydrobromide / bupropion hydrochloride,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,donepezil,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,fesoterodine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,fluoxetine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,galantamine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,gefitinib,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,gefitinib,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,iloperidone,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,iloperidone,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,lofexidine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,lofexidine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,metoclopramide,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,metoclopramide,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,mirabegron,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,nebivolol,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,oliceridine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,oliceridine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,perphenazine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,pitolisant,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,pitolisant,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,propranolol,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,protriptyline,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,tamsulosin,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,tamsulosin,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,tolterodine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,valbenazine,CPIC,Intermediate Metabolizer,.,.,.,FDA Label Annotation
+CYP2D6,*1/*3,valbenazine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+CYP2D6,*1/*3,viloxazine,CPIC,Intermediate Metabolizer,.,.,.,FDA PGx Association
+G6PD,B (reference)/B (reference),articaine / epinephrine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),bupivacaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),chloroquine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),chlorpropamide,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),dabrafenib,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),flutamide,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),glimepiride,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),glipizide,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),glyburide,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),hydroxychloroquine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),lidocaine / prilocaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),lidocaine and tetracaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),mepivacaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),moviprep,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),nalidixic acid,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),oxymetazoline and tetracaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),ropivacaine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),sodium ascorbate,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),sodium nitrite,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),sulfasalazine,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),tolazamide,CPIC,Normal,.,.,.,FDA Label Annotation
+G6PD,B (reference)/B (reference),tolbutamide,CPIC,Normal,.,.,.,FDA Label Annotation
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),peginterferon alfa-2a,CPIC,n/a,.,.,.,CPIC Guideline Annotation
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),peginterferon alfa-2b,CPIC,n/a,.,.,.,CPIC Guideline Annotation
+IFNL3,rs12979860 reference (C)/rs12979860 reference (C),ribavirin,CPIC,n/a,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,amikacin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,amikacin,CPIC,No Result,.,.,.,FDA Label Annotation
+MT-RNR1,Unknown,dibekacin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,gentamicin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,gentamicin,CPIC,No Result,.,.,.,FDA Label Annotation
+MT-RNR1,Unknown,kanamycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,neomycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,netilmicin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,paromomycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,plazomicin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,plazomicin,CPIC,No Result,.,.,.,FDA Label Annotation
+MT-RNR1,Unknown,ribostamycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,streptomycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,streptomycin,CPIC,No Result,.,.,.,FDA Label Annotation
+MT-RNR1,Unknown,tobramycin,CPIC,No Result,.,.,.,CPIC Guideline Annotation
+MT-RNR1,Unknown,tobramycin,CPIC,No Result,.,.,.,FDA Label Annotation
+UGT1A1,*1/*1,belinostat,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+UGT1A1,*1/*1,belinostat,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+UGT1A1,*1/*1,dolutegravir,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+UGT1A1,*1/*1,nilotinib,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+UGT1A1,*1/*1,pazopanib,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+UGT1A1,*1/*1,raltegravir,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association
+UGT1A1,*1/*1,sacituzumab govitecan,CPIC,Normal Metabolizer,.,.,.,FDA Label Annotation
+UGT1A1,*1/*1,sacituzumab govitecan,CPIC,Normal Metabolizer,.,.,.,FDA PGx Association

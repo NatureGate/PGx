@@ -167,10 +167,10 @@ def prepare_variant_msg(intersect_file, prepharmcat_file):
     )
     prepharmcat_data = pd.read_csv(prepharmcat_file, sep='\t',dtype=str)
     prepharmcat_data['PX'] = prepharmcat_data['INFO'].str.extract(r'PX=([^;]+)')
-    # prepharmcat_data['cHGVS'] = 'test'
-    # prepharmcat_data['pHGVS'] = 'test'
-    prepharmcat_data['cHGVS'] = prepharmcat_data['INFO'].str.split('|').str[9]
-    prepharmcat_data['pHGVS'] = prepharmcat_data['INFO'].str.split('|').str[10]
+    prepharmcat_data['cHGVS'] = 'test'
+    prepharmcat_data['pHGVS'] = 'test'
+    # prepharmcat_data['cHGVS'] = prepharmcat_data['INFO'].str.split('|').str[9]
+    # prepharmcat_data['pHGVS'] = prepharmcat_data['INFO'].str.split('|').str[10]
     df['gene'] = prepharmcat_data['PX']
     df['rsid'] = prepharmcat_data['ID']
     df['cHGVS'] = prepharmcat_data['cHGVS']
@@ -199,8 +199,6 @@ if __name__ == '__main__':
     parser.add_argument("-outcall_file", type=str,help="pharcat outcall file",default='data/test_new_outcall.tsv')
     parser.add_argument("-intersect_file", type=str,help="pharmcat pipeline inputfile",default='data/intersect.csv')
     parser.add_argument("-prepharmcat_file", type=str,help="",default='data/annotated.csv')
-    parser.add_argument("-short_guide_file_path", type=str,help="",default='pg_results/drug_details_1107_zw.xlsx')
-    parser.add_argument("-drug_name_path", type=str,help="chinese name",default='')
     parser.add_argument("-sample_id", type=str,help="",default='Test')
     args = parser.parse_args()
     print(f"args:{args}")
@@ -243,13 +241,6 @@ if __name__ == '__main__':
         'rsid': 'rsID',
         'location': 'location'
     })
-    known_type_gene_table = get_short_guide(merged_df,args.short_guide_file_path,args.drug_name_path)
-    # 读取药物中文名称映射文件
-    drug_details_df = pd.read_excel(args.short_guide_file_path, usecols=['id', '药物中文名称'])
-    # 建立 药物中文名称 -> id 的映射字典
-    name_to_id_map = dict(zip(drug_details_df['药物中文名称'], drug_details_df['id']))
-    # 使用map方法将drug_id列替换为对应的中文名称id
-    known_type_gene_table['drug_id'] = known_type_gene_table['drug'].map(name_to_id_map)
-    # known_type_gene_table.to_csv(f'{args.sample_id}.drug.tsv',index=False)
-    known_type_gene_table.to_csv(f'{args.sample_id}.drug.tsv',index=False)
+    known_type_gene_table = get_short_guide(merged_df)
+    known_type_gene_table.to_csv(f'{args.sample_id}_drug.tsv',index=False)
     
