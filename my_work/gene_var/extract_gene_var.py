@@ -32,7 +32,7 @@ for file_path in folder.glob("*_allele_definition_table.xlsx"):
     protein_change_row = df.iloc[2, 1:]  # 从第2列开始
     
     #6. 基因变化行（第四行，从第二列开始）
-    gene_change_row = df.iloc[3, 1:]  # 从第2列开始
+    gene_change_row = df.iloc[1, 1:]  # 从第2列开始
     # 5. 遍历每一列（从第2列开始）
     for col_idx in range(1, df.shape[1]):
         rs_id = str(rs_row.iloc[col_idx - 1]).strip()
@@ -76,5 +76,5 @@ for file_path in folder.glob("*_allele_definition_table.xlsx"):
     print(f"Finished processing {gene}")
 # 7. 写出 Excel
 out_df = pd.DataFrame(records, columns=["Gene", "rsID", "Variant", "Ref", "Haplotype", "ProteinChange", "GeneChange"])
-out_df.to_excel("gene_var/all_variants.xlsx", index=False)
-print("结果已保存为 gene_var/all_variants.xlsx")
+out_df.to_excel("gene_var/all_variants_1206.xlsx", index=False)
+print("结果已保存为 gene_var/all_variants_1206.xlsx")
